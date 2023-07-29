@@ -16,8 +16,7 @@ deb_94 <- read_excel("inputs/data/deb_votos_82_14.xlsx",
 deb_94 %>% 
   pivot_longer(cols = PMDB:PTdoB, names_to = "partido", values_to = "votos") %>% 
   drop_na(votos)  -> v94 
-v94 %>% 
-  add_column(ANO_ELEICAO = 1994) -> v94
+v94 %>% add_column(ANO_ELEICAO = 1994) -> v94
 
 ### 1998-2018 (dados do cepesp: agregação para todo o período) 
 cepesp <- read_csv("inputs/data/TSE_DEPUTADO_FEDERAL_UF_PARTIDO_2018_2014_2010_2006_2002_1998.csv") 

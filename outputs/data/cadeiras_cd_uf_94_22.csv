@@ -1,0 +1,4678 @@
+ESTADOS,partido,cadeiras,ANO_ELEICAO,ambito
+Rondônia,PMDB,5,1986,cadeira
+Rondônia,PFL,3,1986,cadeira
+Acre,PMDB,5,1986,cadeira
+Acre,PFL,1,1986,cadeira
+Acre,PDS,2,1986,cadeira
+Amazonas,PMDB,3,1986,cadeira
+Amazonas,PFL,3,1986,cadeira
+Amazonas,PDT,1,1986,cadeira
+Amazonas,PSB,1,1986,cadeira
+Roraima,PFL,2,1986,cadeira
+Roraima,PTB,2,1986,cadeira
+Pará,PMDB,13,1986,cadeira
+Pará,PFL,2,1986,cadeira
+Pará,PDS,2,1986,cadeira
+Amapá,PMDB,1,1986,cadeira
+Amapá,PFL,3,1986,cadeira
+Maranhão,PMDB,8,1986,cadeira
+Maranhão,PFL,8,1986,cadeira
+Maranhão,PDS,2,1986,cadeira
+Piauí,PMDB,2,1986,cadeira
+Piauí,PFL,5,1986,cadeira
+Piauí,PDS,3,1986,cadeira
+Ceará,PMDB,12,1986,cadeira
+Ceará,PFL,6,1986,cadeira
+Ceará,PDS,3,1986,cadeira
+Ceará,PDT,1,1986,cadeira
+R. G. do Norte,PMDB,4,1986,cadeira
+R. G. do Norte,PFL,3,1986,cadeira
+R. G. do Norte,PDS,1,1986,cadeira
+Paraíba,PMDB,7,1986,cadeira
+Paraíba,PFL,4,1986,cadeira
+Paraíba,PDS,1,1986,cadeira
+Pernambuco,PMDB,13,1986,cadeira
+Pernambuco,PFL,11,1986,cadeira
+Pernambuco,PCB,1,1986,cadeira
+Alagoas,PMDB,4,1986,cadeira
+Alagoas,PFL,4,1986,cadeira
+Alagoas,PTB,1,1986,cadeira
+Sergipe,PMDB,3,1986,cadeira
+Sergipe,PFL,4,1986,cadeira
+Sergipe,PDS,1,1986,cadeira
+Bahia,PMDB,22,1986,cadeira
+Bahia,PFL,14,1986,cadeira
+Bahia,PCB,1,1986,cadeira
+Bahia,PC do B,2,1986,cadeira
+Minas Gerais,PMDB,35,1986,cadeira
+Minas Gerais,PFL,10,1986,cadeira
+Minas Gerais,PDS,3,1986,cadeira
+Minas Gerais,PDT,1,1986,cadeira
+Minas Gerais,PTB,1,1986,cadeira
+Minas Gerais,PT,3,1986,cadeira
+Espírito Santo,PMDB,7,1986,cadeira
+Espírito Santo,PFL,2,1986,cadeira
+Espírito Santo,PT,1,1986,cadeira
+Rio de Janeiro,PMDB,13,1986,cadeira
+Rio de Janeiro,PFL,7,1986,cadeira
+Rio de Janeiro,PDS,1,1986,cadeira
+Rio de Janeiro,PDT,13,1986,cadeira
+Rio de Janeiro,PTB,3,1986,cadeira
+Rio de Janeiro,PT,2,1986,cadeira
+Rio de Janeiro,PL,5,1986,cadeira
+Rio de Janeiro,PDC,1,1986,cadeira
+Rio de Janeiro,PC do B,1,1986,cadeira
+São Paulo,PMDB,28,1986,cadeira
+São Paulo,PFL,6,1986,cadeira
+São Paulo,PDS,4,1986,cadeira
+São Paulo,PDT,2,1986,cadeira
+São Paulo,PTB,9,1986,cadeira
+São Paulo,PT,8,1986,cadeira
+São Paulo,PL,1,1986,cadeira
+São Paulo,PDC,1,1986,cadeira
+São Paulo,PSC,1,1986,cadeira
+Paraná,PMDB,24,1986,cadeira
+Paraná,PFL,5,1986,cadeira
+Paraná,PDT,1,1986,cadeira
+Santa Catarina,PMDB,9,1986,cadeira
+Santa Catarina,PFL,3,1986,cadeira
+Santa Catarina,PDS,4,1986,cadeira
+R. G. do Sul,PMDB,17,1986,cadeira
+R. G. do Sul,PFL,2,1986,cadeira
+R. G. do Sul,PDS,5,1986,cadeira
+R. G. do Sul,PDT,5,1986,cadeira
+R. G. do Sul,PT,2,1986,cadeira
+M. G. do Sul,PMDB,4,1986,cadeira
+M. G. do Sul,PFL,3,1986,cadeira
+M. G. do Sul,PTB,1,1986,cadeira
+Mato Grosso,PMDB,5,1986,cadeira
+Mato Grosso,PFL,2,1986,cadeira
+Mato Grosso,PDS,1,1986,cadeira
+Goiás,PMDB,12,1986,cadeira
+Goiás,PFL,2,1986,cadeira
+Goiás,PDC,3,1986,cadeira
+Distrito Federal,PMDB,4,1986,cadeira
+Distrito Federal,PFL,3,1986,cadeira
+Distrito Federal,PCB,1,1986,cadeira
+Rondônia,PDT,1,1990,cadeira
+Rondônia,PTB,7,1990,cadeira
+Acre,PMDB,5,1990,cadeira
+Acre,PDS,3,1990,cadeira
+Amazonas,PMDB,2,1990,cadeira
+Amazonas,PFL,2,1990,cadeira
+Amazonas,PDT,1,1990,cadeira
+Amazonas,PT,1,1990,cadeira
+Amazonas,PDC,2,1990,cadeira
+Roraima,PMDB,1,1990,cadeira
+Roraima,PFL,1,1990,cadeira
+Roraima,PDS,2,1990,cadeira
+Roraima,PTB,3,1990,cadeira
+Roraima,PDC,1,1990,cadeira
+Pará,PMDB,6,1990,cadeira
+Pará,PFL,1,1990,cadeira
+Pará,PDT,1,1990,cadeira
+Pará,PDS,2,1990,cadeira
+Pará,PTB,4,1990,cadeira
+Pará,PT,2,1990,cadeira
+Pará,PC do B,1,1990,cadeira
+Amapá,PFL,4,1990,cadeira
+Amapá,PDT,1,1990,cadeira
+Amapá,PTB,1,1990,cadeira
+Amapá,PT,1,1990,cadeira
+Amapá,PSC,1,1990,cadeira
+Tocantins,PMDB,2,1990,cadeira
+Tocantins,PRN,1,1990,cadeira
+Tocantins,PSDB,1,1990,cadeira
+Tocantins,PDC,4,1990,cadeira
+Maranhão,PMDB,1,1990,cadeira
+Maranhão,PFL,7,1990,cadeira
+Maranhão,PDT,1,1990,cadeira
+Maranhão,PDS,1,1990,cadeira
+Maranhão,PRN,2,1990,cadeira
+Maranhão,PSDB,1,1990,cadeira
+Maranhão,PDC,3,1990,cadeira
+Maranhão,PSB,1,1990,cadeira
+Maranhão,PSC,1,1990,cadeira
+Piauí,PMDB,2,1990,cadeira
+Piauí,PFL,5,1990,cadeira
+Piauí,PDS,2,1990,cadeira
+Piauí,PSDB,1,1990,cadeira
+Ceará,PMDB,4,1990,cadeira
+Ceará,PFL,4,1990,cadeira
+Ceará,PDT,2,1990,cadeira
+Ceará,PDS,2,1990,cadeira
+Ceará,PSDB,7,1990,cadeira
+Ceará,PDC,1,1990,cadeira
+Ceará,PSB,2,1990,cadeira
+R. G. do Norte,PMDB,3,1990,cadeira
+R. G. do Norte,PFL,3,1990,cadeira
+R. G. do Norte,PRN,1,1990,cadeira
+R. G. do Norte,PSDB,1,1990,cadeira
+Paraíba,PMDB,4,1990,cadeira
+Paraíba,PFL,3,1990,cadeira
+Paraíba,PDT,3,1990,cadeira
+Paraíba,PRN,2,1990,cadeira
+Pernambuco,PMDB,4,1990,cadeira
+Pernambuco,PFL,11,1990,cadeira
+Pernambuco,PRN,3,1990,cadeira
+Pernambuco,PSB,5,1990,cadeira
+Pernambuco,PC do B,1,1990,cadeira
+Pernambuco,PCB,1,1990,cadeira
+Alagoas,PFL,1,1990,cadeira
+Alagoas,PDT,1,1990,cadeira
+Alagoas,PRN,2,1990,cadeira
+Alagoas,PTB,1,1990,cadeira
+Alagoas,PSC,4,1990,cadeira
+Sergipe,PFL,4,1990,cadeira
+Sergipe,PDS,2,1990,cadeira
+Sergipe,PRN,1,1990,cadeira
+Sergipe,PMN,1,1990,cadeira
+Bahia,PMDB,8,1990,cadeira
+Bahia,PFL,11,1990,cadeira
+Bahia,PDT,4,1990,cadeira
+Bahia,PDS,1,1990,cadeira
+Bahia,PRN,3,1990,cadeira
+Bahia,PTB,2,1990,cadeira
+Bahia,PSDB,2,1990,cadeira
+Bahia,PT,2,1990,cadeira
+Bahia,PDC,3,1990,cadeira
+Bahia,PL,1,1990,cadeira
+Bahia,PSB,1,1990,cadeira
+Bahia,PC do B,1,1990,cadeira
+Minas Gerais,PMDB,14,1990,cadeira
+Minas Gerais,PFL,6,1990,cadeira
+Minas Gerais,PDS,2,1990,cadeira
+Minas Gerais,PRN,6,1990,cadeira
+Minas Gerais,PTB,3,1990,cadeira
+Minas Gerais,PSDB,6,1990,cadeira
+Minas Gerais,PT,6,1990,cadeira
+Minas Gerais,PDC,1,1990,cadeira
+Minas Gerais,PL,4,1990,cadeira
+Minas Gerais,PSB,1,1990,cadeira
+Minas Gerais,PRS,4,1990,cadeira
+Espirito Santo,PMDB,6,1990,cadeira
+Espirito Santo,PSDB,3,1990,cadeira
+Espirito Santo,PL,1,1990,cadeira
+Rio de Janeiro,PMDB,2,1990,cadeira
+Rio de Janeiro,PFL,5,1990,cadeira
+Rio de Janeiro,PDT,19,1990,cadeira
+Rio de Janeiro,PDS,2,1990,cadeira
+Rio de Janeiro,PRN,2,1990,cadeira
+Rio de Janeiro,PTB,4,1990,cadeira
+Rio de Janeiro,PSDB,1,1990,cadeira
+Rio de Janeiro,PT,3,1990,cadeira
+Rio de Janeiro,PDC,2,1990,cadeira
+Rio de Janeiro,PL,2,1990,cadeira
+Rio de Janeiro,PSB,1,1990,cadeira
+Rio de Janeiro,PC do B,1,1990,cadeira
+Rio de Janeiro,PCB,1,1990,cadeira
+Rio de Janeiro,PTR,1,1990,cadeira
+São Paulo,PMDB,12,1990,cadeira
+São Paulo,PFL,1,1990,cadeira
+São Paulo,PDT,2,1990,cadeira
+São Paulo,PDS,7,1990,cadeira
+São Paulo,PRN,6,1990,cadeira
+São Paulo,PTB,6,1990,cadeira
+São Paulo,PSDB,9,1990,cadeira
+São Paulo,PT,10,1990,cadeira
+São Paulo,PDC,1,1990,cadeira
+São Paulo,PL,5,1990,cadeira
+São Paulo,PC do B,1,1990,cadeira
+Paraná,PMDB,7,1990,cadeira
+Paraná,PFL,4,1990,cadeira
+Paraná,PDT,2,1990,cadeira
+Paraná,PRN,8,1990,cadeira
+Paraná,PTB,2,1990,cadeira
+Paraná,PSDB,4,1990,cadeira
+Paraná,PT,3,1990,cadeira
+Santa Catarina,PMDB,5,1990,cadeira
+Santa Catarina,PFL,3,1990,cadeira
+Santa Catarina,PDT,1,1990,cadeira
+Santa Catarina,PDS,5,1990,cadeira
+Santa Catarina,PT,1,1990,cadeira
+Santa Catarina,PL,1,1990,cadeira
+R. G. do Sul,PMDB,9,1990,cadeira
+R. G. do Sul,PFL,1,1990,cadeira
+R. G. do Sul,PDT,7,1990,cadeira
+R. G. do Sul,PDS,9,1990,cadeira
+R. G. do Sul,PSDB,1,1990,cadeira
+R. G. do Sul,PT,4,1990,cadeira
+M. G. do Sul,PMDB,1,1990,cadeira
+M. G. do Sul,PFL,1,1990,cadeira
+M. G. do Sul,PRN,1,1990,cadeira
+M. G. do Sul,PTB,3,1990,cadeira
+M. G. do Sul,PST,2,1990,cadeira
+Mato Grosso,PFL,3,1990,cadeira
+Mato Grosso,PDS,1,1990,cadeira
+Mato Grosso,PTB,2,1990,cadeira
+Mato Grosso,PL,2,1990,cadeira
+Goiás,PMDB,10,1990,cadeira
+Goiás,PDS,1,1990,cadeira
+Goiás,PRN,1,1990,cadeira
+Goiás,PDC,4,1990,cadeira
+Goiás,PSD,1,1990,cadeira
+Distrito Federal,PFL,2,1990,cadeira
+Distrito Federal,PRN,1,1990,cadeira
+Distrito Federal,PSDB,1,1990,cadeira
+Distrito Federal,PT,2,1990,cadeira
+Distrito Federal,PCB,1,1990,cadeira
+Distrito Federal,PTR,1,1990,cadeira
+Rondônia,PMDB,1,1994,cadeira
+Rondônia,PSDB,3,1994,cadeira
+Rondônia,PP,2,1994,cadeira
+Rondônia,PDT,1,1994,cadeira
+Rondônia,PL,1,1994,cadeira
+Acre,PMDB,4,1994,cadeira
+Acre,PPR,3,1994,cadeira
+Acre,PP,1,1994,cadeira
+Amazonas,PMDB,3,1994,cadeira
+Amazonas,PFL,1,1994,cadeira
+Amazonas,PSDB,1,1994,cadeira
+Amazonas,PPR,3,1994,cadeira
+Roraima,PFL,1,1994,cadeira
+Roraima,PSDB,1,1994,cadeira
+Roraima,PPR,1,1994,cadeira
+Roraima,PTB,4,1994,cadeira
+Roraima,PSC,1,1994,cadeira
+Pará,PMDB,7,1994,cadeira
+Pará,PFL,1,1994,cadeira
+Pará,PPR,4,1994,cadeira
+Pará,PT,2,1994,cadeira
+Pará,PDT,1,1994,cadeira
+Pará,PTB,1,1994,cadeira
+Pará,PC do B,1,1994,cadeira
+Amapá,PFL,3,1994,cadeira
+Amapá,PPR,1,1994,cadeira
+Amapá,PP,1,1994,cadeira
+Amapá,PTB,1,1994,cadeira
+Amapá,PSB,2,1994,cadeira
+Tocantins,PMDB,2,1994,cadeira
+Tocantins,PFL,2,1994,cadeira
+Tocantins,PPR,2,1994,cadeira
+Tocantins,PP,2,1994,cadeira
+Maranhão,PMDB,5,1994,cadeira
+Maranhão,PFL,7,1994,cadeira
+Maranhão,PSDB,2,1994,cadeira
+Maranhão,PT,1,1994,cadeira
+Maranhão,PDT,1,1994,cadeira
+Maranhão,PSB,1,1994,cadeira
+Maranhão,PSC,1,1994,cadeira
+Piauí,PMDB,2,1994,cadeira
+Piauí,PFL,5,1994,cadeira
+Piauí,PPR,2,1994,cadeira
+Piauí,PP,1,1994,cadeira
+Ceará,PMDB,5,1994,cadeira
+Ceará,PFL,2,1994,cadeira
+Ceará,PSDB,11,1994,cadeira
+Ceará,PT,1,1994,cadeira
+Ceará,PP,2,1994,cadeira
+Ceará,PC do B,1,1994,cadeira
+R. G. do Norte,PMDB,2,1994,cadeira
+R. G. do Norte,PFL,5,1994,cadeira
+R. G. do Norte,PSDB,1,1994,cadeira
+Paraíba,PMDB,7,1994,cadeira
+Paraíba,PFL,3,1994,cadeira
+Paraíba,PPR,1,1994,cadeira
+Paraíba,PDT,1,1994,cadeira
+Pernambuco,PFL,11,1994,cadeira
+Pernambuco,PSDB,1,1994,cadeira
+Pernambuco,PT,2,1994,cadeira
+Pernambuco,PP,1,1994,cadeira
+Pernambuco,PDT,2,1994,cadeira
+Pernambuco,PSB,7,1994,cadeira
+Pernambuco,PMN,1,1994,cadeira
+Alagoas,PMDB,1,1994,cadeira
+Alagoas,PFL,1,1994,cadeira
+Alagoas,PSDB,2,1994,cadeira
+Alagoas,PPR,1,1994,cadeira
+Alagoas,PP,1,1994,cadeira
+Alagoas,PTB,1,1994,cadeira
+Alagoas,PSD,1,1994,cadeira
+Alagoas,PSC,1,1994,cadeira
+Sergipe,PMDB,2,1994,cadeira
+Sergipe,PFL,1,1994,cadeira
+Sergipe,PPR,2,1994,cadeira
+Sergipe,PT,1,1994,cadeira
+Sergipe,PMN,2,1994,cadeira
+Bahia,PMDB,6,1994,cadeira
+Bahia,PFL,16,1994,cadeira
+Bahia,PSDB,4,1994,cadeira
+Bahia,PPR,1,1994,cadeira
+Bahia,PT,2,1994,cadeira
+Bahia,PP,1,1994,cadeira
+Bahia,PDT,3,1994,cadeira
+Bahia,PTB,1,1994,cadeira
+Bahia,PSB,2,1994,cadeira
+Bahia,PL,2,1994,cadeira
+Bahia,PC do B,1,1994,cadeira
+Minas Gerais,PMDB,11,1994,cadeira
+Minas Gerais,PFL,10,1994,cadeira
+Minas Gerais,PSDB,8,1994,cadeira
+Minas Gerais,PPR,1,1994,cadeira
+Minas Gerais,PT,6,1994,cadeira
+Minas Gerais,PP,6,1994,cadeira
+Minas Gerais,PDT,1,1994,cadeira
+Minas Gerais,PTB,7,1994,cadeira
+Minas Gerais,PL,1,1994,cadeira
+Minas Gerais,PC do B,1,1994,cadeira
+Minas Gerais,PMN,1,1994,cadeira
+Espirito Santo,PMDB,3,1994,cadeira
+Espirito Santo,PSDB,2,1994,cadeira
+Espirito Santo,PT,1,1994,cadeira
+Espirito Santo,PDT,2,1994,cadeira
+Espirito Santo,PTB,1,1994,cadeira
+Espirito Santo,PSB,1,1994,cadeira
+Rio de Janeiro,PMDB,4,1994,cadeira
+Rio de Janeiro,PFL,4,1994,cadeira
+Rio de Janeiro,PSDB,6,1994,cadeira
+Rio de Janeiro,PPR,6,1994,cadeira
+Rio de Janeiro,PT,3,1994,cadeira
+Rio de Janeiro,PP,3,1994,cadeira
+Rio de Janeiro,PDT,8,1994,cadeira
+Rio de Janeiro,PTB,3,1994,cadeira
+Rio de Janeiro,PSB,2,1994,cadeira
+Rio de Janeiro,PL,3,1994,cadeira
+Rio de Janeiro,PC do B,2,1994,cadeira
+Rio de Janeiro,PPS,1,1994,cadeira
+Rio de Janeiro,PV,1,1994,cadeira
+São Paulo,PMDB,14,1994,cadeira
+São Paulo,PFL,3,1994,cadeira
+São Paulo,PSDB,15,1994,cadeira
+São Paulo,PPR,8,1994,cadeira
+São Paulo,PT,14,1994,cadeira
+São Paulo,PP,1,1994,cadeira
+São Paulo,PDT,2,1994,cadeira
+São Paulo,PTB,3,1994,cadeira
+São Paulo,PSB,1,1994,cadeira
+São Paulo,PL,5,1994,cadeira
+São Paulo,PC do B,1,1994,cadeira
+São Paulo,PSD,2,1994,cadeira
+São Paulo,PRP,1,1994,cadeira
+Paraná,PMDB,4,1994,cadeira
+Paraná,PFL,6,1994,cadeira
+Paraná,PSDB,1,1994,cadeira
+Paraná,PPR,2,1994,cadeira
+Paraná,PT,3,1994,cadeira
+Paraná,PP,6,1994,cadeira
+Paraná,PDT,3,1994,cadeira
+Paraná,PTB,4,1994,cadeira
+Paraná,PC do B,1,1994,cadeira
+Santa Catarina,PMDB,5,1994,cadeira
+Santa Catarina,PFL,3,1994,cadeira
+Santa Catarina,PPR,4,1994,cadeira
+Santa Catarina,PT,2,1994,cadeira
+Santa Catarina,PDT,2,1994,cadeira
+R. G. do Sul,PMDB,8,1994,cadeira
+R. G. do Sul,PFL,1,1994,cadeira
+R. G. do Sul,PSDB,2,1994,cadeira
+R. G. do Sul,PPR,6,1994,cadeira
+R. G. do Sul,PT,7,1994,cadeira
+R. G. do Sul,PDT,5,1994,cadeira
+R. G. do Sul,PTB,2,1994,cadeira
+M. G. do Sul,PMDB,3,1994,cadeira
+M. G. do Sul,PFL,1,1994,cadeira
+M. G. do Sul,PSDB,1,1994,cadeira
+M. G. do Sul,PP,1,1994,cadeira
+M. G. do Sul,PDT,1,1994,cadeira
+M. G. do Sul,PTB,1,1994,cadeira
+Mato Grosso,PMDB,1,1994,cadeira
+Mato Grosso,PSDB,1,1994,cadeira
+Mato Grosso,PPR,1,1994,cadeira
+Mato Grosso,PT,1,1994,cadeira
+Mato Grosso,PP,1,1994,cadeira
+Mato Grosso,PDT,1,1994,cadeira
+Mato Grosso,PTB,1,1994,cadeira
+Mato Grosso,PL,1,1994,cadeira
+Goiás,PMDB,7,1994,cadeira
+Goiás,PFL,1,1994,cadeira
+Goiás,PSDB,1,1994,cadeira
+Goiás,PPR,2,1994,cadeira
+Goiás,PT,1,1994,cadeira
+Goiás,PP,2,1994,cadeira
+Goiás,PTB,1,1994,cadeira
+Goiás,PC do B,1,1994,cadeira
+Goiás,PRN,1,1994,cadeira
+Distrito Federal,PFL,1,1994,cadeira
+Distrito Federal,PT,2,1994,cadeira
+Distrito Federal,PP,3,1994,cadeira
+Distrito Federal,PC do B,1,1994,cadeira
+Distrito Federal,PPS,1,1994,cadeira
+Rondônia,PFL,2,1998,cadeira
+Rondônia,PSDB,2,1998,cadeira
+Rondônia,PMDB,1,1998,cadeira
+Rondônia,PPB,NA,1998,cadeira
+Rondônia,PT,NA,1998,cadeira
+Rondônia,PTB,1,1998,cadeira
+Rondônia,PDT,2,1998,cadeira
+Rondônia,PSB,NA,1998,cadeira
+Rondônia,PL,NA,1998,cadeira
+Rondônia,PC do B,NA,1998,cadeira
+Rondônia,PMN,NA,1998,cadeira
+Rondônia,PSD,NA,1998,cadeira
+Rondônia,PPS,NA,1998,cadeira
+Rondônia,PSC,NA,1998,cadeira
+Rondônia,PST,NA,1998,cadeira
+Rondônia,PV,NA,1998,cadeira
+Rondônia,PSL,NA,1998,cadeira
+Rondônia,PRONA,NA,1998,cadeira
+Acre,PFL,3,1998,cadeira
+Acre,PSDB,NA,1998,cadeira
+Acre,PMDB,1,1998,cadeira
+Acre,PPB,1,1998,cadeira
+Acre,PT,2,1998,cadeira
+Acre,PTB,NA,1998,cadeira
+Acre,PDT,1,1998,cadeira
+Acre,PSB,NA,1998,cadeira
+Acre,PL,NA,1998,cadeira
+Acre,PC do B,NA,1998,cadeira
+Acre,PMN,NA,1998,cadeira
+Acre,PSD,NA,1998,cadeira
+Acre,PPS,NA,1998,cadeira
+Acre,PSC,NA,1998,cadeira
+Acre,PST,NA,1998,cadeira
+Acre,PV,NA,1998,cadeira
+Acre,PSL,NA,1998,cadeira
+Acre,PRONA,NA,1998,cadeira
+Amazonas,PFL,4,1998,cadeira
+Amazonas,PSDB,1,1998,cadeira
+Amazonas,PMDB,NA,1998,cadeira
+Amazonas,PPB,1,1998,cadeira
+Amazonas,PT,NA,1998,cadeira
+Amazonas,PTB,NA,1998,cadeira
+Amazonas,PDT,NA,1998,cadeira
+Amazonas,PSB,NA,1998,cadeira
+Amazonas,PL,1,1998,cadeira
+Amazonas,PC do B,1,1998,cadeira
+Amazonas,PMN,NA,1998,cadeira
+Amazonas,PSD,NA,1998,cadeira
+Amazonas,PPS,NA,1998,cadeira
+Amazonas,PSC,NA,1998,cadeira
+Amazonas,PST,NA,1998,cadeira
+Amazonas,PV,NA,1998,cadeira
+Amazonas,PSL,NA,1998,cadeira
+Amazonas,PRONA,NA,1998,cadeira
+Roraima,PFL,NA,1998,cadeira
+Roraima,PSDB,2,1998,cadeira
+Roraima,PMDB,1,1998,cadeira
+Roraima,PPB,4,1998,cadeira
+Roraima,PT,NA,1998,cadeira
+Roraima,PTB,1,1998,cadeira
+Roraima,PDT,NA,1998,cadeira
+Roraima,PSB,NA,1998,cadeira
+Roraima,PL,NA,1998,cadeira
+Roraima,PC do B,NA,1998,cadeira
+Roraima,PMN,NA,1998,cadeira
+Roraima,PSD,NA,1998,cadeira
+Roraima,PPS,NA,1998,cadeira
+Roraima,PSC,NA,1998,cadeira
+Roraima,PST,NA,1998,cadeira
+Roraima,PV,NA,1998,cadeira
+Roraima,PSL,NA,1998,cadeira
+Roraima,PRONA,NA,1998,cadeira
+Pará,PFL,3,1998,cadeira
+Pará,PSDB,4,1998,cadeira
+Pará,PMDB,4,1998,cadeira
+Pará,PPB,1,1998,cadeira
+Pará,PT,3,1998,cadeira
+Pará,PTB,1,1998,cadeira
+Pará,PDT,1,1998,cadeira
+Pará,PSB,NA,1998,cadeira
+Pará,PL,NA,1998,cadeira
+Pará,PC do B,NA,1998,cadeira
+Pará,PMN,NA,1998,cadeira
+Pará,PSD,NA,1998,cadeira
+Pará,PPS,NA,1998,cadeira
+Pará,PSC,NA,1998,cadeira
+Pará,PST,NA,1998,cadeira
+Pará,PV,NA,1998,cadeira
+Pará,PSL,NA,1998,cadeira
+Pará,PRONA,NA,1998,cadeira
+Amapá,PFL,2,1998,cadeira
+Amapá,PSDB,3,1998,cadeira
+Amapá,PMDB,1,1998,cadeira
+Amapá,PPB,NA,1998,cadeira
+Amapá,PT,NA,1998,cadeira
+Amapá,PTB,1,1998,cadeira
+Amapá,PDT,NA,1998,cadeira
+Amapá,PSB,1,1998,cadeira
+Amapá,PL,NA,1998,cadeira
+Amapá,PC do B,NA,1998,cadeira
+Amapá,PMN,NA,1998,cadeira
+Amapá,PSD,NA,1998,cadeira
+Amapá,PPS,NA,1998,cadeira
+Amapá,PSC,NA,1998,cadeira
+Amapá,PST,NA,1998,cadeira
+Amapá,PV,NA,1998,cadeira
+Amapá,PSL,NA,1998,cadeira
+Amapá,PRONA,NA,1998,cadeira
+Tocantins,PFL,3,1998,cadeira
+Tocantins,PSDB,1,1998,cadeira
+Tocantins,PMDB,2,1998,cadeira
+Tocantins,PPB,2,1998,cadeira
+Tocantins,PT,NA,1998,cadeira
+Tocantins,PTB,NA,1998,cadeira
+Tocantins,PDT,NA,1998,cadeira
+Tocantins,PSB,NA,1998,cadeira
+Tocantins,PL,NA,1998,cadeira
+Tocantins,PC do B,NA,1998,cadeira
+Tocantins,PMN,NA,1998,cadeira
+Tocantins,PSD,NA,1998,cadeira
+Tocantins,PPS,NA,1998,cadeira
+Tocantins,PSC,NA,1998,cadeira
+Tocantins,PST,NA,1998,cadeira
+Tocantins,PV,NA,1998,cadeira
+Tocantins,PSL,NA,1998,cadeira
+Tocantins,PRONA,NA,1998,cadeira
+Maranhão,PFL,6,1998,cadeira
+Maranhão,PSDB,3,1998,cadeira
+Maranhão,PMDB,3,1998,cadeira
+Maranhão,PPB,NA,1998,cadeira
+Maranhão,PT,NA,1998,cadeira
+Maranhão,PTB,NA,1998,cadeira
+Maranhão,PDT,1,1998,cadeira
+Maranhão,PSB,1,1998,cadeira
+Maranhão,PL,2,1998,cadeira
+Maranhão,PC do B,NA,1998,cadeira
+Maranhão,PMN,NA,1998,cadeira
+Maranhão,PSD,1,1998,cadeira
+Maranhão,PPS,NA,1998,cadeira
+Maranhão,PSC,1,1998,cadeira
+Maranhão,PST,NA,1998,cadeira
+Maranhão,PV,NA,1998,cadeira
+Maranhão,PSL,NA,1998,cadeira
+Maranhão,PRONA,NA,1998,cadeira
+Piauí,PFL,5,1998,cadeira
+Piauí,PSDB,1,1998,cadeira
+Piauí,PMDB,3,1998,cadeira
+Piauí,PPB,NA,1998,cadeira
+Piauí,PT,1,1998,cadeira
+Piauí,PTB,NA,1998,cadeira
+Piauí,PDT,NA,1998,cadeira
+Piauí,PSB,NA,1998,cadeira
+Piauí,PL,NA,1998,cadeira
+Piauí,PC do B,NA,1998,cadeira
+Piauí,PMN,NA,1998,cadeira
+Piauí,PSD,NA,1998,cadeira
+Piauí,PPS,NA,1998,cadeira
+Piauí,PSC,NA,1998,cadeira
+Piauí,PST,NA,1998,cadeira
+Piauí,PV,NA,1998,cadeira
+Piauí,PSL,NA,1998,cadeira
+Piauí,PRONA,NA,1998,cadeira
+Ceará,PFL,1,1998,cadeira
+Ceará,PSDB,12,1998,cadeira
+Ceará,PMDB,5,1998,cadeira
+Ceará,PPB,1,1998,cadeira
+Ceará,PT,1,1998,cadeira
+Ceará,PTB,NA,1998,cadeira
+Ceará,PDT,NA,1998,cadeira
+Ceará,PSB,1,1998,cadeira
+Ceará,PL,NA,1998,cadeira
+Ceará,PC do B,1,1998,cadeira
+Ceará,PMN,NA,1998,cadeira
+Ceará,PSD,NA,1998,cadeira
+Ceará,PPS,NA,1998,cadeira
+Ceará,PSC,NA,1998,cadeira
+Ceará,PST,NA,1998,cadeira
+Ceará,PV,NA,1998,cadeira
+Ceará,PSL,NA,1998,cadeira
+Ceará,PRONA,NA,1998,cadeira
+R. G. do Norte,PFL,3,1998,cadeira
+R. G. do Norte,PSDB,NA,1998,cadeira
+R. G. do Norte,PMDB,4,1998,cadeira
+R. G. do Norte,PPB,1,1998,cadeira
+R. G. do Norte,PT,NA,1998,cadeira
+R. G. do Norte,PTB,NA,1998,cadeira
+R. G. do Norte,PDT,NA,1998,cadeira
+R. G. do Norte,PSB,NA,1998,cadeira
+R. G. do Norte,PL,NA,1998,cadeira
+R. G. do Norte,PC do B,NA,1998,cadeira
+R. G. do Norte,PMN,NA,1998,cadeira
+R. G. do Norte,PSD,NA,1998,cadeira
+R. G. do Norte,PPS,NA,1998,cadeira
+R. G. do Norte,PSC,NA,1998,cadeira
+R. G. do Norte,PST,NA,1998,cadeira
+R. G. do Norte,PV,NA,1998,cadeira
+R. G. do Norte,PSL,NA,1998,cadeira
+R. G. do Norte,PRONA,NA,1998,cadeira
+Paraíba,PFL,3,1998,cadeira
+Paraíba,PSDB,1,1998,cadeira
+Paraíba,PMDB,5,1998,cadeira
+Paraíba,PPB,1,1998,cadeira
+Paraíba,PT,NA,1998,cadeira
+Paraíba,PTB,1,1998,cadeira
+Paraíba,PDT,NA,1998,cadeira
+Paraíba,PSB,1,1998,cadeira
+Paraíba,PL,NA,1998,cadeira
+Paraíba,PC do B,NA,1998,cadeira
+Paraíba,PMN,NA,1998,cadeira
+Paraíba,PSD,NA,1998,cadeira
+Paraíba,PPS,NA,1998,cadeira
+Paraíba,PSC,NA,1998,cadeira
+Paraíba,PST,NA,1998,cadeira
+Paraíba,PV,NA,1998,cadeira
+Paraíba,PSL,NA,1998,cadeira
+Paraíba,PRONA,NA,1998,cadeira
+Pernambuco,PFL,8,1998,cadeira
+Pernambuco,PSDB,1,1998,cadeira
+Pernambuco,PMDB,3,1998,cadeira
+Pernambuco,PPB,2,1998,cadeira
+Pernambuco,PT,1,1998,cadeira
+Pernambuco,PTB,1,1998,cadeira
+Pernambuco,PDT,NA,1998,cadeira
+Pernambuco,PSB,8,1998,cadeira
+Pernambuco,PL,NA,1998,cadeira
+Pernambuco,PC do B,NA,1998,cadeira
+Pernambuco,PMN,NA,1998,cadeira
+Pernambuco,PSD,NA,1998,cadeira
+Pernambuco,PPS,NA,1998,cadeira
+Pernambuco,PSC,NA,1998,cadeira
+Pernambuco,PST,NA,1998,cadeira
+Pernambuco,PV,NA,1998,cadeira
+Pernambuco,PSL,1,1998,cadeira
+Pernambuco,PRONA,NA,1998,cadeira
+Alagoas,PFL,1,1998,cadeira
+Alagoas,PSDB,2,1998,cadeira
+Alagoas,PMDB,1,1998,cadeira
+Alagoas,PPB,NA,1998,cadeira
+Alagoas,PT,NA,1998,cadeira
+Alagoas,PTB,1,1998,cadeira
+Alagoas,PDT,NA,1998,cadeira
+Alagoas,PSB,1,1998,cadeira
+Alagoas,PL,NA,1998,cadeira
+Alagoas,PC do B,NA,1998,cadeira
+Alagoas,PMN,1,1998,cadeira
+Alagoas,PSD,1,1998,cadeira
+Alagoas,PPS,1,1998,cadeira
+Alagoas,PSC,NA,1998,cadeira
+Alagoas,PST,NA,1998,cadeira
+Alagoas,PV,NA,1998,cadeira
+Alagoas,PSL,NA,1998,cadeira
+Alagoas,PRONA,NA,1998,cadeira
+Sergipe,PFL,NA,1998,cadeira
+Sergipe,PSDB,1,1998,cadeira
+Sergipe,PMDB,2,1998,cadeira
+Sergipe,PPB,1,1998,cadeira
+Sergipe,PT,1,1998,cadeira
+Sergipe,PTB,NA,1998,cadeira
+Sergipe,PDT,NA,1998,cadeira
+Sergipe,PSB,1,1998,cadeira
+Sergipe,PL,NA,1998,cadeira
+Sergipe,PC do B,NA,1998,cadeira
+Sergipe,PMN,1,1998,cadeira
+Sergipe,PSD,NA,1998,cadeira
+Sergipe,PPS,1,1998,cadeira
+Sergipe,PSC,NA,1998,cadeira
+Sergipe,PST,NA,1998,cadeira
+Sergipe,PV,NA,1998,cadeira
+Sergipe,PSL,NA,1998,cadeira
+Sergipe,PRONA,NA,1998,cadeira
+Bahia,PFL,20,1998,cadeira
+Bahia,PSDB,6,1998,cadeira
+Bahia,PMDB,3,1998,cadeira
+Bahia,PPB,1,1998,cadeira
+Bahia,PT,5,1998,cadeira
+Bahia,PTB,1,1998,cadeira
+Bahia,PDT,1,1998,cadeira
+Bahia,PSB,NA,1998,cadeira
+Bahia,PL,1,1998,cadeira
+Bahia,PC do B,1,1998,cadeira
+Bahia,PMN,NA,1998,cadeira
+Bahia,PSD,NA,1998,cadeira
+Bahia,PPS,NA,1998,cadeira
+Bahia,PSC,NA,1998,cadeira
+Bahia,PST,NA,1998,cadeira
+Bahia,PV,NA,1998,cadeira
+Bahia,PSL,NA,1998,cadeira
+Bahia,PRONA,NA,1998,cadeira
+Minas Gerais,PFL,8,1998,cadeira
+Minas Gerais,PSDB,14,1998,cadeira
+Minas Gerais,PMDB,9,1998,cadeira
+Minas Gerais,PPB,7,1998,cadeira
+Minas Gerais,PT,7,1998,cadeira
+Minas Gerais,PTB,2,1998,cadeira
+Minas Gerais,PDT,1,1998,cadeira
+Minas Gerais,PSB,NA,1998,cadeira
+Minas Gerais,PL,3,1998,cadeira
+Minas Gerais,PC do B,1,1998,cadeira
+Minas Gerais,PMN,NA,1998,cadeira
+Minas Gerais,PSD,NA,1998,cadeira
+Minas Gerais,PPS,NA,1998,cadeira
+Minas Gerais,PSC,NA,1998,cadeira
+Minas Gerais,PST,1,1998,cadeira
+Minas Gerais,PV,NA,1998,cadeira
+Minas Gerais,PSL,NA,1998,cadeira
+Minas Gerais,PRONA,NA,1998,cadeira
+Espirito Santo,PFL,1,1998,cadeira
+Espirito Santo,PSDB,3,1998,cadeira
+Espirito Santo,PMDB,1,1998,cadeira
+Espirito Santo,PPB,1,1998,cadeira
+Espirito Santo,PT,1,1998,cadeira
+Espirito Santo,PTB,3,1998,cadeira
+Espirito Santo,PDT,NA,1998,cadeira
+Espirito Santo,PSB,NA,1998,cadeira
+Espirito Santo,PL,NA,1998,cadeira
+Espirito Santo,PC do B,NA,1998,cadeira
+Espirito Santo,PMN,NA,1998,cadeira
+Espirito Santo,PSD,NA,1998,cadeira
+Espirito Santo,PPS,NA,1998,cadeira
+Espirito Santo,PSC,NA,1998,cadeira
+Espirito Santo,PST,NA,1998,cadeira
+Espirito Santo,PV,NA,1998,cadeira
+Espirito Santo,PSL,NA,1998,cadeira
+Espirito Santo,PRONA,NA,1998,cadeira
+Rio de Janeiro,PFL,9,1998,cadeira
+Rio de Janeiro,PSDB,11,1998,cadeira
+Rio de Janeiro,PMDB,2,1998,cadeira
+Rio de Janeiro,PPB,6,1998,cadeira
+Rio de Janeiro,PT,4,1998,cadeira
+Rio de Janeiro,PTB,2,1998,cadeira
+Rio de Janeiro,PDT,7,1998,cadeira
+Rio de Janeiro,PSB,2,1998,cadeira
+Rio de Janeiro,PL,NA,1998,cadeira
+Rio de Janeiro,PC do B,1,1998,cadeira
+Rio de Janeiro,PMN,NA,1998,cadeira
+Rio de Janeiro,PSD,NA,1998,cadeira
+Rio de Janeiro,PPS,NA,1998,cadeira
+Rio de Janeiro,PSC,1,1998,cadeira
+Rio de Janeiro,PST,NA,1998,cadeira
+Rio de Janeiro,PV,1,1998,cadeira
+Rio de Janeiro,PSL,NA,1998,cadeira
+Rio de Janeiro,PRONA,NA,1998,cadeira
+São Paulo,PFL,8,1998,cadeira
+São Paulo,PSDB,15,1998,cadeira
+São Paulo,PMDB,5,1998,cadeira
+São Paulo,PPB,12,1998,cadeira
+São Paulo,PT,14,1998,cadeira
+São Paulo,PTB,5,1998,cadeira
+São Paulo,PDT,4,1998,cadeira
+São Paulo,PSB,2,1998,cadeira
+São Paulo,PL,2,1998,cadeira
+São Paulo,PC do B,1,1998,cadeira
+São Paulo,PMN,NA,1998,cadeira
+São Paulo,PSD,NA,1998,cadeira
+São Paulo,PPS,1,1998,cadeira
+São Paulo,PSC,NA,1998,cadeira
+São Paulo,PST,NA,1998,cadeira
+São Paulo,PV,NA,1998,cadeira
+São Paulo,PSL,NA,1998,cadeira
+São Paulo,PRONA,1,1998,cadeira
+Paraná,PFL,6,1998,cadeira
+Paraná,PSDB,5,1998,cadeira
+Paraná,PMDB,4,1998,cadeira
+Paraná,PPB,5,1998,cadeira
+Paraná,PT,3,1998,cadeira
+Paraná,PTB,6,1998,cadeira
+Paraná,PDT,1,1998,cadeira
+Paraná,PSB,NA,1998,cadeira
+Paraná,PL,NA,1998,cadeira
+Paraná,PC do B,NA,1998,cadeira
+Paraná,PMN,NA,1998,cadeira
+Paraná,PSD,NA,1998,cadeira
+Paraná,PPS,NA,1998,cadeira
+Paraná,PSC,NA,1998,cadeira
+Paraná,PST,NA,1998,cadeira
+Paraná,PV,NA,1998,cadeira
+Paraná,PSL,NA,1998,cadeira
+Paraná,PRONA,NA,1998,cadeira
+Santa Catarina,PFL,3,1998,cadeira
+Santa Catarina,PSDB,1,1998,cadeira
+Santa Catarina,PMDB,4,1998,cadeira
+Santa Catarina,PPB,4,1998,cadeira
+Santa Catarina,PT,2,1998,cadeira
+Santa Catarina,PTB,NA,1998,cadeira
+Santa Catarina,PDT,2,1998,cadeira
+Santa Catarina,PSB,NA,1998,cadeira
+Santa Catarina,PL,NA,1998,cadeira
+Santa Catarina,PC do B,NA,1998,cadeira
+Santa Catarina,PMN,NA,1998,cadeira
+Santa Catarina,PSD,NA,1998,cadeira
+Santa Catarina,PPS,NA,1998,cadeira
+Santa Catarina,PSC,NA,1998,cadeira
+Santa Catarina,PST,NA,1998,cadeira
+Santa Catarina,PV,NA,1998,cadeira
+Santa Catarina,PSL,NA,1998,cadeira
+Santa Catarina,PRONA,NA,1998,cadeira
+R. G. do Sul,PFL,1,1998,cadeira
+R. G. do Sul,PSDB,2,1998,cadeira
+R. G. do Sul,PMDB,7,1998,cadeira
+R. G. do Sul,PPB,5,1998,cadeira
+R. G. do Sul,PT,8,1998,cadeira
+R. G. do Sul,PTB,3,1998,cadeira
+R. G. do Sul,PDT,4,1998,cadeira
+R. G. do Sul,PSB,1,1998,cadeira
+R. G. do Sul,PL,NA,1998,cadeira
+R. G. do Sul,PC do B,NA,1998,cadeira
+R. G. do Sul,PMN,NA,1998,cadeira
+R. G. do Sul,PSD,NA,1998,cadeira
+R. G. do Sul,PPS,NA,1998,cadeira
+R. G. do Sul,PSC,NA,1998,cadeira
+R. G. do Sul,PST,NA,1998,cadeira
+R. G. do Sul,PV,NA,1998,cadeira
+R. G. do Sul,PSL,NA,1998,cadeira
+R. G. do Sul,PRONA,NA,1998,cadeira
+M. G. do Sul,PFL,1,1998,cadeira
+M. G. do Sul,PSDB,2,1998,cadeira
+M. G. do Sul,PMDB,1,1998,cadeira
+M. G. do Sul,PPB,1,1998,cadeira
+M. G. do Sul,PT,2,1998,cadeira
+M. G. do Sul,PTB,1,1998,cadeira
+M. G. do Sul,PDT,NA,1998,cadeira
+M. G. do Sul,PSB,NA,1998,cadeira
+M. G. do Sul,PL,NA,1998,cadeira
+M. G. do Sul,PC do B,NA,1998,cadeira
+M. G. do Sul,PMN,NA,1998,cadeira
+M. G. do Sul,PSD,NA,1998,cadeira
+M. G. do Sul,PPS,NA,1998,cadeira
+M. G. do Sul,PSC,NA,1998,cadeira
+M. G. do Sul,PST,NA,1998,cadeira
+M. G. do Sul,PV,NA,1998,cadeira
+M. G. do Sul,PSL,NA,1998,cadeira
+M. G. do Sul,PRONA,NA,1998,cadeira
+Mato Grosso,PFL,1,1998,cadeira
+Mato Grosso,PSDB,3,1998,cadeira
+Mato Grosso,PMDB,2,1998,cadeira
+Mato Grosso,PPB,NA,1998,cadeira
+Mato Grosso,PT,NA,1998,cadeira
+Mato Grosso,PTB,1,1998,cadeira
+Mato Grosso,PDT,NA,1998,cadeira
+Mato Grosso,PSB,NA,1998,cadeira
+Mato Grosso,PL,1,1998,cadeira
+Mato Grosso,PC do B,NA,1998,cadeira
+Mato Grosso,PMN,NA,1998,cadeira
+Mato Grosso,PSD,NA,1998,cadeira
+Mato Grosso,PPS,NA,1998,cadeira
+Mato Grosso,PSC,NA,1998,cadeira
+Mato Grosso,PST,NA,1998,cadeira
+Mato Grosso,PV,NA,1998,cadeira
+Mato Grosso,PSL,NA,1998,cadeira
+Mato Grosso,PRONA,NA,1998,cadeira
+Goiás,PFL,2,1998,cadeira
+Goiás,PSDB,2,1998,cadeira
+Goiás,PMDB,8,1998,cadeira
+Goiás,PPB,1,1998,cadeira
+Goiás,PT,1,1998,cadeira
+Goiás,PTB,NA,1998,cadeira
+Goiás,PDT,NA,1998,cadeira
+Goiás,PSB,NA,1998,cadeira
+Goiás,PL,2,1998,cadeira
+Goiás,PC do B,NA,1998,cadeira
+Goiás,PMN,NA,1998,cadeira
+Goiás,PSD,1,1998,cadeira
+Goiás,PPS,NA,1998,cadeira
+Goiás,PSC,NA,1998,cadeira
+Goiás,PST,NA,1998,cadeira
+Goiás,PV,NA,1998,cadeira
+Goiás,PSL,NA,1998,cadeira
+Goiás,PRONA,NA,1998,cadeira
+Distrito Federal,PFL,1,1998,cadeira
+Distrito Federal,PSDB,1,1998,cadeira
+Distrito Federal,PMDB,1,1998,cadeira
+Distrito Federal,PPB,2,1998,cadeira
+Distrito Federal,PT,2,1998,cadeira
+Distrito Federal,PTB,NA,1998,cadeira
+Distrito Federal,PDT,NA,1998,cadeira
+Distrito Federal,PSB,NA,1998,cadeira
+Distrito Federal,PL,NA,1998,cadeira
+Distrito Federal,PC do B,1,1998,cadeira
+Distrito Federal,PMN,NA,1998,cadeira
+Distrito Federal,PSD,NA,1998,cadeira
+Distrito Federal,PPS,NA,1998,cadeira
+Distrito Federal,PSC,NA,1998,cadeira
+Distrito Federal,PST,NA,1998,cadeira
+Distrito Federal,PV,NA,1998,cadeira
+Distrito Federal,PSL,NA,1998,cadeira
+Distrito Federal,PRONA,NA,1998,cadeira
+Rondônia,PT,2,2002,cadeira
+Rondônia,PFL,1,2002,cadeira
+Rondônia,PMDB,2,2002,cadeira
+Rondônia,PSDB,1,2002,cadeira
+Rondônia,PPB,NA,2002,cadeira
+Rondônia,PL,NA,2002,cadeira
+Rondônia,PTB,1,2002,cadeira
+Rondônia,PSB,NA,2002,cadeira
+Rondônia,PDT,NA,2002,cadeira
+Rondônia,PPS,1,2002,cadeira
+Rondônia,PC do B,NA,2002,cadeira
+Rondônia,PRONA,NA,2002,cadeira
+Rondônia,PV,NA,2002,cadeira
+Rondônia,PSD,NA,2002,cadeira
+Rondônia,PST,NA,2002,cadeira
+Rondônia,PSL,NA,2002,cadeira
+Rondônia,PSC,NA,2002,cadeira
+Rondônia,PSDC,NA,2002,cadeira
+Rondônia,PMN,NA,2002,cadeira
+Acre,PT,3,2002,cadeira
+Acre,PFL,NA,2002,cadeira
+Acre,PMDB,1,2002,cadeira
+Acre,PSDB,NA,2002,cadeira
+Acre,PPB,2,2002,cadeira
+Acre,PL,NA,2002,cadeira
+Acre,PTB,NA,2002,cadeira
+Acre,PSB,NA,2002,cadeira
+Acre,PDT,NA,2002,cadeira
+Acre,PPS,1,2002,cadeira
+Acre,PC do B,1,2002,cadeira
+Acre,PRONA,NA,2002,cadeira
+Acre,PV,NA,2002,cadeira
+Acre,PSD,NA,2002,cadeira
+Acre,PST,NA,2002,cadeira
+Acre,PSL,NA,2002,cadeira
+Acre,PSC,NA,2002,cadeira
+Acre,PSDC,NA,2002,cadeira
+Acre,PMN,NA,2002,cadeira
+Amazonas,PT,NA,2002,cadeira
+Amazonas,PFL,3,2002,cadeira
+Amazonas,PMDB,NA,2002,cadeira
+Amazonas,PSDB,NA,2002,cadeira
+Amazonas,PPB,NA,2002,cadeira
+Amazonas,PL,3,2002,cadeira
+Amazonas,PTB,1,2002,cadeira
+Amazonas,PSB,NA,2002,cadeira
+Amazonas,PDT,NA,2002,cadeira
+Amazonas,PPS,NA,2002,cadeira
+Amazonas,PC do B,1,2002,cadeira
+Amazonas,PRONA,NA,2002,cadeira
+Amazonas,PV,NA,2002,cadeira
+Amazonas,PSD,NA,2002,cadeira
+Amazonas,PST,NA,2002,cadeira
+Amazonas,PSL,NA,2002,cadeira
+Amazonas,PSC,NA,2002,cadeira
+Amazonas,PSDC,NA,2002,cadeira
+Amazonas,PMN,NA,2002,cadeira
+Roraima,PT,NA,2002,cadeira
+Roraima,PFL,3,2002,cadeira
+Roraima,PMDB,NA,2002,cadeira
+Roraima,PSDB,NA,2002,cadeira
+Roraima,PPB,1,2002,cadeira
+Roraima,PL,1,2002,cadeira
+Roraima,PTB,NA,2002,cadeira
+Roraima,PSB,NA,2002,cadeira
+Roraima,PDT,2,2002,cadeira
+Roraima,PPS,NA,2002,cadeira
+Roraima,PC do B,NA,2002,cadeira
+Roraima,PRONA,NA,2002,cadeira
+Roraima,PV,NA,2002,cadeira
+Roraima,PSD,NA,2002,cadeira
+Roraima,PST,1,2002,cadeira
+Roraima,PSL,NA,2002,cadeira
+Roraima,PSC,NA,2002,cadeira
+Roraima,PSDC,NA,2002,cadeira
+Roraima,PMN,NA,2002,cadeira
+Pará,PT,3,2002,cadeira
+Pará,PFL,1,2002,cadeira
+Pará,PMDB,5,2002,cadeira
+Pará,PSDB,4,2002,cadeira
+Pará,PPB,1,2002,cadeira
+Pará,PL,1,2002,cadeira
+Pará,PTB,1,2002,cadeira
+Pará,PSB,NA,2002,cadeira
+Pará,PDT,1,2002,cadeira
+Pará,PPS,NA,2002,cadeira
+Pará,PC do B,NA,2002,cadeira
+Pará,PRONA,NA,2002,cadeira
+Pará,PV,NA,2002,cadeira
+Pará,PSD,NA,2002,cadeira
+Pará,PST,NA,2002,cadeira
+Pará,PSL,NA,2002,cadeira
+Pará,PSC,NA,2002,cadeira
+Pará,PSDC,NA,2002,cadeira
+Pará,PMN,NA,2002,cadeira
+Amapá,PT,2,2002,cadeira
+Amapá,PFL,NA,2002,cadeira
+Amapá,PMDB,NA,2002,cadeira
+Amapá,PSDB,1,2002,cadeira
+Amapá,PPB,1,2002,cadeira
+Amapá,PL,NA,2002,cadeira
+Amapá,PTB,1,2002,cadeira
+Amapá,PSB,1,2002,cadeira
+Amapá,PDT,2,2002,cadeira
+Amapá,PPS,NA,2002,cadeira
+Amapá,PC do B,NA,2002,cadeira
+Amapá,PRONA,NA,2002,cadeira
+Amapá,PV,NA,2002,cadeira
+Amapá,PSD,NA,2002,cadeira
+Amapá,PST,NA,2002,cadeira
+Amapá,PSL,NA,2002,cadeira
+Amapá,PSC,NA,2002,cadeira
+Amapá,PSDC,NA,2002,cadeira
+Amapá,PMN,NA,2002,cadeira
+Tocantins,PT,NA,2002,cadeira
+Tocantins,PFL,3,2002,cadeira
+Tocantins,PMDB,1,2002,cadeira
+Tocantins,PSDB,2,2002,cadeira
+Tocantins,PPB,1,2002,cadeira
+Tocantins,PL,NA,2002,cadeira
+Tocantins,PTB,NA,2002,cadeira
+Tocantins,PSB,NA,2002,cadeira
+Tocantins,PDT,NA,2002,cadeira
+Tocantins,PPS,NA,2002,cadeira
+Tocantins,PC do B,NA,2002,cadeira
+Tocantins,PRONA,NA,2002,cadeira
+Tocantins,PV,NA,2002,cadeira
+Tocantins,PSD,1,2002,cadeira
+Tocantins,PST,NA,2002,cadeira
+Tocantins,PSL,NA,2002,cadeira
+Tocantins,PSC,NA,2002,cadeira
+Tocantins,PSDC,NA,2002,cadeira
+Tocantins,PMN,NA,2002,cadeira
+Maranhão,PT,1,2002,cadeira
+Maranhão,PFL,7,2002,cadeira
+Maranhão,PMDB,2,2002,cadeira
+Maranhão,PSDB,2,2002,cadeira
+Maranhão,PPB,1,2002,cadeira
+Maranhão,PL,1,2002,cadeira
+Maranhão,PTB,NA,2002,cadeira
+Maranhão,PSB,1,2002,cadeira
+Maranhão,PDT,3,2002,cadeira
+Maranhão,PPS,NA,2002,cadeira
+Maranhão,PC do B,NA,2002,cadeira
+Maranhão,PRONA,NA,2002,cadeira
+Maranhão,PV,NA,2002,cadeira
+Maranhão,PSD,NA,2002,cadeira
+Maranhão,PST,NA,2002,cadeira
+Maranhão,PSL,NA,2002,cadeira
+Maranhão,PSC,NA,2002,cadeira
+Maranhão,PSDC,NA,2002,cadeira
+Maranhão,PMN,NA,2002,cadeira
+Piauí,PT,1,2002,cadeira
+Piauí,PFL,4,2002,cadeira
+Piauí,PMDB,2,2002,cadeira
+Piauí,PSDB,2,2002,cadeira
+Piauí,PPB,NA,2002,cadeira
+Piauí,PL,NA,2002,cadeira
+Piauí,PTB,NA,2002,cadeira
+Piauí,PSB,NA,2002,cadeira
+Piauí,PDT,NA,2002,cadeira
+Piauí,PPS,NA,2002,cadeira
+Piauí,PC do B,1,2002,cadeira
+Piauí,PRONA,NA,2002,cadeira
+Piauí,PV,NA,2002,cadeira
+Piauí,PSD,NA,2002,cadeira
+Piauí,PST,NA,2002,cadeira
+Piauí,PSL,NA,2002,cadeira
+Piauí,PSC,NA,2002,cadeira
+Piauí,PSDC,NA,2002,cadeira
+Piauí,PMN,NA,2002,cadeira
+Ceará,PT,2,2002,cadeira
+Ceará,PFL,2,2002,cadeira
+Ceará,PMDB,5,2002,cadeira
+Ceará,PSDB,8,2002,cadeira
+Ceará,PPB,1,2002,cadeira
+Ceará,PL,2,2002,cadeira
+Ceará,PTB,NA,2002,cadeira
+Ceará,PSB,NA,2002,cadeira
+Ceará,PDT,NA,2002,cadeira
+Ceará,PPS,1,2002,cadeira
+Ceará,PC do B,1,2002,cadeira
+Ceará,PRONA,NA,2002,cadeira
+Ceará,PV,NA,2002,cadeira
+Ceará,PSD,NA,2002,cadeira
+Ceará,PST,NA,2002,cadeira
+Ceará,PSL,NA,2002,cadeira
+Ceará,PSC,NA,2002,cadeira
+Ceará,PSDC,NA,2002,cadeira
+Ceará,PMN,NA,2002,cadeira
+R. G. do Norte,PT,1,2002,cadeira
+R. G. do Norte,PFL,2,2002,cadeira
+R. G. do Norte,PMDB,3,2002,cadeira
+R. G. do Norte,PSDB,NA,2002,cadeira
+R. G. do Norte,PPB,1,2002,cadeira
+R. G. do Norte,PL,NA,2002,cadeira
+R. G. do Norte,PTB,1,2002,cadeira
+R. G. do Norte,PSB,NA,2002,cadeira
+R. G. do Norte,PDT,NA,2002,cadeira
+R. G. do Norte,PPS,NA,2002,cadeira
+R. G. do Norte,PC do B,NA,2002,cadeira
+R. G. do Norte,PRONA,NA,2002,cadeira
+R. G. do Norte,PV,NA,2002,cadeira
+R. G. do Norte,PSD,NA,2002,cadeira
+R. G. do Norte,PST,NA,2002,cadeira
+R. G. do Norte,PSL,NA,2002,cadeira
+R. G. do Norte,PSC,NA,2002,cadeira
+R. G. do Norte,PSDC,NA,2002,cadeira
+R. G. do Norte,PMN,NA,2002,cadeira
+Paraíba,PT,1,2002,cadeira
+Paraíba,PFL,1,2002,cadeira
+Paraíba,PMDB,2,2002,cadeira
+Paraíba,PSDB,3,2002,cadeira
+Paraíba,PPB,1,2002,cadeira
+Paraíba,PL,1,2002,cadeira
+Paraíba,PTB,2,2002,cadeira
+Paraíba,PSB,NA,2002,cadeira
+Paraíba,PDT,NA,2002,cadeira
+Paraíba,PPS,NA,2002,cadeira
+Paraíba,PC do B,NA,2002,cadeira
+Paraíba,PRONA,NA,2002,cadeira
+Paraíba,PV,NA,2002,cadeira
+Paraíba,PSD,1,2002,cadeira
+Paraíba,PST,NA,2002,cadeira
+Paraíba,PSL,NA,2002,cadeira
+Paraíba,PSC,NA,2002,cadeira
+Paraíba,PSDC,NA,2002,cadeira
+Paraíba,PMN,NA,2002,cadeira
+Pernambuco,PT,3,2002,cadeira
+Pernambuco,PFL,5,2002,cadeira
+Pernambuco,PMDB,4,2002,cadeira
+Pernambuco,PSDB,3,2002,cadeira
+Pernambuco,PPB,3,2002,cadeira
+Pernambuco,PL,1,2002,cadeira
+Pernambuco,PTB,NA,2002,cadeira
+Pernambuco,PSB,4,2002,cadeira
+Pernambuco,PDT,NA,2002,cadeira
+Pernambuco,PPS,1,2002,cadeira
+Pernambuco,PC do B,1,2002,cadeira
+Pernambuco,PRONA,NA,2002,cadeira
+Pernambuco,PV,NA,2002,cadeira
+Pernambuco,PSD,NA,2002,cadeira
+Pernambuco,PST,NA,2002,cadeira
+Pernambuco,PSL,NA,2002,cadeira
+Pernambuco,PSC,NA,2002,cadeira
+Pernambuco,PSDC,NA,2002,cadeira
+Pernambuco,PMN,NA,2002,cadeira
+Alagoas,PT,NA,2002,cadeira
+Alagoas,PFL,2,2002,cadeira
+Alagoas,PMDB,1,2002,cadeira
+Alagoas,PSDB,1,2002,cadeira
+Alagoas,PPB,NA,2002,cadeira
+Alagoas,PL,1,2002,cadeira
+Alagoas,PTB,2,2002,cadeira
+Alagoas,PSB,2,2002,cadeira
+Alagoas,PDT,NA,2002,cadeira
+Alagoas,PPS,NA,2002,cadeira
+Alagoas,PC do B,NA,2002,cadeira
+Alagoas,PRONA,NA,2002,cadeira
+Alagoas,PV,NA,2002,cadeira
+Alagoas,PSD,NA,2002,cadeira
+Alagoas,PST,NA,2002,cadeira
+Alagoas,PSL,NA,2002,cadeira
+Alagoas,PSC,NA,2002,cadeira
+Alagoas,PSDC,NA,2002,cadeira
+Alagoas,PMN,NA,2002,cadeira
+Sergipe,PT,1,2002,cadeira
+Sergipe,PFL,2,2002,cadeira
+Sergipe,PMDB,1,2002,cadeira
+Sergipe,PSDB,1,2002,cadeira
+Sergipe,PPB,1,2002,cadeira
+Sergipe,PL,1,2002,cadeira
+Sergipe,PTB,NA,2002,cadeira
+Sergipe,PSB,NA,2002,cadeira
+Sergipe,PDT,NA,2002,cadeira
+Sergipe,PPS,NA,2002,cadeira
+Sergipe,PC do B,NA,2002,cadeira
+Sergipe,PRONA,NA,2002,cadeira
+Sergipe,PV,NA,2002,cadeira
+Sergipe,PSD,NA,2002,cadeira
+Sergipe,PST,NA,2002,cadeira
+Sergipe,PSL,NA,2002,cadeira
+Sergipe,PSC,NA,2002,cadeira
+Sergipe,PSDC,NA,2002,cadeira
+Sergipe,PMN,1,2002,cadeira
+Bahia,PT,7,2002,cadeira
+Bahia,PFL,19,2002,cadeira
+Bahia,PMDB,3,2002,cadeira
+Bahia,PSDB,2,2002,cadeira
+Bahia,PPB,2,2002,cadeira
+Bahia,PL,NA,2002,cadeira
+Bahia,PTB,1,2002,cadeira
+Bahia,PSB,NA,2002,cadeira
+Bahia,PDT,1,2002,cadeira
+Bahia,PPS,1,2002,cadeira
+Bahia,PC do B,2,2002,cadeira
+Bahia,PRONA,NA,2002,cadeira
+Bahia,PV,1,2002,cadeira
+Bahia,PSD,NA,2002,cadeira
+Bahia,PST,NA,2002,cadeira
+Bahia,PSL,NA,2002,cadeira
+Bahia,PSC,NA,2002,cadeira
+Bahia,PSDC,NA,2002,cadeira
+Bahia,PMN,NA,2002,cadeira
+Minas Gerais,PT,11,2002,cadeira
+Minas Gerais,PFL,7,2002,cadeira
+Minas Gerais,PMDB,6,2002,cadeira
+Minas Gerais,PSDB,8,2002,cadeira
+Minas Gerais,PPB,4,2002,cadeira
+Minas Gerais,PL,4,2002,cadeira
+Minas Gerais,PTB,2,2002,cadeira
+Minas Gerais,PSB,1,2002,cadeira
+Minas Gerais,PDT,2,2002,cadeira
+Minas Gerais,PPS,3,2002,cadeira
+Minas Gerais,PC do B,1,2002,cadeira
+Minas Gerais,PRONA,NA,2002,cadeira
+Minas Gerais,PV,1,2002,cadeira
+Minas Gerais,PSD,NA,2002,cadeira
+Minas Gerais,PST,2,2002,cadeira
+Minas Gerais,PSL,1,2002,cadeira
+Minas Gerais,PSC,NA,2002,cadeira
+Minas Gerais,PSDC,NA,2002,cadeira
+Minas Gerais,PMN,NA,2002,cadeira
+Espirito Santo,PT,1,2002,cadeira
+Espirito Santo,PFL,NA,2002,cadeira
+Espirito Santo,PMDB,1,2002,cadeira
+Espirito Santo,PSDB,2,2002,cadeira
+Espirito Santo,PPB,2,2002,cadeira
+Espirito Santo,PL,1,2002,cadeira
+Espirito Santo,PTB,1,2002,cadeira
+Espirito Santo,PSB,1,2002,cadeira
+Espirito Santo,PDT,1,2002,cadeira
+Espirito Santo,PPS,NA,2002,cadeira
+Espirito Santo,PC do B,NA,2002,cadeira
+Espirito Santo,PRONA,NA,2002,cadeira
+Espirito Santo,PV,NA,2002,cadeira
+Espirito Santo,PSD,NA,2002,cadeira
+Espirito Santo,PST,NA,2002,cadeira
+Espirito Santo,PSL,NA,2002,cadeira
+Espirito Santo,PSC,NA,2002,cadeira
+Espirito Santo,PSDC,NA,2002,cadeira
+Espirito Santo,PMN,NA,2002,cadeira
+Rio de Janeiro,PT,7,2002,cadeira
+Rio de Janeiro,PFL,4,2002,cadeira
+Rio de Janeiro,PMDB,6,2002,cadeira
+Rio de Janeiro,PSDB,5,2002,cadeira
+Rio de Janeiro,PPB,6,2002,cadeira
+Rio de Janeiro,PL,3,2002,cadeira
+Rio de Janeiro,PTB,1,2002,cadeira
+Rio de Janeiro,PSB,6,2002,cadeira
+Rio de Janeiro,PDT,3,2002,cadeira
+Rio de Janeiro,PPS,NA,2002,cadeira
+Rio de Janeiro,PC do B,1,2002,cadeira
+Rio de Janeiro,PRONA,NA,2002,cadeira
+Rio de Janeiro,PV,1,2002,cadeira
+Rio de Janeiro,PSD,1,2002,cadeira
+Rio de Janeiro,PST,NA,2002,cadeira
+Rio de Janeiro,PSL,NA,2002,cadeira
+Rio de Janeiro,PSC,1,2002,cadeira
+Rio de Janeiro,PSDC,1,2002,cadeira
+Rio de Janeiro,PMN,NA,2002,cadeira
+São Paulo,PT,18,2002,cadeira
+São Paulo,PFL,7,2002,cadeira
+São Paulo,PMDB,4,2002,cadeira
+São Paulo,PSDB,11,2002,cadeira
+São Paulo,PPB,3,2002,cadeira
+São Paulo,PL,3,2002,cadeira
+São Paulo,PTB,5,2002,cadeira
+São Paulo,PSB,5,2002,cadeira
+São Paulo,PDT,1,2002,cadeira
+São Paulo,PPS,3,2002,cadeira
+São Paulo,PC do B,2,2002,cadeira
+São Paulo,PRONA,6,2002,cadeira
+São Paulo,PV,2,2002,cadeira
+São Paulo,PSD,NA,2002,cadeira
+São Paulo,PST,NA,2002,cadeira
+São Paulo,PSL,NA,2002,cadeira
+São Paulo,PSC,NA,2002,cadeira
+São Paulo,PSDC,NA,2002,cadeira
+São Paulo,PMN,NA,2002,cadeira
+Paraná,PT,6,2002,cadeira
+Paraná,PFL,2,2002,cadeira
+Paraná,PMDB,6,2002,cadeira
+Paraná,PSDB,5,2002,cadeira
+Paraná,PPB,4,2002,cadeira
+Paraná,PL,1,2002,cadeira
+Paraná,PTB,3,2002,cadeira
+Paraná,PSB,NA,2002,cadeira
+Paraná,PDT,1,2002,cadeira
+Paraná,PPS,2,2002,cadeira
+Paraná,PC do B,NA,2002,cadeira
+Paraná,PRONA,NA,2002,cadeira
+Paraná,PV,NA,2002,cadeira
+Paraná,PSD,NA,2002,cadeira
+Paraná,PST,NA,2002,cadeira
+Paraná,PSL,NA,2002,cadeira
+Paraná,PSC,NA,2002,cadeira
+Paraná,PSDC,NA,2002,cadeira
+Paraná,PMN,NA,2002,cadeira
+Santa Catarina,PT,5,2002,cadeira
+Santa Catarina,PFL,2,2002,cadeira
+Santa Catarina,PMDB,4,2002,cadeira
+Santa Catarina,PSDB,NA,2002,cadeira
+Santa Catarina,PPB,4,2002,cadeira
+Santa Catarina,PL,NA,2002,cadeira
+Santa Catarina,PTB,NA,2002,cadeira
+Santa Catarina,PSB,NA,2002,cadeira
+Santa Catarina,PDT,1,2002,cadeira
+Santa Catarina,PPS,NA,2002,cadeira
+Santa Catarina,PC do B,NA,2002,cadeira
+Santa Catarina,PRONA,NA,2002,cadeira
+Santa Catarina,PV,NA,2002,cadeira
+Santa Catarina,PSD,NA,2002,cadeira
+Santa Catarina,PST,NA,2002,cadeira
+Santa Catarina,PSL,NA,2002,cadeira
+Santa Catarina,PSC,NA,2002,cadeira
+Santa Catarina,PSDC,NA,2002,cadeira
+Santa Catarina,PMN,NA,2002,cadeira
+R. G. do Sul,PT,8,2002,cadeira
+R. G. do Sul,PFL,1,2002,cadeira
+R. G. do Sul,PMDB,5,2002,cadeira
+R. G. do Sul,PSDB,2,2002,cadeira
+R. G. do Sul,PPB,6,2002,cadeira
+R. G. do Sul,PL,1,2002,cadeira
+R. G. do Sul,PTB,3,2002,cadeira
+R. G. do Sul,PSB,1,2002,cadeira
+R. G. do Sul,PDT,3,2002,cadeira
+R. G. do Sul,PPS,1,2002,cadeira
+R. G. do Sul,PC do B,NA,2002,cadeira
+R. G. do Sul,PRONA,NA,2002,cadeira
+R. G. do Sul,PV,NA,2002,cadeira
+R. G. do Sul,PSD,NA,2002,cadeira
+R. G. do Sul,PST,NA,2002,cadeira
+R. G. do Sul,PSL,NA,2002,cadeira
+R. G. do Sul,PSC,NA,2002,cadeira
+R. G. do Sul,PSDC,NA,2002,cadeira
+R. G. do Sul,PMN,NA,2002,cadeira
+M. G. do Sul,PT,3,2002,cadeira
+M. G. do Sul,PFL,1,2002,cadeira
+M. G. do Sul,PMDB,2,2002,cadeira
+M. G. do Sul,PSDB,NA,2002,cadeira
+M. G. do Sul,PPB,NA,2002,cadeira
+M. G. do Sul,PL,NA,2002,cadeira
+M. G. do Sul,PTB,1,2002,cadeira
+M. G. do Sul,PSB,NA,2002,cadeira
+M. G. do Sul,PDT,NA,2002,cadeira
+M. G. do Sul,PPS,1,2002,cadeira
+M. G. do Sul,PC do B,NA,2002,cadeira
+M. G. do Sul,PRONA,NA,2002,cadeira
+M. G. do Sul,PV,NA,2002,cadeira
+M. G. do Sul,PSD,NA,2002,cadeira
+M. G. do Sul,PST,NA,2002,cadeira
+M. G. do Sul,PSL,NA,2002,cadeira
+M. G. do Sul,PSC,NA,2002,cadeira
+M. G. do Sul,PSDC,NA,2002,cadeira
+M. G. do Sul,PMN,NA,2002,cadeira
+Mato Grosso,PT,1,2002,cadeira
+Mato Grosso,PFL,1,2002,cadeira
+Mato Grosso,PMDB,1,2002,cadeira
+Mato Grosso,PSDB,3,2002,cadeira
+Mato Grosso,PPB,1,2002,cadeira
+Mato Grosso,PL,1,2002,cadeira
+Mato Grosso,PTB,NA,2002,cadeira
+Mato Grosso,PSB,NA,2002,cadeira
+Mato Grosso,PDT,NA,2002,cadeira
+Mato Grosso,PPS,NA,2002,cadeira
+Mato Grosso,PC do B,NA,2002,cadeira
+Mato Grosso,PRONA,NA,2002,cadeira
+Mato Grosso,PV,NA,2002,cadeira
+Mato Grosso,PSD,NA,2002,cadeira
+Mato Grosso,PST,NA,2002,cadeira
+Mato Grosso,PSL,NA,2002,cadeira
+Mato Grosso,PSC,NA,2002,cadeira
+Mato Grosso,PSDC,NA,2002,cadeira
+Mato Grosso,PMN,NA,2002,cadeira
+Goiás,PT,2,2002,cadeira
+Goiás,PFL,3,2002,cadeira
+Goiás,PMDB,4,2002,cadeira
+Goiás,PSDB,5,2002,cadeira
+Goiás,PPB,3,2002,cadeira
+Goiás,PL,NA,2002,cadeira
+Goiás,PTB,NA,2002,cadeira
+Goiás,PSB,NA,2002,cadeira
+Goiás,PDT,NA,2002,cadeira
+Goiás,PPS,NA,2002,cadeira
+Goiás,PC do B,NA,2002,cadeira
+Goiás,PRONA,NA,2002,cadeira
+Goiás,PV,NA,2002,cadeira
+Goiás,PSD,NA,2002,cadeira
+Goiás,PST,NA,2002,cadeira
+Goiás,PSL,NA,2002,cadeira
+Goiás,PSC,NA,2002,cadeira
+Goiás,PSDC,NA,2002,cadeira
+Goiás,PMN,NA,2002,cadeira
+Distrito Federal,PT,2,2002,cadeira
+Distrito Federal,PFL,1,2002,cadeira
+Distrito Federal,PMDB,3,2002,cadeira
+Distrito Federal,PSDB,NA,2002,cadeira
+Distrito Federal,PPB,NA,2002,cadeira
+Distrito Federal,PL,NA,2002,cadeira
+Distrito Federal,PTB,NA,2002,cadeira
+Distrito Federal,PSB,NA,2002,cadeira
+Distrito Federal,PDT,NA,2002,cadeira
+Distrito Federal,PPS,NA,2002,cadeira
+Distrito Federal,PC do B,1,2002,cadeira
+Distrito Federal,PRONA,NA,2002,cadeira
+Distrito Federal,PV,NA,2002,cadeira
+Distrito Federal,PSD,1,2002,cadeira
+Distrito Federal,PST,NA,2002,cadeira
+Distrito Federal,PSL,NA,2002,cadeira
+Distrito Federal,PSC,NA,2002,cadeira
+Distrito Federal,PSDC,NA,2002,cadeira
+Distrito Federal,PMN,NA,2002,cadeira
+Rondônia,PMDB,2,2006,cadeira
+Rondônia,PT,2,2006,cadeira
+Rondônia,PSDB,NA,2006,cadeira
+Rondônia,PFL,NA,2006,cadeira
+Rondônia,PP,NA,2006,cadeira
+Rondônia,PSB,1,2006,cadeira
+Rondônia,PDT,NA,2006,cadeira
+Rondônia,PL,NA,2006,cadeira
+Rondônia,PTB,1,2006,cadeira
+Rondônia,PPS,1,2006,cadeira
+Rondônia,PV,1,2006,cadeira
+Rondônia,PCdoB,NA,2006,cadeira
+Rondônia,PSC,NA,2006,cadeira
+Rondônia,PMN,NA,2006,cadeira
+Rondônia,PSOL,NA,2006,cadeira
+Rondônia,PTC,NA,2006,cadeira
+Rondônia,PHS,NA,2006,cadeira
+Rondônia,PRONA,NA,2006,cadeira
+Rondônia,PTdoB,NA,2006,cadeira
+Rondônia,PAN,NA,2006,cadeira
+Rondônia,PRB,NA,2006,cadeira
+Acre,PMDB,1,2006,cadeira
+Acre,PT,3,2006,cadeira
+Acre,PSDB,NA,2006,cadeira
+Acre,PFL,NA,2006,cadeira
+Acre,PP,1,2006,cadeira
+Acre,PSB,NA,2006,cadeira
+Acre,PDT,NA,2006,cadeira
+Acre,PL,NA,2006,cadeira
+Acre,PTB,NA,2006,cadeira
+Acre,PPS,1,2006,cadeira
+Acre,PV,NA,2006,cadeira
+Acre,PCdoB,1,2006,cadeira
+Acre,PSC,NA,2006,cadeira
+Acre,PMN,1,2006,cadeira
+Acre,PSOL,NA,2006,cadeira
+Acre,PTC,NA,2006,cadeira
+Acre,PHS,NA,2006,cadeira
+Acre,PRONA,NA,2006,cadeira
+Acre,PTdoB,NA,2006,cadeira
+Acre,PAN,NA,2006,cadeira
+Acre,PRB,NA,2006,cadeira
+Amazonas,PMDB,1,2006,cadeira
+Amazonas,PT,1,2006,cadeira
+Amazonas,PSDB,NA,2006,cadeira
+Amazonas,PFL,1,2006,cadeira
+Amazonas,PP,2,2006,cadeira
+Amazonas,PSB,1,2006,cadeira
+Amazonas,PDT,NA,2006,cadeira
+Amazonas,PL,NA,2006,cadeira
+Amazonas,PTB,1,2006,cadeira
+Amazonas,PPS,NA,2006,cadeira
+Amazonas,PV,NA,2006,cadeira
+Amazonas,PCdoB,1,2006,cadeira
+Amazonas,PSC,NA,2006,cadeira
+Amazonas,PMN,NA,2006,cadeira
+Amazonas,PSOL,NA,2006,cadeira
+Amazonas,PTC,NA,2006,cadeira
+Amazonas,PHS,NA,2006,cadeira
+Amazonas,PRONA,NA,2006,cadeira
+Amazonas,PTdoB,NA,2006,cadeira
+Amazonas,PAN,NA,2006,cadeira
+Amazonas,PRB,NA,2006,cadeira
+Roraima,PMDB,1,2006,cadeira
+Roraima,PT,NA,2006,cadeira
+Roraima,PSDB,1,2006,cadeira
+Roraima,PFL,2,2006,cadeira
+Roraima,PP,1,2006,cadeira
+Roraima,PSB,1,2006,cadeira
+Roraima,PDT,NA,2006,cadeira
+Roraima,PL,1,2006,cadeira
+Roraima,PTB,NA,2006,cadeira
+Roraima,PPS,NA,2006,cadeira
+Roraima,PV,NA,2006,cadeira
+Roraima,PCdoB,NA,2006,cadeira
+Roraima,PSC,NA,2006,cadeira
+Roraima,PMN,NA,2006,cadeira
+Roraima,PSOL,NA,2006,cadeira
+Roraima,PTC,1,2006,cadeira
+Roraima,PHS,NA,2006,cadeira
+Roraima,PRONA,NA,2006,cadeira
+Roraima,PTdoB,NA,2006,cadeira
+Roraima,PAN,NA,2006,cadeira
+Roraima,PRB,NA,2006,cadeira
+Pará,PMDB,6,2006,cadeira
+Pará,PT,3,2006,cadeira
+Pará,PSDB,3,2006,cadeira
+Pará,PFL,2,2006,cadeira
+Pará,PP,1,2006,cadeira
+Pará,PSB,NA,2006,cadeira
+Pará,PDT,1,2006,cadeira
+Pará,PL,NA,2006,cadeira
+Pará,PTB,NA,2006,cadeira
+Pará,PPS,NA,2006,cadeira
+Pará,PV,NA,2006,cadeira
+Pará,PCdoB,NA,2006,cadeira
+Pará,PSC,1,2006,cadeira
+Pará,PMN,NA,2006,cadeira
+Pará,PSOL,NA,2006,cadeira
+Pará,PTC,NA,2006,cadeira
+Pará,PHS,NA,2006,cadeira
+Pará,PRONA,NA,2006,cadeira
+Pará,PTdoB,NA,2006,cadeira
+Pará,PAN,NA,2006,cadeira
+Pará,PRB,NA,2006,cadeira
+Amapá,PMDB,2,2006,cadeira
+Amapá,PT,1,2006,cadeira
+Amapá,PSDB,NA,2006,cadeira
+Amapá,PFL,1,2006,cadeira
+Amapá,PP,NA,2006,cadeira
+Amapá,PSB,1,2006,cadeira
+Amapá,PDT,1,2006,cadeira
+Amapá,PL,NA,2006,cadeira
+Amapá,PTB,NA,2006,cadeira
+Amapá,PPS,1,2006,cadeira
+Amapá,PV,NA,2006,cadeira
+Amapá,PCdoB,1,2006,cadeira
+Amapá,PSC,NA,2006,cadeira
+Amapá,PMN,NA,2006,cadeira
+Amapá,PSOL,NA,2006,cadeira
+Amapá,PTC,NA,2006,cadeira
+Amapá,PHS,NA,2006,cadeira
+Amapá,PRONA,NA,2006,cadeira
+Amapá,PTdoB,NA,2006,cadeira
+Amapá,PAN,NA,2006,cadeira
+Amapá,PRB,NA,2006,cadeira
+Tocantins,PMDB,2,2006,cadeira
+Tocantins,PT,NA,2006,cadeira
+Tocantins,PSDB,2,2006,cadeira
+Tocantins,PFL,3,2006,cadeira
+Tocantins,PP,1,2006,cadeira
+Tocantins,PSB,NA,2006,cadeira
+Tocantins,PDT,NA,2006,cadeira
+Tocantins,PL,NA,2006,cadeira
+Tocantins,PTB,NA,2006,cadeira
+Tocantins,PPS,NA,2006,cadeira
+Tocantins,PV,NA,2006,cadeira
+Tocantins,PCdoB,NA,2006,cadeira
+Tocantins,PSC,NA,2006,cadeira
+Tocantins,PMN,NA,2006,cadeira
+Tocantins,PSOL,NA,2006,cadeira
+Tocantins,PTC,NA,2006,cadeira
+Tocantins,PHS,NA,2006,cadeira
+Tocantins,PRONA,NA,2006,cadeira
+Tocantins,PTdoB,NA,2006,cadeira
+Tocantins,PAN,NA,2006,cadeira
+Tocantins,PRB,NA,2006,cadeira
+Maranhão,PMDB,3,2006,cadeira
+Maranhão,PT,1,2006,cadeira
+Maranhão,PSDB,4,2006,cadeira
+Maranhão,PFL,2,2006,cadeira
+Maranhão,PP,NA,2006,cadeira
+Maranhão,PSB,2,2006,cadeira
+Maranhão,PDT,2,2006,cadeira
+Maranhão,PL,NA,2006,cadeira
+Maranhão,PTB,1,2006,cadeira
+Maranhão,PPS,NA,2006,cadeira
+Maranhão,PV,1,2006,cadeira
+Maranhão,PCdoB,1,2006,cadeira
+Maranhão,PSC,NA,2006,cadeira
+Maranhão,PMN,NA,2006,cadeira
+Maranhão,PSOL,NA,2006,cadeira
+Maranhão,PTC,NA,2006,cadeira
+Maranhão,PHS,NA,2006,cadeira
+Maranhão,PRONA,NA,2006,cadeira
+Maranhão,PTdoB,NA,2006,cadeira
+Maranhão,PAN,1,2006,cadeira
+Maranhão,PRB,NA,2006,cadeira
+Piauí,PMDB,2,2006,cadeira
+Piauí,PT,2,2006,cadeira
+Piauí,PSDB,1,2006,cadeira
+Piauí,PFL,2,2006,cadeira
+Piauí,PP,1,2006,cadeira
+Piauí,PSB,NA,2006,cadeira
+Piauí,PDT,NA,2006,cadeira
+Piauí,PL,NA,2006,cadeira
+Piauí,PTB,1,2006,cadeira
+Piauí,PPS,NA,2006,cadeira
+Piauí,PV,NA,2006,cadeira
+Piauí,PCdoB,1,2006,cadeira
+Piauí,PSC,NA,2006,cadeira
+Piauí,PMN,NA,2006,cadeira
+Piauí,PSOL,NA,2006,cadeira
+Piauí,PTC,NA,2006,cadeira
+Piauí,PHS,NA,2006,cadeira
+Piauí,PRONA,NA,2006,cadeira
+Piauí,PTdoB,NA,2006,cadeira
+Piauí,PAN,NA,2006,cadeira
+Piauí,PRB,NA,2006,cadeira
+Ceará,PMDB,6,2006,cadeira
+Ceará,PT,4,2006,cadeira
+Ceará,PSDB,5,2006,cadeira
+Ceará,PFL,NA,2006,cadeira
+Ceará,PP,2,2006,cadeira
+Ceará,PSB,2,2006,cadeira
+Ceará,PDT,NA,2006,cadeira
+Ceará,PL,1,2006,cadeira
+Ceará,PTB,1,2006,cadeira
+Ceará,PPS,NA,2006,cadeira
+Ceará,PV,NA,2006,cadeira
+Ceará,PCdoB,1,2006,cadeira
+Ceará,PSC,NA,2006,cadeira
+Ceará,PMN,NA,2006,cadeira
+Ceará,PSOL,NA,2006,cadeira
+Ceará,PTC,NA,2006,cadeira
+Ceará,PHS,NA,2006,cadeira
+Ceará,PRONA,NA,2006,cadeira
+Ceará,PTdoB,NA,2006,cadeira
+Ceará,PAN,NA,2006,cadeira
+Ceará,PRB,NA,2006,cadeira
+R. G. do Norte,PMDB,1,2006,cadeira
+R. G. do Norte,PT,1,2006,cadeira
+R. G. do Norte,PSDB,NA,2006,cadeira
+R. G. do Norte,PFL,1,2006,cadeira
+R. G. do Norte,PP,1,2006,cadeira
+R. G. do Norte,PSB,2,2006,cadeira
+R. G. do Norte,PDT,NA,2006,cadeira
+R. G. do Norte,PL,1,2006,cadeira
+R. G. do Norte,PTB,NA,2006,cadeira
+R. G. do Norte,PPS,NA,2006,cadeira
+R. G. do Norte,PV,NA,2006,cadeira
+R. G. do Norte,PCdoB,NA,2006,cadeira
+R. G. do Norte,PSC,NA,2006,cadeira
+R. G. do Norte,PMN,1,2006,cadeira
+R. G. do Norte,PSOL,NA,2006,cadeira
+R. G. do Norte,PTC,NA,2006,cadeira
+R. G. do Norte,PHS,NA,2006,cadeira
+R. G. do Norte,PRONA,NA,2006,cadeira
+R. G. do Norte,PTdoB,NA,2006,cadeira
+R. G. do Norte,PAN,NA,2006,cadeira
+R. G. do Norte,PRB,NA,2006,cadeira
+Paraíba,PMDB,3,2006,cadeira
+Paraíba,PT,1,2006,cadeira
+Paraíba,PSDB,3,2006,cadeira
+Paraíba,PFL,1,2006,cadeira
+Paraíba,PP,NA,2006,cadeira
+Paraíba,PSB,2,2006,cadeira
+Paraíba,PDT,NA,2006,cadeira
+Paraíba,PL,2,2006,cadeira
+Paraíba,PTB,NA,2006,cadeira
+Paraíba,PPS,NA,2006,cadeira
+Paraíba,PV,NA,2006,cadeira
+Paraíba,PCdoB,NA,2006,cadeira
+Paraíba,PSC,NA,2006,cadeira
+Paraíba,PMN,NA,2006,cadeira
+Paraíba,PSOL,NA,2006,cadeira
+Paraíba,PTC,NA,2006,cadeira
+Paraíba,PHS,NA,2006,cadeira
+Paraíba,PRONA,NA,2006,cadeira
+Paraíba,PTdoB,NA,2006,cadeira
+Paraíba,PAN,NA,2006,cadeira
+Paraíba,PRB,NA,2006,cadeira
+Pernambuco,PMDB,3,2006,cadeira
+Pernambuco,PT,5,2006,cadeira
+Pernambuco,PSDB,2,2006,cadeira
+Pernambuco,PFL,3,2006,cadeira
+Pernambuco,PP,1,2006,cadeira
+Pernambuco,PSB,3,2006,cadeira
+Pernambuco,PDT,1,2006,cadeira
+Pernambuco,PL,1,2006,cadeira
+Pernambuco,PTB,3,2006,cadeira
+Pernambuco,PPS,1,2006,cadeira
+Pernambuco,PV,NA,2006,cadeira
+Pernambuco,PCdoB,1,2006,cadeira
+Pernambuco,PSC,1,2006,cadeira
+Pernambuco,PMN,NA,2006,cadeira
+Pernambuco,PSOL,NA,2006,cadeira
+Pernambuco,PTC,NA,2006,cadeira
+Pernambuco,PHS,NA,2006,cadeira
+Pernambuco,PRONA,NA,2006,cadeira
+Pernambuco,PTdoB,NA,2006,cadeira
+Pernambuco,PAN,NA,2006,cadeira
+Pernambuco,PRB,NA,2006,cadeira
+Alagoas,PMDB,3,2006,cadeira
+Alagoas,PT,NA,2006,cadeira
+Alagoas,PSDB,NA,2006,cadeira
+Alagoas,PFL,2,2006,cadeira
+Alagoas,PP,1,2006,cadeira
+Alagoas,PSB,1,2006,cadeira
+Alagoas,PDT,1,2006,cadeira
+Alagoas,PL,NA,2006,cadeira
+Alagoas,PTB,NA,2006,cadeira
+Alagoas,PPS,NA,2006,cadeira
+Alagoas,PV,NA,2006,cadeira
+Alagoas,PCdoB,NA,2006,cadeira
+Alagoas,PSC,NA,2006,cadeira
+Alagoas,PMN,1,2006,cadeira
+Alagoas,PSOL,NA,2006,cadeira
+Alagoas,PTC,NA,2006,cadeira
+Alagoas,PHS,NA,2006,cadeira
+Alagoas,PRONA,NA,2006,cadeira
+Alagoas,PTdoB,NA,2006,cadeira
+Alagoas,PAN,NA,2006,cadeira
+Alagoas,PRB,NA,2006,cadeira
+Sergipe,PMDB,NA,2006,cadeira
+Sergipe,PT,1,2006,cadeira
+Sergipe,PSDB,1,2006,cadeira
+Sergipe,PFL,3,2006,cadeira
+Sergipe,PP,NA,2006,cadeira
+Sergipe,PSB,1,2006,cadeira
+Sergipe,PDT,NA,2006,cadeira
+Sergipe,PL,NA,2006,cadeira
+Sergipe,PTB,1,2006,cadeira
+Sergipe,PPS,NA,2006,cadeira
+Sergipe,PV,NA,2006,cadeira
+Sergipe,PCdoB,NA,2006,cadeira
+Sergipe,PSC,1,2006,cadeira
+Sergipe,PMN,NA,2006,cadeira
+Sergipe,PSOL,NA,2006,cadeira
+Sergipe,PTC,NA,2006,cadeira
+Sergipe,PHS,NA,2006,cadeira
+Sergipe,PRONA,NA,2006,cadeira
+Sergipe,PTdoB,NA,2006,cadeira
+Sergipe,PAN,NA,2006,cadeira
+Sergipe,PRB,NA,2006,cadeira
+Bahia,PMDB,1,2006,cadeira
+Bahia,PT,8,2006,cadeira
+Bahia,PSDB,2,2006,cadeira
+Bahia,PFL,13,2006,cadeira
+Bahia,PP,3,2006,cadeira
+Bahia,PSB,1,2006,cadeira
+Bahia,PDT,3,2006,cadeira
+Bahia,PL,3,2006,cadeira
+Bahia,PTB,NA,2006,cadeira
+Bahia,PPS,2,2006,cadeira
+Bahia,PV,1,2006,cadeira
+Bahia,PCdoB,2,2006,cadeira
+Bahia,PSC,NA,2006,cadeira
+Bahia,PMN,NA,2006,cadeira
+Bahia,PSOL,NA,2006,cadeira
+Bahia,PTC,NA,2006,cadeira
+Bahia,PHS,NA,2006,cadeira
+Bahia,PRONA,NA,2006,cadeira
+Bahia,PTdoB,NA,2006,cadeira
+Bahia,PAN,NA,2006,cadeira
+Bahia,PRB,NA,2006,cadeira
+Minas Gerais,PMDB,7,2006,cadeira
+Minas Gerais,PT,9,2006,cadeira
+Minas Gerais,PSDB,7,2006,cadeira
+Minas Gerais,PFL,6,2006,cadeira
+Minas Gerais,PP,3,2006,cadeira
+Minas Gerais,PSB,1,2006,cadeira
+Minas Gerais,PDT,2,2006,cadeira
+Minas Gerais,PL,6,2006,cadeira
+Minas Gerais,PTB,NA,2006,cadeira
+Minas Gerais,PPS,4,2006,cadeira
+Minas Gerais,PV,4,2006,cadeira
+Minas Gerais,PCdoB,1,2006,cadeira
+Minas Gerais,PSC,1,2006,cadeira
+Minas Gerais,PMN,NA,2006,cadeira
+Minas Gerais,PSOL,NA,2006,cadeira
+Minas Gerais,PTC,1,2006,cadeira
+Minas Gerais,PHS,1,2006,cadeira
+Minas Gerais,PRONA,NA,2006,cadeira
+Minas Gerais,PTdoB,NA,2006,cadeira
+Minas Gerais,PAN,NA,2006,cadeira
+Minas Gerais,PRB,NA,2006,cadeira
+Espirito Santo,PMDB,4,2006,cadeira
+Espirito Santo,PT,1,2006,cadeira
+Espirito Santo,PSDB,1,2006,cadeira
+Espirito Santo,PFL,NA,2006,cadeira
+Espirito Santo,PP,NA,2006,cadeira
+Espirito Santo,PSB,NA,2006,cadeira
+Espirito Santo,PDT,2,2006,cadeira
+Espirito Santo,PL,1,2006,cadeira
+Espirito Santo,PTB,NA,2006,cadeira
+Espirito Santo,PPS,NA,2006,cadeira
+Espirito Santo,PV,NA,2006,cadeira
+Espirito Santo,PCdoB,NA,2006,cadeira
+Espirito Santo,PSC,1,2006,cadeira
+Espirito Santo,PMN,NA,2006,cadeira
+Espirito Santo,PSOL,NA,2006,cadeira
+Espirito Santo,PTC,NA,2006,cadeira
+Espirito Santo,PHS,NA,2006,cadeira
+Espirito Santo,PRONA,NA,2006,cadeira
+Espirito Santo,PTdoB,NA,2006,cadeira
+Espirito Santo,PAN,NA,2006,cadeira
+Espirito Santo,PRB,NA,2006,cadeira
+Rio de Janeiro,PMDB,10,2006,cadeira
+Rio de Janeiro,PT,6,2006,cadeira
+Rio de Janeiro,PSDB,3,2006,cadeira
+Rio de Janeiro,PFL,5,2006,cadeira
+Rio de Janeiro,PP,2,2006,cadeira
+Rio de Janeiro,PSB,1,2006,cadeira
+Rio de Janeiro,PDT,3,2006,cadeira
+Rio de Janeiro,PL,1,2006,cadeira
+Rio de Janeiro,PTB,2,2006,cadeira
+Rio de Janeiro,PPS,3,2006,cadeira
+Rio de Janeiro,PV,1,2006,cadeira
+Rio de Janeiro,PCdoB,1,2006,cadeira
+Rio de Janeiro,PSC,3,2006,cadeira
+Rio de Janeiro,PMN,NA,2006,cadeira
+Rio de Janeiro,PSOL,1,2006,cadeira
+Rio de Janeiro,PTC,NA,2006,cadeira
+Rio de Janeiro,PHS,1,2006,cadeira
+Rio de Janeiro,PRONA,1,2006,cadeira
+Rio de Janeiro,PTdoB,1,2006,cadeira
+Rio de Janeiro,PAN,NA,2006,cadeira
+Rio de Janeiro,PRB,1,2006,cadeira
+São Paulo,PMDB,3,2006,cadeira
+São Paulo,PT,14,2006,cadeira
+São Paulo,PSDB,18,2006,cadeira
+São Paulo,PFL,5,2006,cadeira
+São Paulo,PP,5,2006,cadeira
+São Paulo,PSB,4,2006,cadeira
+São Paulo,PDT,3,2006,cadeira
+São Paulo,PL,2,2006,cadeira
+São Paulo,PTB,4,2006,cadeira
+São Paulo,PPS,2,2006,cadeira
+São Paulo,PV,5,2006,cadeira
+São Paulo,PCdoB,1,2006,cadeira
+São Paulo,PSC,1,2006,cadeira
+São Paulo,PMN,NA,2006,cadeira
+São Paulo,PSOL,1,2006,cadeira
+São Paulo,PTC,1,2006,cadeira
+São Paulo,PHS,NA,2006,cadeira
+São Paulo,PRONA,1,2006,cadeira
+São Paulo,PTdoB,NA,2006,cadeira
+São Paulo,PAN,NA,2006,cadeira
+São Paulo,PRB,NA,2006,cadeira
+Paraná,PMDB,8,2006,cadeira
+Paraná,PT,4,2006,cadeira
+Paraná,PSDB,4,2006,cadeira
+Paraná,PFL,5,2006,cadeira
+Paraná,PP,3,2006,cadeira
+Paraná,PSB,NA,2006,cadeira
+Paraná,PDT,1,2006,cadeira
+Paraná,PL,2,2006,cadeira
+Paraná,PTB,1,2006,cadeira
+Paraná,PPS,2,2006,cadeira
+Paraná,PV,NA,2006,cadeira
+Paraná,PCdoB,NA,2006,cadeira
+Paraná,PSC,NA,2006,cadeira
+Paraná,PMN,NA,2006,cadeira
+Paraná,PSOL,NA,2006,cadeira
+Paraná,PTC,NA,2006,cadeira
+Paraná,PHS,NA,2006,cadeira
+Paraná,PRONA,NA,2006,cadeira
+Paraná,PTdoB,NA,2006,cadeira
+Paraná,PAN,NA,2006,cadeira
+Paraná,PRB,NA,2006,cadeira
+Santa Catarina,PMDB,5,2006,cadeira
+Santa Catarina,PT,3,2006,cadeira
+Santa Catarina,PSDB,1,2006,cadeira
+Santa Catarina,PFL,3,2006,cadeira
+Santa Catarina,PP,3,2006,cadeira
+Santa Catarina,PSB,NA,2006,cadeira
+Santa Catarina,PDT,NA,2006,cadeira
+Santa Catarina,PL,NA,2006,cadeira
+Santa Catarina,PTB,NA,2006,cadeira
+Santa Catarina,PPS,1,2006,cadeira
+Santa Catarina,PV,NA,2006,cadeira
+Santa Catarina,PCdoB,NA,2006,cadeira
+Santa Catarina,PSC,NA,2006,cadeira
+Santa Catarina,PMN,NA,2006,cadeira
+Santa Catarina,PSOL,NA,2006,cadeira
+Santa Catarina,PTC,NA,2006,cadeira
+Santa Catarina,PHS,NA,2006,cadeira
+Santa Catarina,PRONA,NA,2006,cadeira
+Santa Catarina,PTdoB,NA,2006,cadeira
+Santa Catarina,PAN,NA,2006,cadeira
+Santa Catarina,PRB,NA,2006,cadeira
+R. G. do Sul,PMDB,5,2006,cadeira
+R. G. do Sul,PT,7,2006,cadeira
+R. G. do Sul,PSDB,2,2006,cadeira
+R. G. do Sul,PFL,2,2006,cadeira
+R. G. do Sul,PP,5,2006,cadeira
+R. G. do Sul,PSB,1,2006,cadeira
+R. G. do Sul,PDT,3,2006,cadeira
+R. G. do Sul,PL,NA,2006,cadeira
+R. G. do Sul,PTB,3,2006,cadeira
+R. G. do Sul,PPS,1,2006,cadeira
+R. G. do Sul,PV,NA,2006,cadeira
+R. G. do Sul,PCdoB,1,2006,cadeira
+R. G. do Sul,PSC,NA,2006,cadeira
+R. G. do Sul,PMN,NA,2006,cadeira
+R. G. do Sul,PSOL,1,2006,cadeira
+R. G. do Sul,PTC,NA,2006,cadeira
+R. G. do Sul,PHS,NA,2006,cadeira
+R. G. do Sul,PRONA,NA,2006,cadeira
+R. G. do Sul,PTdoB,NA,2006,cadeira
+R. G. do Sul,PAN,NA,2006,cadeira
+R. G. do Sul,PRB,NA,2006,cadeira
+M. G. do Sul,PMDB,2,2006,cadeira
+M. G. do Sul,PT,2,2006,cadeira
+M. G. do Sul,PSDB,1,2006,cadeira
+M. G. do Sul,PFL,NA,2006,cadeira
+M. G. do Sul,PP,1,2006,cadeira
+M. G. do Sul,PSB,NA,2006,cadeira
+M. G. do Sul,PDT,1,2006,cadeira
+M. G. do Sul,PL,NA,2006,cadeira
+M. G. do Sul,PTB,NA,2006,cadeira
+M. G. do Sul,PPS,1,2006,cadeira
+M. G. do Sul,PV,NA,2006,cadeira
+M. G. do Sul,PCdoB,NA,2006,cadeira
+M. G. do Sul,PSC,NA,2006,cadeira
+M. G. do Sul,PMN,NA,2006,cadeira
+M. G. do Sul,PSOL,NA,2006,cadeira
+M. G. do Sul,PTC,NA,2006,cadeira
+M. G. do Sul,PHS,NA,2006,cadeira
+M. G. do Sul,PRONA,NA,2006,cadeira
+M. G. do Sul,PTdoB,NA,2006,cadeira
+M. G. do Sul,PAN,NA,2006,cadeira
+M. G. do Sul,PRB,NA,2006,cadeira
+Mato Grosso,PMDB,1,2006,cadeira
+Mato Grosso,PT,1,2006,cadeira
+Mato Grosso,PSDB,1,2006,cadeira
+Mato Grosso,PFL,NA,2006,cadeira
+Mato Grosso,PP,2,2006,cadeira
+Mato Grosso,PSB,1,2006,cadeira
+Mato Grosso,PDT,NA,2006,cadeira
+Mato Grosso,PL,1,2006,cadeira
+Mato Grosso,PTB,NA,2006,cadeira
+Mato Grosso,PPS,1,2006,cadeira
+Mato Grosso,PV,NA,2006,cadeira
+Mato Grosso,PCdoB,NA,2006,cadeira
+Mato Grosso,PSC,NA,2006,cadeira
+Mato Grosso,PMN,NA,2006,cadeira
+Mato Grosso,PSOL,NA,2006,cadeira
+Mato Grosso,PTC,NA,2006,cadeira
+Mato Grosso,PHS,NA,2006,cadeira
+Mato Grosso,PRONA,NA,2006,cadeira
+Mato Grosso,PTdoB,NA,2006,cadeira
+Mato Grosso,PAN,NA,2006,cadeira
+Mato Grosso,PRB,NA,2006,cadeira
+Goiás,PMDB,5,2006,cadeira
+Goiás,PT,2,2006,cadeira
+Goiás,PSDB,4,2006,cadeira
+Goiás,PFL,1,2006,cadeira
+Goiás,PP,2,2006,cadeira
+Goiás,PSB,NA,2006,cadeira
+Goiás,PDT,NA,2006,cadeira
+Goiás,PL,1,2006,cadeira
+Goiás,PTB,2,2006,cadeira
+Goiás,PPS,NA,2006,cadeira
+Goiás,PV,NA,2006,cadeira
+Goiás,PCdoB,NA,2006,cadeira
+Goiás,PSC,NA,2006,cadeira
+Goiás,PMN,NA,2006,cadeira
+Goiás,PSOL,NA,2006,cadeira
+Goiás,PTC,NA,2006,cadeira
+Goiás,PHS,NA,2006,cadeira
+Goiás,PRONA,NA,2006,cadeira
+Goiás,PTdoB,NA,2006,cadeira
+Goiás,PAN,NA,2006,cadeira
+Goiás,PRB,NA,2006,cadeira
+Distrito Federal,PMDB,2,2006,cadeira
+Distrito Federal,PT,1,2006,cadeira
+Distrito Federal,PSDB,NA,2006,cadeira
+Distrito Federal,PFL,2,2006,cadeira
+Distrito Federal,PP,NA,2006,cadeira
+Distrito Federal,PSB,1,2006,cadeira
+Distrito Federal,PDT,NA,2006,cadeira
+Distrito Federal,PL,NA,2006,cadeira
+Distrito Federal,PTB,1,2006,cadeira
+Distrito Federal,PPS,1,2006,cadeira
+Distrito Federal,PV,NA,2006,cadeira
+Distrito Federal,PCdoB,NA,2006,cadeira
+Distrito Federal,PSC,NA,2006,cadeira
+Distrito Federal,PMN,NA,2006,cadeira
+Distrito Federal,PSOL,NA,2006,cadeira
+Distrito Federal,PTC,NA,2006,cadeira
+Distrito Federal,PHS,NA,2006,cadeira
+Distrito Federal,PRONA,NA,2006,cadeira
+Distrito Federal,PTdoB,NA,2006,cadeira
+Distrito Federal,PAN,NA,2006,cadeira
+Distrito Federal,PRB,NA,2006,cadeira
+Rondônia,PT,1,2010,cadeira
+Rondônia,PMDB,2,2010,cadeira
+Rondônia,PSDB,0,2010,cadeira
+Rondônia,PP,1,2010,cadeira
+Rondônia,DEM,0,2010,cadeira
+Rondônia,PR,0,2010,cadeira
+Rondônia,PSB,1,2010,cadeira
+Rondônia,PDT,0,2010,cadeira
+Rondônia,PTB,1,2010,cadeira
+Rondônia,PSC,0,2010,cadeira
+Rondônia,PCdoB,0,2010,cadeira
+Rondônia,PV,1,2010,cadeira
+Rondônia,PPS,1,2010,cadeira
+Rondônia,PRB,0,2010,cadeira
+Rondônia,PMN,0,2010,cadeira
+Rondônia,PTdoB,0,2010,cadeira
+Rondônia,PSOL,0,2010,cadeira
+Rondônia,PRTB,0,2010,cadeira
+Rondônia,PHS,0,2010,cadeira
+Rondônia,PRP,0,2010,cadeira
+Rondônia,PSL,0,2010,cadeira
+Rondônia,PTC,0,2010,cadeira
+Acre,PT,2,2010,cadeira
+Acre,PMDB,1,2010,cadeira
+Acre,PSDB,1,2010,cadeira
+Acre,PP,1,2010,cadeira
+Acre,DEM,0,2010,cadeira
+Acre,PR,0,2010,cadeira
+Acre,PSB,0,2010,cadeira
+Acre,PDT,0,2010,cadeira
+Acre,PTB,0,2010,cadeira
+Acre,PSC,1,2010,cadeira
+Acre,PCdoB,1,2010,cadeira
+Acre,PV,1,2010,cadeira
+Acre,PPS,0,2010,cadeira
+Acre,PRB,0,2010,cadeira
+Acre,PMN,0,2010,cadeira
+Acre,PTdoB,0,2010,cadeira
+Acre,PSOL,0,2010,cadeira
+Acre,PRTB,0,2010,cadeira
+Acre,PHS,0,2010,cadeira
+Acre,PRP,0,2010,cadeira
+Acre,PSL,0,2010,cadeira
+Acre,PTC,0,2010,cadeira
+Amazonas,PT,1,2010,cadeira
+Amazonas,PMDB,1,2010,cadeira
+Amazonas,PSDB,NA,2010,cadeira
+Amazonas,PP,2,2010,cadeira
+Amazonas,DEM,1,2010,cadeira
+Amazonas,PR,1,2010,cadeira
+Amazonas,PSB,0,2010,cadeira
+Amazonas,PDT,0,2010,cadeira
+Amazonas,PTB,1,2010,cadeira
+Amazonas,PSC,1,2010,cadeira
+Amazonas,PCdoB,0,2010,cadeira
+Amazonas,PV,0,2010,cadeira
+Amazonas,PPS,0,2010,cadeira
+Amazonas,PRB,0,2010,cadeira
+Amazonas,PMN,0,2010,cadeira
+Amazonas,PTdoB,0,2010,cadeira
+Amazonas,PSOL,0,2010,cadeira
+Amazonas,PRTB,0,2010,cadeira
+Amazonas,PHS,0,2010,cadeira
+Amazonas,PRP,0,2010,cadeira
+Amazonas,PSL,0,2010,cadeira
+Amazonas,PTC,0,2010,cadeira
+Roraima,PT,NA,2010,cadeira
+Roraima,PMDB,2,2010,cadeira
+Roraima,PSDB,1,2010,cadeira
+Roraima,PP,1,2010,cadeira
+Roraima,DEM,1,2010,cadeira
+Roraima,PR,1,2010,cadeira
+Roraima,PSB,0,2010,cadeira
+Roraima,PDT,0,2010,cadeira
+Roraima,PTB,0,2010,cadeira
+Roraima,PSC,0,2010,cadeira
+Roraima,PCdoB,0,2010,cadeira
+Roraima,PV,0,2010,cadeira
+Roraima,PPS,0,2010,cadeira
+Roraima,PRB,1,2010,cadeira
+Roraima,PMN,0,2010,cadeira
+Roraima,PTdoB,0,2010,cadeira
+Roraima,PSOL,0,2010,cadeira
+Roraima,PRTB,0,2010,cadeira
+Roraima,PHS,0,2010,cadeira
+Roraima,PRP,1,2010,cadeira
+Roraima,PSL,0,2010,cadeira
+Roraima,PTC,0,2010,cadeira
+Pará,PT,4,2010,cadeira
+Pará,PMDB,4,2010,cadeira
+Pará,PSDB,3,2010,cadeira
+Pará,PP,0,2010,cadeira
+Pará,DEM,1,2010,cadeira
+Pará,PR,1,2010,cadeira
+Pará,PSB,0,2010,cadeira
+Pará,PDT,1,2010,cadeira
+Pará,PTB,1,2010,cadeira
+Pará,PSC,1,2010,cadeira
+Pará,PCdoB,0,2010,cadeira
+Pará,PV,0,2010,cadeira
+Pará,PPS,1,2010,cadeira
+Pará,PRB,0,2010,cadeira
+Pará,PMN,0,2010,cadeira
+Pará,PTdoB,0,2010,cadeira
+Pará,PSOL,0,2010,cadeira
+Pará,PRTB,0,2010,cadeira
+Pará,PHS,0,2010,cadeira
+Pará,PRP,0,2010,cadeira
+Pará,PSL,0,2010,cadeira
+Pará,PTC,0,2010,cadeira
+Amapá,PT,2,2010,cadeira
+Amapá,PMDB,1,2010,cadeira
+Amapá,PSDB,1,2010,cadeira
+Amapá,PP,0,2010,cadeira
+Amapá,DEM,1,2010,cadeira
+Amapá,PR,0,2010,cadeira
+Amapá,PSB,0,2010,cadeira
+Amapá,PDT,1,2010,cadeira
+Amapá,PTB,0,2010,cadeira
+Amapá,PSC,0,2010,cadeira
+Amapá,PCdoB,1,2010,cadeira
+Amapá,PV,0,2010,cadeira
+Amapá,PPS,0,2010,cadeira
+Amapá,PRB,0,2010,cadeira
+Amapá,PMN,0,2010,cadeira
+Amapá,PTdoB,0,2010,cadeira
+Amapá,PSOL,0,2010,cadeira
+Amapá,PRTB,1,2010,cadeira
+Amapá,PHS,0,2010,cadeira
+Amapá,PRP,0,2010,cadeira
+Amapá,PSL,0,2010,cadeira
+Amapá,PTC,0,2010,cadeira
+Tocantins,PT,NA,2010,cadeira
+Tocantins,PMDB,1,2010,cadeira
+Tocantins,PSDB,1,2010,cadeira
+Tocantins,PP,1,2010,cadeira
+Tocantins,DEM,2,2010,cadeira
+Tocantins,PR,0,2010,cadeira
+Tocantins,PSB,1,2010,cadeira
+Tocantins,PDT,1,2010,cadeira
+Tocantins,PTB,0,2010,cadeira
+Tocantins,PSC,0,2010,cadeira
+Tocantins,PCdoB,0,2010,cadeira
+Tocantins,PV,0,2010,cadeira
+Tocantins,PPS,1,2010,cadeira
+Tocantins,PRB,0,2010,cadeira
+Tocantins,PMN,0,2010,cadeira
+Tocantins,PTdoB,0,2010,cadeira
+Tocantins,PSOL,0,2010,cadeira
+Tocantins,PRTB,0,2010,cadeira
+Tocantins,PHS,0,2010,cadeira
+Tocantins,PRP,0,2010,cadeira
+Tocantins,PSL,0,2010,cadeira
+Tocantins,PTC,0,2010,cadeira
+Maranhão,PT,1,2010,cadeira
+Maranhão,PMDB,5,2010,cadeira
+Maranhão,PSDB,3,2010,cadeira
+Maranhão,PP,1,2010,cadeira
+Maranhão,DEM,1,2010,cadeira
+Maranhão,PR,1,2010,cadeira
+Maranhão,PSB,1,2010,cadeira
+Maranhão,PDT,0,2010,cadeira
+Maranhão,PTB,1,2010,cadeira
+Maranhão,PSC,0,2010,cadeira
+Maranhão,PCdoB,0,2010,cadeira
+Maranhão,PV,1,2010,cadeira
+Maranhão,PPS,0,2010,cadeira
+Maranhão,PRB,1,2010,cadeira
+Maranhão,PMN,0,2010,cadeira
+Maranhão,PTdoB,1,2010,cadeira
+Maranhão,PSOL,0,2010,cadeira
+Maranhão,PRTB,0,2010,cadeira
+Maranhão,PHS,0,2010,cadeira
+Maranhão,PRP,0,2010,cadeira
+Maranhão,PSL,0,2010,cadeira
+Maranhão,PTC,1,2010,cadeira
+Piauí,PT,2,2010,cadeira
+Piauí,PMDB,2,2010,cadeira
+Piauí,PSDB,NA,2010,cadeira
+Piauí,PP,1,2010,cadeira
+Piauí,DEM,2,2010,cadeira
+Piauí,PR,0,2010,cadeira
+Piauí,PSB,1,2010,cadeira
+Piauí,PDT,0,2010,cadeira
+Piauí,PTB,1,2010,cadeira
+Piauí,PSC,0,2010,cadeira
+Piauí,PCdoB,1,2010,cadeira
+Piauí,PV,0,2010,cadeira
+Piauí,PPS,0,2010,cadeira
+Piauí,PRB,0,2010,cadeira
+Piauí,PMN,0,2010,cadeira
+Piauí,PTdoB,0,2010,cadeira
+Piauí,PSOL,0,2010,cadeira
+Piauí,PRTB,0,2010,cadeira
+Piauí,PHS,0,2010,cadeira
+Piauí,PRP,0,2010,cadeira
+Piauí,PSL,0,2010,cadeira
+Piauí,PTC,0,2010,cadeira
+Ceará,PT,4,2010,cadeira
+Ceará,PMDB,5,2010,cadeira
+Ceará,PSDB,2,2010,cadeira
+Ceará,PP,1,2010,cadeira
+Ceará,DEM,0,2010,cadeira
+Ceará,PR,2,2010,cadeira
+Ceará,PSB,4,2010,cadeira
+Ceará,PDT,1,2010,cadeira
+Ceará,PTB,1,2010,cadeira
+Ceará,PSC,0,2010,cadeira
+Ceará,PCdoB,2,2010,cadeira
+Ceará,PV,0,2010,cadeira
+Ceará,PPS,0,2010,cadeira
+Ceará,PRB,0,2010,cadeira
+Ceará,PMN,0,2010,cadeira
+Ceará,PTdoB,0,2010,cadeira
+Ceará,PSOL,0,2010,cadeira
+Ceará,PRTB,0,2010,cadeira
+Ceará,PHS,0,2010,cadeira
+Ceará,PRP,0,2010,cadeira
+Ceará,PSL,0,2010,cadeira
+Ceará,PTC,0,2010,cadeira
+R. G. do Norte,PT,1,2010,cadeira
+R. G. do Norte,PMDB,1,2010,cadeira
+R. G. do Norte,PSDB,NA,2010,cadeira
+R. G. do Norte,PP,0,2010,cadeira
+R. G. do Norte,DEM,2,2010,cadeira
+R. G. do Norte,PR,1,2010,cadeira
+R. G. do Norte,PSB,1,2010,cadeira
+R. G. do Norte,PDT,0,2010,cadeira
+R. G. do Norte,PTB,0,2010,cadeira
+R. G. do Norte,PSC,0,2010,cadeira
+R. G. do Norte,PCdoB,0,2010,cadeira
+R. G. do Norte,PV,1,2010,cadeira
+R. G. do Norte,PPS,0,2010,cadeira
+R. G. do Norte,PRB,0,2010,cadeira
+R. G. do Norte,PMN,1,2010,cadeira
+R. G. do Norte,PTdoB,0,2010,cadeira
+R. G. do Norte,PSOL,0,2010,cadeira
+R. G. do Norte,PRTB,0,2010,cadeira
+R. G. do Norte,PHS,0,2010,cadeira
+R. G. do Norte,PRP,0,2010,cadeira
+R. G. do Norte,PSL,0,2010,cadeira
+R. G. do Norte,PTC,0,2010,cadeira
+Paraíba,PT,1,2010,cadeira
+Paraíba,PMDB,5,2010,cadeira
+Paraíba,PSDB,2,2010,cadeira
+Paraíba,PP,1,2010,cadeira
+Paraíba,DEM,1,2010,cadeira
+Paraíba,PR,1,2010,cadeira
+Paraíba,PSB,0,2010,cadeira
+Paraíba,PDT,1,2010,cadeira
+Paraíba,PTB,0,2010,cadeira
+Paraíba,PSC,0,2010,cadeira
+Paraíba,PCdoB,0,2010,cadeira
+Paraíba,PV,0,2010,cadeira
+Paraíba,PPS,0,2010,cadeira
+Paraíba,PRB,0,2010,cadeira
+Paraíba,PMN,0,2010,cadeira
+Paraíba,PTdoB,0,2010,cadeira
+Paraíba,PSOL,0,2010,cadeira
+Paraíba,PRTB,0,2010,cadeira
+Paraíba,PHS,0,2010,cadeira
+Paraíba,PRP,0,2010,cadeira
+Paraíba,PSL,0,2010,cadeira
+Paraíba,PTC,0,2010,cadeira
+Pernambuco,PT,4,2010,cadeira
+Pernambuco,PMDB,1,2010,cadeira
+Pernambuco,PSDB,2,2010,cadeira
+Pernambuco,PP,2,2010,cadeira
+Pernambuco,DEM,2,2010,cadeira
+Pernambuco,PR,2,2010,cadeira
+Pernambuco,PSB,5,2010,cadeira
+Pernambuco,PDT,1,2010,cadeira
+Pernambuco,PTB,4,2010,cadeira
+Pernambuco,PSC,1,2010,cadeira
+Pernambuco,PCdoB,1,2010,cadeira
+Pernambuco,PV,0,2010,cadeira
+Pernambuco,PPS,0,2010,cadeira
+Pernambuco,PRB,0,2010,cadeira
+Pernambuco,PMN,0,2010,cadeira
+Pernambuco,PTdoB,0,2010,cadeira
+Pernambuco,PSOL,0,2010,cadeira
+Pernambuco,PRTB,0,2010,cadeira
+Pernambuco,PHS,0,2010,cadeira
+Pernambuco,PRP,0,2010,cadeira
+Pernambuco,PSL,0,2010,cadeira
+Pernambuco,PTC,0,2010,cadeira
+Alagoas,PT,NA,2010,cadeira
+Alagoas,PMDB,2,2010,cadeira
+Alagoas,PSDB,1,2010,cadeira
+Alagoas,PP,1,2010,cadeira
+Alagoas,DEM,0,2010,cadeira
+Alagoas,PR,1,2010,cadeira
+Alagoas,PSB,1,2010,cadeira
+Alagoas,PDT,0,2010,cadeira
+Alagoas,PTB,2,2010,cadeira
+Alagoas,PSC,0,2010,cadeira
+Alagoas,PCdoB,0,2010,cadeira
+Alagoas,PV,0,2010,cadeira
+Alagoas,PPS,0,2010,cadeira
+Alagoas,PRB,0,2010,cadeira
+Alagoas,PMN,0,2010,cadeira
+Alagoas,PTdoB,1,2010,cadeira
+Alagoas,PSOL,0,2010,cadeira
+Alagoas,PRTB,0,2010,cadeira
+Alagoas,PHS,0,2010,cadeira
+Alagoas,PRP,0,2010,cadeira
+Alagoas,PSL,0,2010,cadeira
+Alagoas,PTC,0,2010,cadeira
+Sergipe,PT,2,2010,cadeira
+Sergipe,PMDB,1,2010,cadeira
+Sergipe,PSDB,NA,2010,cadeira
+Sergipe,PP,0,2010,cadeira
+Sergipe,DEM,1,2010,cadeira
+Sergipe,PR,1,2010,cadeira
+Sergipe,PSB,1,2010,cadeira
+Sergipe,PDT,0,2010,cadeira
+Sergipe,PTB,0,2010,cadeira
+Sergipe,PSC,1,2010,cadeira
+Sergipe,PCdoB,0,2010,cadeira
+Sergipe,PV,0,2010,cadeira
+Sergipe,PPS,0,2010,cadeira
+Sergipe,PRB,1,2010,cadeira
+Sergipe,PMN,0,2010,cadeira
+Sergipe,PTdoB,0,2010,cadeira
+Sergipe,PSOL,0,2010,cadeira
+Sergipe,PRTB,0,2010,cadeira
+Sergipe,PHS,0,2010,cadeira
+Sergipe,PRP,0,2010,cadeira
+Sergipe,PSL,0,2010,cadeira
+Sergipe,PTC,0,2010,cadeira
+Bahia,PT,10,2010,cadeira
+Bahia,PMDB,2,2010,cadeira
+Bahia,PSDB,2,2010,cadeira
+Bahia,PP,4,2010,cadeira
+Bahia,DEM,6,2010,cadeira
+Bahia,PR,3,2010,cadeira
+Bahia,PSB,0,2010,cadeira
+Bahia,PDT,4,2010,cadeira
+Bahia,PTB,1,2010,cadeira
+Bahia,PSC,2,2010,cadeira
+Bahia,PCdoB,3,2010,cadeira
+Bahia,PV,0,2010,cadeira
+Bahia,PPS,0,2010,cadeira
+Bahia,PRB,1,2010,cadeira
+Bahia,PMN,0,2010,cadeira
+Bahia,PTdoB,0,2010,cadeira
+Bahia,PSOL,0,2010,cadeira
+Bahia,PRTB,0,2010,cadeira
+Bahia,PHS,0,2010,cadeira
+Bahia,PRP,1,2010,cadeira
+Bahia,PSL,0,2010,cadeira
+Bahia,PTC,0,2010,cadeira
+Minas Gerais,PT,8,2010,cadeira
+Minas Gerais,PMDB,7,2010,cadeira
+Minas Gerais,PSDB,8,2010,cadeira
+Minas Gerais,PP,5,2010,cadeira
+Minas Gerais,DEM,3,2010,cadeira
+Minas Gerais,PR,7,2010,cadeira
+Minas Gerais,PSB,1,2010,cadeira
+Minas Gerais,PDT,2,2010,cadeira
+Minas Gerais,PTB,1,2010,cadeira
+Minas Gerais,PSC,1,2010,cadeira
+Minas Gerais,PCdoB,1,2010,cadeira
+Minas Gerais,PV,2,2010,cadeira
+Minas Gerais,PPS,2,2010,cadeira
+Minas Gerais,PRB,1,2010,cadeira
+Minas Gerais,PMN,1,2010,cadeira
+Minas Gerais,PTdoB,1,2010,cadeira
+Minas Gerais,PSOL,0,2010,cadeira
+Minas Gerais,PRTB,0,2010,cadeira
+Minas Gerais,PHS,1,2010,cadeira
+Minas Gerais,PRP,0,2010,cadeira
+Minas Gerais,PSL,1,2010,cadeira
+Minas Gerais,PTC,0,2010,cadeira
+Espirito Santo,PT,1,2010,cadeira
+Espirito Santo,PMDB,2,2010,cadeira
+Espirito Santo,PSDB,1,2010,cadeira
+Espirito Santo,PP,0,2010,cadeira
+Espirito Santo,DEM,0,2010,cadeira
+Espirito Santo,PR,0,2010,cadeira
+Espirito Santo,PSB,2,2010,cadeira
+Espirito Santo,PDT,3,2010,cadeira
+Espirito Santo,PTB,0,2010,cadeira
+Espirito Santo,PSC,1,2010,cadeira
+Espirito Santo,PCdoB,0,2010,cadeira
+Espirito Santo,PV,0,2010,cadeira
+Espirito Santo,PPS,0,2010,cadeira
+Espirito Santo,PRB,0,2010,cadeira
+Espirito Santo,PMN,0,2010,cadeira
+Espirito Santo,PTdoB,0,2010,cadeira
+Espirito Santo,PSOL,0,2010,cadeira
+Espirito Santo,PRTB,0,2010,cadeira
+Espirito Santo,PHS,0,2010,cadeira
+Espirito Santo,PRP,0,2010,cadeira
+Espirito Santo,PSL,0,2010,cadeira
+Espirito Santo,PTC,0,2010,cadeira
+Rio de Janeiro,PT,5,2010,cadeira
+Rio de Janeiro,PMDB,8,2010,cadeira
+Rio de Janeiro,PSDB,2,2010,cadeira
+Rio de Janeiro,PP,3,2010,cadeira
+Rio de Janeiro,DEM,2,2010,cadeira
+Rio de Janeiro,PR,7,2010,cadeira
+Rio de Janeiro,PSB,3,2010,cadeira
+Rio de Janeiro,PDT,3,2010,cadeira
+Rio de Janeiro,PTB,1,2010,cadeira
+Rio de Janeiro,PSC,2,2010,cadeira
+Rio de Janeiro,PCdoB,1,2010,cadeira
+Rio de Janeiro,PV,2,2010,cadeira
+Rio de Janeiro,PPS,1,2010,cadeira
+Rio de Janeiro,PRB,1,2010,cadeira
+Rio de Janeiro,PMN,0,2010,cadeira
+Rio de Janeiro,PTdoB,1,2010,cadeira
+Rio de Janeiro,PSOL,2,2010,cadeira
+Rio de Janeiro,PRTB,1,2010,cadeira
+Rio de Janeiro,PHS,1,2010,cadeira
+Rio de Janeiro,PRP,0,2010,cadeira
+Rio de Janeiro,PSL,0,2010,cadeira
+Rio de Janeiro,PTC,0,2010,cadeira
+São Paulo,PT,15,2010,cadeira
+São Paulo,PMDB,1,2010,cadeira
+São Paulo,PSDB,13,2010,cadeira
+São Paulo,PP,4,2010,cadeira
+São Paulo,DEM,6,2010,cadeira
+São Paulo,PR,4,2010,cadeira
+São Paulo,PSB,7,2010,cadeira
+São Paulo,PDT,3,2010,cadeira
+São Paulo,PTB,2,2010,cadeira
+São Paulo,PSC,2,2010,cadeira
+São Paulo,PCdoB,2,2010,cadeira
+São Paulo,PV,5,2010,cadeira
+São Paulo,PPS,3,2010,cadeira
+São Paulo,PRB,2,2010,cadeira
+São Paulo,PMN,0,2010,cadeira
+São Paulo,PTdoB,0,2010,cadeira
+São Paulo,PSOL,1,2010,cadeira
+São Paulo,PRTB,0,2010,cadeira
+São Paulo,PHS,0,2010,cadeira
+São Paulo,PRP,0,2010,cadeira
+São Paulo,PSL,0,2010,cadeira
+São Paulo,PTC,0,2010,cadeira
+Paraná,PT,5,2010,cadeira
+Paraná,PMDB,6,2010,cadeira
+Paraná,PSDB,3,2010,cadeira
+Paraná,PP,3,2010,cadeira
+Paraná,DEM,2,2010,cadeira
+Paraná,PR,1,2010,cadeira
+Paraná,PSB,1,2010,cadeira
+Paraná,PDT,0,2010,cadeira
+Paraná,PTB,1,2010,cadeira
+Paraná,PSC,4,2010,cadeira
+Paraná,PCdoB,0,2010,cadeira
+Paraná,PV,1,2010,cadeira
+Paraná,PPS,3,2010,cadeira
+Paraná,PRB,0,2010,cadeira
+Paraná,PMN,0,2010,cadeira
+Paraná,PTdoB,0,2010,cadeira
+Paraná,PSOL,0,2010,cadeira
+Paraná,PRTB,0,2010,cadeira
+Paraná,PHS,0,2010,cadeira
+Paraná,PRP,0,2010,cadeira
+Paraná,PSL,0,2010,cadeira
+Paraná,PTC,0,2010,cadeira
+Santa Catarina,PT,4,2010,cadeira
+Santa Catarina,PMDB,5,2010,cadeira
+Santa Catarina,PSDB,2,2010,cadeira
+Santa Catarina,PP,2,2010,cadeira
+Santa Catarina,DEM,3,2010,cadeira
+Santa Catarina,PR,0,2010,cadeira
+Santa Catarina,PSB,0,2010,cadeira
+Santa Catarina,PDT,0,2010,cadeira
+Santa Catarina,PTB,0,2010,cadeira
+Santa Catarina,PSC,0,2010,cadeira
+Santa Catarina,PCdoB,0,2010,cadeira
+Santa Catarina,PV,0,2010,cadeira
+Santa Catarina,PPS,0,2010,cadeira
+Santa Catarina,PRB,0,2010,cadeira
+Santa Catarina,PMN,0,2010,cadeira
+Santa Catarina,PTdoB,0,2010,cadeira
+Santa Catarina,PSOL,0,2010,cadeira
+Santa Catarina,PRTB,0,2010,cadeira
+Santa Catarina,PHS,0,2010,cadeira
+Santa Catarina,PRP,0,2010,cadeira
+Santa Catarina,PSL,0,2010,cadeira
+Santa Catarina,PTC,0,2010,cadeira
+R. G. do Sul,PT,8,2010,cadeira
+R. G. do Sul,PMDB,4,2010,cadeira
+R. G. do Sul,PSDB,1,2010,cadeira
+R. G. do Sul,PP,6,2010,cadeira
+R. G. do Sul,DEM,1,2010,cadeira
+R. G. do Sul,PR,0,2010,cadeira
+R. G. do Sul,PSB,3,2010,cadeira
+R. G. do Sul,PDT,3,2010,cadeira
+R. G. do Sul,PTB,3,2010,cadeira
+R. G. do Sul,PSC,0,2010,cadeira
+R. G. do Sul,PCdoB,2,2010,cadeira
+R. G. do Sul,PV,0,2010,cadeira
+R. G. do Sul,PPS,0,2010,cadeira
+R. G. do Sul,PRB,0,2010,cadeira
+R. G. do Sul,PMN,0,2010,cadeira
+R. G. do Sul,PTdoB,0,2010,cadeira
+R. G. do Sul,PSOL,0,2010,cadeira
+R. G. do Sul,PRTB,0,2010,cadeira
+R. G. do Sul,PHS,0,2010,cadeira
+R. G. do Sul,PRP,0,2010,cadeira
+R. G. do Sul,PSL,0,2010,cadeira
+R. G. do Sul,PTC,0,2010,cadeira
+M. G. do Sul,PT,2,2010,cadeira
+M. G. do Sul,PMDB,3,2010,cadeira
+M. G. do Sul,PSDB,1,2010,cadeira
+M. G. do Sul,PP,0,2010,cadeira
+M. G. do Sul,DEM,1,2010,cadeira
+M. G. do Sul,PR,1,2010,cadeira
+M. G. do Sul,PSB,0,2010,cadeira
+M. G. do Sul,PDT,0,2010,cadeira
+M. G. do Sul,PTB,0,2010,cadeira
+M. G. do Sul,PSC,0,2010,cadeira
+M. G. do Sul,PCdoB,0,2010,cadeira
+M. G. do Sul,PV,0,2010,cadeira
+M. G. do Sul,PPS,0,2010,cadeira
+M. G. do Sul,PRB,0,2010,cadeira
+M. G. do Sul,PMN,0,2010,cadeira
+M. G. do Sul,PTdoB,0,2010,cadeira
+M. G. do Sul,PSOL,0,2010,cadeira
+M. G. do Sul,PRTB,0,2010,cadeira
+M. G. do Sul,PHS,0,2010,cadeira
+M. G. do Sul,PRP,0,2010,cadeira
+M. G. do Sul,PSL,0,2010,cadeira
+M. G. do Sul,PTC,0,2010,cadeira
+Mato Grosso,PT,1,2010,cadeira
+Mato Grosso,PMDB,1,2010,cadeira
+Mato Grosso,PSDB,0,2010,cadeira
+Mato Grosso,PP,2,2010,cadeira
+Mato Grosso,DEM,1,2010,cadeira
+Mato Grosso,PR,2,2010,cadeira
+Mato Grosso,PSB,1,2010,cadeira
+Mato Grosso,PDT,0,2010,cadeira
+Mato Grosso,PTB,0,2010,cadeira
+Mato Grosso,PSC,0,2010,cadeira
+Mato Grosso,PCdoB,0,2010,cadeira
+Mato Grosso,PV,0,2010,cadeira
+Mato Grosso,PPS,0,2010,cadeira
+Mato Grosso,PRB,0,2010,cadeira
+Mato Grosso,PMN,0,2010,cadeira
+Mato Grosso,PTdoB,0,2010,cadeira
+Mato Grosso,PSOL,0,2010,cadeira
+Mato Grosso,PRTB,0,2010,cadeira
+Mato Grosso,PHS,0,2010,cadeira
+Mato Grosso,PRP,0,2010,cadeira
+Mato Grosso,PSL,0,2010,cadeira
+Mato Grosso,PTC,0,2010,cadeira
+Goiás,PT,1,2010,cadeira
+Goiás,PMDB,4,2010,cadeira
+Goiás,PSDB,3,2010,cadeira
+Goiás,PP,2,2010,cadeira
+Goiás,DEM,3,2010,cadeira
+Goiás,PR,1,2010,cadeira
+Goiás,PSB,0,2010,cadeira
+Goiás,PDT,1,2010,cadeira
+Goiás,PTB,1,2010,cadeira
+Goiás,PSC,0,2010,cadeira
+Goiás,PCdoB,0,2010,cadeira
+Goiás,PV,0,2010,cadeira
+Goiás,PPS,0,2010,cadeira
+Goiás,PRB,0,2010,cadeira
+Goiás,PMN,1,2010,cadeira
+Goiás,PTdoB,0,2010,cadeira
+Goiás,PSOL,0,2010,cadeira
+Goiás,PRTB,0,2010,cadeira
+Goiás,PHS,0,2010,cadeira
+Goiás,PRP,0,2010,cadeira
+Goiás,PSL,0,2010,cadeira
+Goiás,PTC,0,2010,cadeira
+Distrito Federal,PT,3,2010,cadeira
+Distrito Federal,PMDB,1,2010,cadeira
+Distrito Federal,PSDB,0,2010,cadeira
+Distrito Federal,PP,0,2010,cadeira
+Distrito Federal,DEM,0,2010,cadeira
+Distrito Federal,PR,2,2010,cadeira
+Distrito Federal,PSB,0,2010,cadeira
+Distrito Federal,PDT,1,2010,cadeira
+Distrito Federal,PTB,0,2010,cadeira
+Distrito Federal,PSC,0,2010,cadeira
+Distrito Federal,PCdoB,0,2010,cadeira
+Distrito Federal,PV,0,2010,cadeira
+Distrito Federal,PPS,0,2010,cadeira
+Distrito Federal,PRB,0,2010,cadeira
+Distrito Federal,PMN,1,2010,cadeira
+Distrito Federal,PTdoB,0,2010,cadeira
+Distrito Federal,PSOL,0,2010,cadeira
+Distrito Federal,PRTB,0,2010,cadeira
+Distrito Federal,PHS,0,2010,cadeira
+Distrito Federal,PRP,0,2010,cadeira
+Distrito Federal,PSL,0,2010,cadeira
+Distrito Federal,PTC,0,2010,cadeira
+Rondônia,PT,0,2014,cadeira
+Rondônia,PMDB,3,2014,cadeira
+Rondônia,PSDB,1,2014,cadeira
+Rondônia,PP,0,2014,cadeira
+Rondônia,PSD,0,2014,cadeira
+Rondônia,PSB,0,2014,cadeira
+Rondônia,PR,1,2014,cadeira
+Rondônia,PTB,1,2014,cadeira
+Rondônia,PRB,0,2014,cadeira
+Rondônia,DEM,0,2014,cadeira
+Rondônia,PDT,1,2014,cadeira
+Rondônia,SD,1,2014,cadeira
+Rondônia,PSC,0,2014,cadeira
+Rondônia,PROS,0,2014,cadeira
+Rondônia,PPS,0,2014,cadeira
+Rondônia,PCdoB,0,2014,cadeira
+Rondônia,PV,0,2014,cadeira
+Rondônia,PSOL,0,2014,cadeira
+Rondônia,PHS,0,2014,cadeira
+Rondônia,PTN,0,2014,cadeira
+Rondônia,PRP,0,2014,cadeira
+Rondônia,PMN,0,2014,cadeira
+Rondônia,PEN,0,2014,cadeira
+Rondônia,PSDC,0,2014,cadeira
+Rondônia,PTC,0,2014,cadeira
+Rondônia,PTdoB,0,2014,cadeira
+Rondônia,PSL,0,2014,cadeira
+Rondônia,PRTB,0,2014,cadeira
+Acre,PT,3,2014,cadeira
+Acre,PMDB,2,2014,cadeira
+Acre,PSDB,1,2014,cadeira
+Acre,PP,0,2014,cadeira
+Acre,PSD,0,2014,cadeira
+Acre,PSB,1,2014,cadeira
+Acre,PR,0,2014,cadeira
+Acre,PTB,0,2014,cadeira
+Acre,PRB,1,2014,cadeira
+Acre,DEM,0,2014,cadeira
+Acre,PDT,0,2014,cadeira
+Acre,SD,0,2014,cadeira
+Acre,PSC,0,2014,cadeira
+Acre,PROS,0,2014,cadeira
+Acre,PPS,0,2014,cadeira
+Acre,PCdoB,0,2014,cadeira
+Acre,PV,0,2014,cadeira
+Acre,PSOL,0,2014,cadeira
+Acre,PHS,0,2014,cadeira
+Acre,PTN,0,2014,cadeira
+Acre,PRP,0,2014,cadeira
+Acre,PMN,0,2014,cadeira
+Acre,PEN,0,2014,cadeira
+Acre,PSDC,0,2014,cadeira
+Acre,PTC,0,2014,cadeira
+Acre,PTdoB,0,2014,cadeira
+Acre,PSL,0,2014,cadeira
+Acre,PRTB,0,2014,cadeira
+Amazonas,PT,0,2014,cadeira
+Amazonas,PMDB,1,2014,cadeira
+Amazonas,PSDB,1,2014,cadeira
+Amazonas,PP,1,2014,cadeira
+Amazonas,PSD,2,2014,cadeira
+Amazonas,PSB,0,2014,cadeira
+Amazonas,PR,1,2014,cadeira
+Amazonas,PTB,0,2014,cadeira
+Amazonas,PRB,0,2014,cadeira
+Amazonas,DEM,1,2014,cadeira
+Amazonas,PDT,0,2014,cadeira
+Amazonas,SD,0,2014,cadeira
+Amazonas,PSC,0,2014,cadeira
+Amazonas,PROS,0,2014,cadeira
+Amazonas,PPS,1,2014,cadeira
+Amazonas,PCdoB,0,2014,cadeira
+Amazonas,PV,0,2014,cadeira
+Amazonas,PSOL,0,2014,cadeira
+Amazonas,PHS,0,2014,cadeira
+Amazonas,PTN,0,2014,cadeira
+Amazonas,PRP,0,2014,cadeira
+Amazonas,PMN,0,2014,cadeira
+Amazonas,PEN,0,2014,cadeira
+Amazonas,PSDC,0,2014,cadeira
+Amazonas,PTC,0,2014,cadeira
+Amazonas,PTdoB,0,2014,cadeira
+Amazonas,PSL,0,2014,cadeira
+Amazonas,PRTB,0,2014,cadeira
+Roraima,PT,0,2014,cadeira
+Roraima,PMDB,1,2014,cadeira
+Roraima,PSDB,1,2014,cadeira
+Roraima,PP,0,2014,cadeira
+Roraima,PSD,0,2014,cadeira
+Roraima,PSB,1,2014,cadeira
+Roraima,PR,1,2014,cadeira
+Roraima,PTB,0,2014,cadeira
+Roraima,PRB,1,2014,cadeira
+Roraima,DEM,0,2014,cadeira
+Roraima,PDT,1,2014,cadeira
+Roraima,SD,0,2014,cadeira
+Roraima,PSC,0,2014,cadeira
+Roraima,PROS,0,2014,cadeira
+Roraima,PPS,0,2014,cadeira
+Roraima,PCdoB,0,2014,cadeira
+Roraima,PV,0,2014,cadeira
+Roraima,PSOL,0,2014,cadeira
+Roraima,PHS,1,2014,cadeira
+Roraima,PTN,0,2014,cadeira
+Roraima,PRP,0,2014,cadeira
+Roraima,PMN,1,2014,cadeira
+Roraima,PEN,0,2014,cadeira
+Roraima,PSDC,0,2014,cadeira
+Roraima,PTC,0,2014,cadeira
+Roraima,PTdoB,0,2014,cadeira
+Roraima,PSL,0,2014,cadeira
+Roraima,PRTB,0,2014,cadeira
+Pará,PT,2,2014,cadeira
+Pará,PMDB,3,2014,cadeira
+Pará,PSDB,1,2014,cadeira
+Pará,PP,0,2014,cadeira
+Pará,PSD,3,2014,cadeira
+Pará,PSB,0,2014,cadeira
+Pará,PR,1,2014,cadeira
+Pará,PTB,1,2014,cadeira
+Pará,PRB,0,2014,cadeira
+Pará,DEM,1,2014,cadeira
+Pará,PDT,0,2014,cadeira
+Pará,SD,1,2014,cadeira
+Pará,PSC,1,2014,cadeira
+Pará,PROS,1,2014,cadeira
+Pará,PPS,1,2014,cadeira
+Pará,PCdoB,0,2014,cadeira
+Pará,PV,0,2014,cadeira
+Pará,PSOL,1,2014,cadeira
+Pará,PHS,0,2014,cadeira
+Pará,PTN,0,2014,cadeira
+Pará,PRP,0,2014,cadeira
+Pará,PMN,0,2014,cadeira
+Pará,PEN,0,2014,cadeira
+Pará,PSDC,0,2014,cadeira
+Pará,PTC,0,2014,cadeira
+Pará,PTdoB,0,2014,cadeira
+Pará,PSL,0,2014,cadeira
+Pará,PRTB,0,2014,cadeira
+Amapá,PT,1,2014,cadeira
+Amapá,PMDB,1,2014,cadeira
+Amapá,PSDB,0,2014,cadeira
+Amapá,PP,0,2014,cadeira
+Amapá,PSD,0,2014,cadeira
+Amapá,PSB,1,2014,cadeira
+Amapá,PR,1,2014,cadeira
+Amapá,PTB,1,2014,cadeira
+Amapá,PRB,1,2014,cadeira
+Amapá,DEM,0,2014,cadeira
+Amapá,PDT,1,2014,cadeira
+Amapá,SD,0,2014,cadeira
+Amapá,PSC,1,2014,cadeira
+Amapá,PROS,0,2014,cadeira
+Amapá,PPS,0,2014,cadeira
+Amapá,PCdoB,0,2014,cadeira
+Amapá,PV,0,2014,cadeira
+Amapá,PSOL,0,2014,cadeira
+Amapá,PHS,0,2014,cadeira
+Amapá,PTN,0,2014,cadeira
+Amapá,PRP,0,2014,cadeira
+Amapá,PMN,0,2014,cadeira
+Amapá,PEN,0,2014,cadeira
+Amapá,PSDC,0,2014,cadeira
+Amapá,PTC,0,2014,cadeira
+Amapá,PTdoB,0,2014,cadeira
+Amapá,PSL,0,2014,cadeira
+Amapá,PRTB,0,2014,cadeira
+Tocantins,PT,0,2014,cadeira
+Tocantins,PMDB,3,2014,cadeira
+Tocantins,PSDB,0,2014,cadeira
+Tocantins,PP,1,2014,cadeira
+Tocantins,PSD,1,2014,cadeira
+Tocantins,PSB,1,2014,cadeira
+Tocantins,PR,0,2014,cadeira
+Tocantins,PTB,0,2014,cadeira
+Tocantins,PRB,1,2014,cadeira
+Tocantins,DEM,1,2014,cadeira
+Tocantins,PDT,0,2014,cadeira
+Tocantins,SD,0,2014,cadeira
+Tocantins,PSC,0,2014,cadeira
+Tocantins,PROS,0,2014,cadeira
+Tocantins,PPS,0,2014,cadeira
+Tocantins,PCdoB,0,2014,cadeira
+Tocantins,PV,0,2014,cadeira
+Tocantins,PSOL,0,2014,cadeira
+Tocantins,PHS,0,2014,cadeira
+Tocantins,PTN,0,2014,cadeira
+Tocantins,PRP,0,2014,cadeira
+Tocantins,PMN,0,2014,cadeira
+Tocantins,PEN,0,2014,cadeira
+Tocantins,PSDC,0,2014,cadeira
+Tocantins,PTC,0,2014,cadeira
+Tocantins,PTdoB,0,2014,cadeira
+Tocantins,PSL,0,2014,cadeira
+Tocantins,PRTB,0,2014,cadeira
+Maranhão,PT,1,2014,cadeira
+Maranhão,PMDB,3,2014,cadeira
+Maranhão,PSDB,1,2014,cadeira
+Maranhão,PP,1,2014,cadeira
+Maranhão,PSD,0,2014,cadeira
+Maranhão,PSB,1,2014,cadeira
+Maranhão,PR,0,2014,cadeira
+Maranhão,PTB,1,2014,cadeira
+Maranhão,PRB,1,2014,cadeira
+Maranhão,DEM,0,2014,cadeira
+Maranhão,PDT,1,2014,cadeira
+Maranhão,SD,0,2014,cadeira
+Maranhão,PSC,0,2014,cadeira
+Maranhão,PROS,0,2014,cadeira
+Maranhão,PPS,1,2014,cadeira
+Maranhão,PCdoB,1,2014,cadeira
+Maranhão,PV,2,2014,cadeira
+Maranhão,PSOL,0,2014,cadeira
+Maranhão,PHS,0,2014,cadeira
+Maranhão,PTN,0,2014,cadeira
+Maranhão,PRP,1,2014,cadeira
+Maranhão,PMN,0,2014,cadeira
+Maranhão,PEN,2,2014,cadeira
+Maranhão,PSDC,1,2014,cadeira
+Maranhão,PTC,0,2014,cadeira
+Maranhão,PTdoB,0,2014,cadeira
+Maranhão,PSL,0,2014,cadeira
+Maranhão,PRTB,0,2014,cadeira
+Piauí,PT,2,2014,cadeira
+Piauí,PMDB,1,2014,cadeira
+Piauí,PSDB,0,2014,cadeira
+Piauí,PP,1,2014,cadeira
+Piauí,PSD,1,2014,cadeira
+Piauí,PSB,3,2014,cadeira
+Piauí,PR,0,2014,cadeira
+Piauí,PTB,2,2014,cadeira
+Piauí,PRB,0,2014,cadeira
+Piauí,DEM,0,2014,cadeira
+Piauí,PDT,0,2014,cadeira
+Piauí,SD,0,2014,cadeira
+Piauí,PSC,0,2014,cadeira
+Piauí,PROS,0,2014,cadeira
+Piauí,PPS,0,2014,cadeira
+Piauí,PCdoB,0,2014,cadeira
+Piauí,PV,0,2014,cadeira
+Piauí,PSOL,0,2014,cadeira
+Piauí,PHS,0,2014,cadeira
+Piauí,PTN,0,2014,cadeira
+Piauí,PRP,0,2014,cadeira
+Piauí,PMN,0,2014,cadeira
+Piauí,PEN,0,2014,cadeira
+Piauí,PSDC,0,2014,cadeira
+Piauí,PTC,0,2014,cadeira
+Piauí,PTdoB,0,2014,cadeira
+Piauí,PSL,0,2014,cadeira
+Piauí,PRTB,0,2014,cadeira
+Ceará,PT,4,2014,cadeira
+Ceará,PMDB,3,2014,cadeira
+Ceará,PSDB,1,2014,cadeira
+Ceará,PP,0,2014,cadeira
+Ceará,PSD,0,2014,cadeira
+Ceará,PSB,0,2014,cadeira
+Ceará,PR,2,2014,cadeira
+Ceará,PTB,1,2014,cadeira
+Ceará,PRB,1,2014,cadeira
+Ceará,DEM,1,2014,cadeira
+Ceará,PDT,1,2014,cadeira
+Ceará,SD,1,2014,cadeira
+Ceará,PSC,0,2014,cadeira
+Ceará,PROS,3,2014,cadeira
+Ceará,PPS,1,2014,cadeira
+Ceará,PCdoB,1,2014,cadeira
+Ceará,PV,0,2014,cadeira
+Ceará,PSOL,0,2014,cadeira
+Ceará,PHS,1,2014,cadeira
+Ceará,PTN,0,2014,cadeira
+Ceará,PRP,0,2014,cadeira
+Ceará,PMN,0,2014,cadeira
+Ceará,PEN,0,2014,cadeira
+Ceará,PSDC,0,2014,cadeira
+Ceará,PTC,0,2014,cadeira
+Ceará,PTdoB,0,2014,cadeira
+Ceará,PSL,1,2014,cadeira
+Ceará,PRTB,0,2014,cadeira
+R. G. do Norte,PT,0,2014,cadeira
+R. G. do Norte,PMDB,1,2014,cadeira
+R. G. do Norte,PSDB,1,2014,cadeira
+R. G. do Norte,PP,1,2014,cadeira
+R. G. do Norte,PSD,1,2014,cadeira
+R. G. do Norte,PSB,0,2014,cadeira
+R. G. do Norte,PR,1,2014,cadeira
+R. G. do Norte,PTB,0,2014,cadeira
+R. G. do Norte,PRB,0,2014,cadeira
+R. G. do Norte,DEM,1,2014,cadeira
+R. G. do Norte,PDT,0,2014,cadeira
+R. G. do Norte,SD,0,2014,cadeira
+R. G. do Norte,PSC,0,2014,cadeira
+R. G. do Norte,PROS,1,2014,cadeira
+R. G. do Norte,PPS,0,2014,cadeira
+R. G. do Norte,PCdoB,0,2014,cadeira
+R. G. do Norte,PV,0,2014,cadeira
+R. G. do Norte,PSOL,0,2014,cadeira
+R. G. do Norte,PHS,0,2014,cadeira
+R. G. do Norte,PTN,0,2014,cadeira
+R. G. do Norte,PRP,0,2014,cadeira
+R. G. do Norte,PMN,1,2014,cadeira
+R. G. do Norte,PEN,0,2014,cadeira
+R. G. do Norte,PSDC,0,2014,cadeira
+R. G. do Norte,PTC,0,2014,cadeira
+R. G. do Norte,PTdoB,0,2014,cadeira
+R. G. do Norte,PSL,0,2014,cadeira
+R. G. do Norte,PRTB,0,2014,cadeira
+Paraíba,PT,1,2014,cadeira
+Paraíba,PMDB,3,2014,cadeira
+Paraíba,PSDB,1,2014,cadeira
+Paraíba,PP,1,2014,cadeira
+Paraíba,PSD,1,2014,cadeira
+Paraíba,PSB,0,2014,cadeira
+Paraíba,PR,1,2014,cadeira
+Paraíba,PTB,1,2014,cadeira
+Paraíba,PRB,0,2014,cadeira
+Paraíba,DEM,1,2014,cadeira
+Paraíba,PDT,1,2014,cadeira
+Paraíba,SD,1,2014,cadeira
+Paraíba,PSC,0,2014,cadeira
+Paraíba,PROS,0,2014,cadeira
+Paraíba,PPS,0,2014,cadeira
+Paraíba,PCdoB,0,2014,cadeira
+Paraíba,PV,0,2014,cadeira
+Paraíba,PSOL,0,2014,cadeira
+Paraíba,PHS,0,2014,cadeira
+Paraíba,PTN,0,2014,cadeira
+Paraíba,PRP,0,2014,cadeira
+Paraíba,PMN,0,2014,cadeira
+Paraíba,PEN,0,2014,cadeira
+Paraíba,PSDC,0,2014,cadeira
+Paraíba,PTC,0,2014,cadeira
+Paraíba,PTdoB,0,2014,cadeira
+Paraíba,PSL,0,2014,cadeira
+Paraíba,PRTB,0,2014,cadeira
+Pernambuco,PT,0,2014,cadeira
+Pernambuco,PMDB,1,2014,cadeira
+Pernambuco,PSDB,3,2014,cadeira
+Pernambuco,PP,1,2014,cadeira
+Pernambuco,PSD,1,2014,cadeira
+Pernambuco,PSB,8,2014,cadeira
+Pernambuco,PR,2,2014,cadeira
+Pernambuco,PTB,4,2014,cadeira
+Pernambuco,PRB,0,2014,cadeira
+Pernambuco,DEM,1,2014,cadeira
+Pernambuco,PDT,1,2014,cadeira
+Pernambuco,SD,0,2014,cadeira
+Pernambuco,PSC,1,2014,cadeira
+Pernambuco,PROS,0,2014,cadeira
+Pernambuco,PPS,0,2014,cadeira
+Pernambuco,PCdoB,1,2014,cadeira
+Pernambuco,PV,0,2014,cadeira
+Pernambuco,PSOL,0,2014,cadeira
+Pernambuco,PHS,1,2014,cadeira
+Pernambuco,PTN,0,2014,cadeira
+Pernambuco,PRP,0,2014,cadeira
+Pernambuco,PMN,0,2014,cadeira
+Pernambuco,PEN,0,2014,cadeira
+Pernambuco,PSDC,0,2014,cadeira
+Pernambuco,PTC,0,2014,cadeira
+Pernambuco,PTdoB,0,2014,cadeira
+Pernambuco,PSL,0,2014,cadeira
+Pernambuco,PRTB,0,2014,cadeira
+Alagoas,PT,1,2014,cadeira
+Alagoas,PMDB,1,2014,cadeira
+Alagoas,PSDB,1,2014,cadeira
+Alagoas,PP,1,2014,cadeira
+Alagoas,PSD,0,2014,cadeira
+Alagoas,PSB,0,2014,cadeira
+Alagoas,PR,1,2014,cadeira
+Alagoas,PTB,0,2014,cadeira
+Alagoas,PRB,0,2014,cadeira
+Alagoas,DEM,0,2014,cadeira
+Alagoas,PDT,1,2014,cadeira
+Alagoas,SD,1,2014,cadeira
+Alagoas,PSC,0,2014,cadeira
+Alagoas,PROS,1,2014,cadeira
+Alagoas,PPS,0,2014,cadeira
+Alagoas,PCdoB,0,2014,cadeira
+Alagoas,PV,0,2014,cadeira
+Alagoas,PSOL,0,2014,cadeira
+Alagoas,PHS,0,2014,cadeira
+Alagoas,PTN,0,2014,cadeira
+Alagoas,PRP,0,2014,cadeira
+Alagoas,PMN,0,2014,cadeira
+Alagoas,PEN,0,2014,cadeira
+Alagoas,PSDC,0,2014,cadeira
+Alagoas,PTC,0,2014,cadeira
+Alagoas,PTdoB,0,2014,cadeira
+Alagoas,PSL,0,2014,cadeira
+Alagoas,PRTB,1,2014,cadeira
+Sergipe,PT,1,2014,cadeira
+Sergipe,PMDB,1,2014,cadeira
+Sergipe,PSDB,0,2014,cadeira
+Sergipe,PP,0,2014,cadeira
+Sergipe,PSD,1,2014,cadeira
+Sergipe,PSB,1,2014,cadeira
+Sergipe,PR,0,2014,cadeira
+Sergipe,PTB,1,2014,cadeira
+Sergipe,PRB,1,2014,cadeira
+Sergipe,DEM,0,2014,cadeira
+Sergipe,PDT,0,2014,cadeira
+Sergipe,SD,1,2014,cadeira
+Sergipe,PSC,1,2014,cadeira
+Sergipe,PROS,0,2014,cadeira
+Sergipe,PPS,0,2014,cadeira
+Sergipe,PCdoB,0,2014,cadeira
+Sergipe,PV,0,2014,cadeira
+Sergipe,PSOL,0,2014,cadeira
+Sergipe,PHS,0,2014,cadeira
+Sergipe,PTN,0,2014,cadeira
+Sergipe,PRP,0,2014,cadeira
+Sergipe,PMN,0,2014,cadeira
+Sergipe,PEN,0,2014,cadeira
+Sergipe,PSDC,0,2014,cadeira
+Sergipe,PTC,0,2014,cadeira
+Sergipe,PTdoB,0,2014,cadeira
+Sergipe,PSL,0,2014,cadeira
+Sergipe,PRTB,0,2014,cadeira
+Bahia,PT,8,2014,cadeira
+Bahia,PMDB,1,2014,cadeira
+Bahia,PSDB,3,2014,cadeira
+Bahia,PP,4,2014,cadeira
+Bahia,PSD,4,2014,cadeira
+Bahia,PSB,1,2014,cadeira
+Bahia,PR,2,2014,cadeira
+Bahia,PTB,2,2014,cadeira
+Bahia,PRB,2,2014,cadeira
+Bahia,DEM,4,2014,cadeira
+Bahia,PDT,1,2014,cadeira
+Bahia,SD,1,2014,cadeira
+Bahia,PSC,2,2014,cadeira
+Bahia,PROS,0,2014,cadeira
+Bahia,PPS,0,2014,cadeira
+Bahia,PCdoB,2,2014,cadeira
+Bahia,PV,0,2014,cadeira
+Bahia,PSOL,0,2014,cadeira
+Bahia,PHS,0,2014,cadeira
+Bahia,PTN,1,2014,cadeira
+Bahia,PRP,0,2014,cadeira
+Bahia,PMN,0,2014,cadeira
+Bahia,PEN,0,2014,cadeira
+Bahia,PSDC,0,2014,cadeira
+Bahia,PTC,1,2014,cadeira
+Bahia,PTdoB,0,2014,cadeira
+Bahia,PSL,0,2014,cadeira
+Bahia,PRTB,0,2014,cadeira
+Minas Gerais,PT,10,2014,cadeira
+Minas Gerais,PMDB,6,2014,cadeira
+Minas Gerais,PSDB,7,2014,cadeira
+Minas Gerais,PP,5,2014,cadeira
+Minas Gerais,PSD,3,2014,cadeira
+Minas Gerais,PSB,3,2014,cadeira
+Minas Gerais,PR,3,2014,cadeira
+Minas Gerais,PTB,1,2014,cadeira
+Minas Gerais,PRB,1,2014,cadeira
+Minas Gerais,DEM,2,2014,cadeira
+Minas Gerais,PDT,2,2014,cadeira
+Minas Gerais,SD,1,2014,cadeira
+Minas Gerais,PSC,1,2014,cadeira
+Minas Gerais,PROS,0,2014,cadeira
+Minas Gerais,PPS,0,2014,cadeira
+Minas Gerais,PCdoB,1,2014,cadeira
+Minas Gerais,PV,1,2014,cadeira
+Minas Gerais,PSOL,0,2014,cadeira
+Minas Gerais,PHS,1,2014,cadeira
+Minas Gerais,PTN,1,2014,cadeira
+Minas Gerais,PRP,1,2014,cadeira
+Minas Gerais,PMN,1,2014,cadeira
+Minas Gerais,PEN,0,2014,cadeira
+Minas Gerais,PSDC,0,2014,cadeira
+Minas Gerais,PTC,1,2014,cadeira
+Minas Gerais,PTdoB,1,2014,cadeira
+Minas Gerais,PSL,0,2014,cadeira
+Minas Gerais,PRTB,0,2014,cadeira
+Espirito Santo,PT,2,2014,cadeira
+Espirito Santo,PMDB,1,2014,cadeira
+Espirito Santo,PSDB,1,2014,cadeira
+Espirito Santo,PP,1,2014,cadeira
+Espirito Santo,PSD,0,2014,cadeira
+Espirito Santo,PSB,1,2014,cadeira
+Espirito Santo,PR,0,2014,cadeira
+Espirito Santo,PTB,0,2014,cadeira
+Espirito Santo,PRB,0,2014,cadeira
+Espirito Santo,DEM,0,2014,cadeira
+Espirito Santo,PDT,1,2014,cadeira
+Espirito Santo,SD,1,2014,cadeira
+Espirito Santo,PSC,0,2014,cadeira
+Espirito Santo,PROS,1,2014,cadeira
+Espirito Santo,PPS,0,2014,cadeira
+Espirito Santo,PCdoB,0,2014,cadeira
+Espirito Santo,PV,1,2014,cadeira
+Espirito Santo,PSOL,0,2014,cadeira
+Espirito Santo,PHS,0,2014,cadeira
+Espirito Santo,PTN,0,2014,cadeira
+Espirito Santo,PRP,0,2014,cadeira
+Espirito Santo,PMN,0,2014,cadeira
+Espirito Santo,PEN,0,2014,cadeira
+Espirito Santo,PSDC,0,2014,cadeira
+Espirito Santo,PTC,0,2014,cadeira
+Espirito Santo,PTdoB,0,2014,cadeira
+Espirito Santo,PSL,0,2014,cadeira
+Espirito Santo,PRTB,0,2014,cadeira
+Rio de Janeiro,PT,5,2014,cadeira
+Rio de Janeiro,PMDB,8,2014,cadeira
+Rio de Janeiro,PSDB,1,2014,cadeira
+Rio de Janeiro,PP,3,2014,cadeira
+Rio de Janeiro,PSD,6,2014,cadeira
+Rio de Janeiro,PSB,1,2014,cadeira
+Rio de Janeiro,PR,6,2014,cadeira
+Rio de Janeiro,PTB,2,2014,cadeira
+Rio de Janeiro,PRB,2,2014,cadeira
+Rio de Janeiro,DEM,1,2014,cadeira
+Rio de Janeiro,PDT,1,2014,cadeira
+Rio de Janeiro,SD,2,2014,cadeira
+Rio de Janeiro,PSC,0,2014,cadeira
+Rio de Janeiro,PROS,2,2014,cadeira
+Rio de Janeiro,PPS,0,2014,cadeira
+Rio de Janeiro,PCdoB,1,2014,cadeira
+Rio de Janeiro,PV,0,2014,cadeira
+Rio de Janeiro,PSOL,3,2014,cadeira
+Rio de Janeiro,PHS,0,2014,cadeira
+Rio de Janeiro,PTN,0,2014,cadeira
+Rio de Janeiro,PRP,1,2014,cadeira
+Rio de Janeiro,PMN,0,2014,cadeira
+Rio de Janeiro,PEN,0,2014,cadeira
+Rio de Janeiro,PSDC,1,2014,cadeira
+Rio de Janeiro,PTC,0,2014,cadeira
+Rio de Janeiro,PTdoB,0,2014,cadeira
+Rio de Janeiro,PSL,0,2014,cadeira
+Rio de Janeiro,PRTB,0,2014,cadeira
+São Paulo,PT,10,2014,cadeira
+São Paulo,PMDB,2,2014,cadeira
+São Paulo,PSDB,14,2014,cadeira
+São Paulo,PP,3,2014,cadeira
+São Paulo,PSD,4,2014,cadeira
+São Paulo,PSB,4,2014,cadeira
+São Paulo,PR,6,2014,cadeira
+São Paulo,PTB,2,2014,cadeira
+São Paulo,PRB,8,2014,cadeira
+São Paulo,DEM,4,2014,cadeira
+São Paulo,PDT,1,2014,cadeira
+São Paulo,SD,1,2014,cadeira
+São Paulo,PSC,3,2014,cadeira
+São Paulo,PROS,0,2014,cadeira
+São Paulo,PPS,2,2014,cadeira
+São Paulo,PCdoB,1,2014,cadeira
+São Paulo,PV,3,2014,cadeira
+São Paulo,PSOL,1,2014,cadeira
+São Paulo,PHS,0,2014,cadeira
+São Paulo,PTN,1,2014,cadeira
+São Paulo,PRP,0,2014,cadeira
+São Paulo,PMN,0,2014,cadeira
+São Paulo,PEN,0,2014,cadeira
+São Paulo,PSDC,0,2014,cadeira
+São Paulo,PTC,0,2014,cadeira
+São Paulo,PTdoB,0,2014,cadeira
+São Paulo,PSL,0,2014,cadeira
+São Paulo,PRTB,0,2014,cadeira
+Paraná,PT,4,2014,cadeira
+Paraná,PMDB,4,2014,cadeira
+Paraná,PSDB,3,2014,cadeira
+Paraná,PP,4,2014,cadeira
+Paraná,PSD,1,2014,cadeira
+Paraná,PSB,2,2014,cadeira
+Paraná,PR,2,2014,cadeira
+Paraná,PTB,1,2014,cadeira
+Paraná,PRB,0,2014,cadeira
+Paraná,DEM,0,2014,cadeira
+Paraná,PDT,0,2014,cadeira
+Paraná,SD,1,2014,cadeira
+Paraná,PSC,2,2014,cadeira
+Paraná,PROS,0,2014,cadeira
+Paraná,PPS,2,2014,cadeira
+Paraná,PCdoB,1,2014,cadeira
+Paraná,PV,1,2014,cadeira
+Paraná,PSOL,0,2014,cadeira
+Paraná,PHS,1,2014,cadeira
+Paraná,PTN,1,2014,cadeira
+Paraná,PRP,0,2014,cadeira
+Paraná,PMN,0,2014,cadeira
+Paraná,PEN,0,2014,cadeira
+Paraná,PSDC,0,2014,cadeira
+Paraná,PTC,0,2014,cadeira
+Paraná,PTdoB,0,2014,cadeira
+Paraná,PSL,0,2014,cadeira
+Paraná,PRTB,0,2014,cadeira
+Santa Catarina,PT,2,2014,cadeira
+Santa Catarina,PMDB,5,2014,cadeira
+Santa Catarina,PSDB,2,2014,cadeira
+Santa Catarina,PP,2,2014,cadeira
+Santa Catarina,PSD,3,2014,cadeira
+Santa Catarina,PSB,0,2014,cadeira
+Santa Catarina,PR,1,2014,cadeira
+Santa Catarina,PTB,0,2014,cadeira
+Santa Catarina,PRB,0,2014,cadeira
+Santa Catarina,DEM,0,2014,cadeira
+Santa Catarina,PDT,0,2014,cadeira
+Santa Catarina,SD,0,2014,cadeira
+Santa Catarina,PSC,0,2014,cadeira
+Santa Catarina,PROS,0,2014,cadeira
+Santa Catarina,PPS,1,2014,cadeira
+Santa Catarina,PCdoB,0,2014,cadeira
+Santa Catarina,PV,0,2014,cadeira
+Santa Catarina,PSOL,0,2014,cadeira
+Santa Catarina,PHS,0,2014,cadeira
+Santa Catarina,PTN,0,2014,cadeira
+Santa Catarina,PRP,0,2014,cadeira
+Santa Catarina,PMN,0,2014,cadeira
+Santa Catarina,PEN,0,2014,cadeira
+Santa Catarina,PSDC,0,2014,cadeira
+Santa Catarina,PTC,0,2014,cadeira
+Santa Catarina,PTdoB,0,2014,cadeira
+Santa Catarina,PSL,0,2014,cadeira
+Santa Catarina,PRTB,0,2014,cadeira
+R. G. do Sul,PT,7,2014,cadeira
+R. G. do Sul,PMDB,5,2014,cadeira
+R. G. do Sul,PSDB,1,2014,cadeira
+R. G. do Sul,PP,6,2014,cadeira
+R. G. do Sul,PSD,1,2014,cadeira
+R. G. do Sul,PSB,2,2014,cadeira
+R. G. do Sul,PR,0,2014,cadeira
+R. G. do Sul,PTB,3,2014,cadeira
+R. G. do Sul,PRB,1,2014,cadeira
+R. G. do Sul,DEM,1,2014,cadeira
+R. G. do Sul,PDT,3,2014,cadeira
+R. G. do Sul,SD,0,2014,cadeira
+R. G. do Sul,PSC,0,2014,cadeira
+R. G. do Sul,PROS,0,2014,cadeira
+R. G. do Sul,PPS,0,2014,cadeira
+R. G. do Sul,PCdoB,1,2014,cadeira
+R. G. do Sul,PV,0,2014,cadeira
+R. G. do Sul,PSOL,0,2014,cadeira
+R. G. do Sul,PHS,0,2014,cadeira
+R. G. do Sul,PTN,0,2014,cadeira
+R. G. do Sul,PRP,0,2014,cadeira
+R. G. do Sul,PMN,0,2014,cadeira
+R. G. do Sul,PEN,0,2014,cadeira
+R. G. do Sul,PSDC,0,2014,cadeira
+R. G. do Sul,PTC,0,2014,cadeira
+R. G. do Sul,PTdoB,0,2014,cadeira
+R. G. do Sul,PSL,0,2014,cadeira
+R. G. do Sul,PRTB,0,2014,cadeira
+M. G. do Sul,PT,2,2014,cadeira
+M. G. do Sul,PMDB,2,2014,cadeira
+M. G. do Sul,PSDB,1,2014,cadeira
+M. G. do Sul,PP,0,2014,cadeira
+M. G. do Sul,PSD,0,2014,cadeira
+M. G. do Sul,PSB,1,2014,cadeira
+M. G. do Sul,PR,0,2014,cadeira
+M. G. do Sul,PTB,0,2014,cadeira
+M. G. do Sul,PRB,0,2014,cadeira
+M. G. do Sul,DEM,1,2014,cadeira
+M. G. do Sul,PDT,1,2014,cadeira
+M. G. do Sul,SD,0,2014,cadeira
+M. G. do Sul,PSC,0,2014,cadeira
+M. G. do Sul,PROS,0,2014,cadeira
+M. G. do Sul,PPS,0,2014,cadeira
+M. G. do Sul,PCdoB,0,2014,cadeira
+M. G. do Sul,PV,0,2014,cadeira
+M. G. do Sul,PSOL,0,2014,cadeira
+M. G. do Sul,PHS,0,2014,cadeira
+M. G. do Sul,PTN,0,2014,cadeira
+M. G. do Sul,PRP,0,2014,cadeira
+M. G. do Sul,PMN,0,2014,cadeira
+M. G. do Sul,PEN,0,2014,cadeira
+M. G. do Sul,PSDC,0,2014,cadeira
+M. G. do Sul,PTC,0,2014,cadeira
+M. G. do Sul,PTdoB,0,2014,cadeira
+M. G. do Sul,PSL,0,2014,cadeira
+M. G. do Sul,PRTB,0,2014,cadeira
+Mato Grosso,PT,1,2014,cadeira
+Mato Grosso,PMDB,1,2014,cadeira
+Mato Grosso,PSDB,1,2014,cadeira
+Mato Grosso,PP,1,2014,cadeira
+Mato Grosso,PSD,0,2014,cadeira
+Mato Grosso,PSB,2,2014,cadeira
+Mato Grosso,PR,0,2014,cadeira
+Mato Grosso,PTB,0,2014,cadeira
+Mato Grosso,PRB,0,2014,cadeira
+Mato Grosso,DEM,0,2014,cadeira
+Mato Grosso,PDT,0,2014,cadeira
+Mato Grosso,SD,0,2014,cadeira
+Mato Grosso,PSC,1,2014,cadeira
+Mato Grosso,PROS,1,2014,cadeira
+Mato Grosso,PPS,0,2014,cadeira
+Mato Grosso,PCdoB,0,2014,cadeira
+Mato Grosso,PV,0,2014,cadeira
+Mato Grosso,PSOL,0,2014,cadeira
+Mato Grosso,PHS,0,2014,cadeira
+Mato Grosso,PTN,0,2014,cadeira
+Mato Grosso,PRP,0,2014,cadeira
+Mato Grosso,PMN,0,2014,cadeira
+Mato Grosso,PEN,0,2014,cadeira
+Mato Grosso,PSDC,0,2014,cadeira
+Mato Grosso,PTC,0,2014,cadeira
+Mato Grosso,PTdoB,0,2014,cadeira
+Mato Grosso,PSL,0,2014,cadeira
+Mato Grosso,PRTB,0,2014,cadeira
+Goiás,PT,1,2014,cadeira
+Goiás,PMDB,2,2014,cadeira
+Goiás,PSDB,6,2014,cadeira
+Goiás,PP,1,2014,cadeira
+Goiás,PSD,2,2014,cadeira
+Goiás,PSB,0,2014,cadeira
+Goiás,PR,1,2014,cadeira
+Goiás,PTB,1,2014,cadeira
+Goiás,PRB,0,2014,cadeira
+Goiás,DEM,0,2014,cadeira
+Goiás,PDT,1,2014,cadeira
+Goiás,SD,1,2014,cadeira
+Goiás,PSC,0,2014,cadeira
+Goiás,PROS,0,2014,cadeira
+Goiás,PPS,1,2014,cadeira
+Goiás,PCdoB,0,2014,cadeira
+Goiás,PV,0,2014,cadeira
+Goiás,PSOL,0,2014,cadeira
+Goiás,PHS,0,2014,cadeira
+Goiás,PTN,0,2014,cadeira
+Goiás,PRP,0,2014,cadeira
+Goiás,PMN,0,2014,cadeira
+Goiás,PEN,0,2014,cadeira
+Goiás,PSDC,0,2014,cadeira
+Goiás,PTC,0,2014,cadeira
+Goiás,PTdoB,0,2014,cadeira
+Goiás,PSL,0,2014,cadeira
+Goiás,PRTB,0,2014,cadeira
+Distrito Federal,PT,1,2014,cadeira
+Distrito Federal,PMDB,1,2014,cadeira
+Distrito Federal,PSDB,1,2014,cadeira
+Distrito Federal,PP,0,2014,cadeira
+Distrito Federal,PSD,1,2014,cadeira
+Distrito Federal,PSB,0,2014,cadeira
+Distrito Federal,PR,1,2014,cadeira
+Distrito Federal,PTB,0,2014,cadeira
+Distrito Federal,PRB,0,2014,cadeira
+Distrito Federal,DEM,1,2014,cadeira
+Distrito Federal,PDT,0,2014,cadeira
+Distrito Federal,SD,1,2014,cadeira
+Distrito Federal,PSC,0,2014,cadeira
+Distrito Federal,PROS,1,2014,cadeira
+Distrito Federal,PPS,0,2014,cadeira
+Distrito Federal,PCdoB,0,2014,cadeira
+Distrito Federal,PV,0,2014,cadeira
+Distrito Federal,PSOL,0,2014,cadeira
+Distrito Federal,PHS,0,2014,cadeira
+Distrito Federal,PTN,0,2014,cadeira
+Distrito Federal,PRP,0,2014,cadeira
+Distrito Federal,PMN,0,2014,cadeira
+Distrito Federal,PEN,0,2014,cadeira
+Distrito Federal,PSDC,0,2014,cadeira
+Distrito Federal,PTC,0,2014,cadeira
+Distrito Federal,PTdoB,0,2014,cadeira
+Distrito Federal,PSL,0,2014,cadeira
+Distrito Federal,PRTB,0,2014,cadeira
+Acre,PT,0,2018,cadeira
+Alagoas,PT,1,2018,cadeira
+Amazonas,PT,1,2018,cadeira
+Amapá,PT,0,2018,cadeira
+Bahia,PT,7,2018,cadeira
+Ceará,PT,3,2018,cadeira
+Distrito Federal,PT,1,2018,cadeira
+Espirito Santo,PT,1,2018,cadeira
+Goiás,PT,1,2018,cadeira
+Maranhão,PT,1,2018,cadeira
+Minas Gerais,PT,8,2018,cadeira
+M. G. do Sul,PT,1,2018,cadeira
+Mato Grosso,PT,1,2018,cadeira
+Pará,PT,2,2018,cadeira
+Paraíba,PT,1,2018,cadeira
+Pernambuco,PT,2,2018,cadeira
+Piauí,PT,2,2018,cadeira
+Paraná,PT,3,2018,cadeira
+Rio de Janeiro,PT,1,2018,cadeira
+R. G. do Norte,PT,1,2018,cadeira
+Rondônia,PT,0,2018,cadeira
+Roraima,PT,0,2018,cadeira
+R. G. do Sul,PT,5,2018,cadeira
+Santa Catarina,PT,1,2018,cadeira
+Sergipe,PT,1,2018,cadeira
+São Paulo,PT,8,2018,cadeira
+Tocantins,PT,1,2018,cadeira
+Acre,PSL,0,2018,cadeira
+Alagoas,PSL,0,2018,cadeira
+Amazonas,PSL,1,2018,cadeira
+Amapá,PSL,0,2018,cadeira
+Bahia,PSL,1,2018,cadeira
+Ceará,PSL,1,2018,cadeira
+Distrito Federal,PSL,0,2018,cadeira
+Espirito Santo,PSL,1,2018,cadeira
+Goiás,PSL,2,2018,cadeira
+Maranhão,PSL,0,2018,cadeira
+Minas Gerais,PSL,6,2018,cadeira
+M. G. do Sul,PSL,2,2018,cadeira
+Mato Grosso,PSL,1,2018,cadeira
+Pará,PSL,0,2018,cadeira
+Paraíba,PSL,1,2018,cadeira
+Pernambuco,PSL,1,2018,cadeira
+Piauí,PSL,0,2018,cadeira
+Paraná,PSL,3,2018,cadeira
+Rio de Janeiro,PSL,12,2018,cadeira
+R. G. do Norte,PSL,1,2018,cadeira
+Rondônia,PSL,1,2018,cadeira
+Roraima,PSL,1,2018,cadeira
+R. G. do Sul,PSL,3,2018,cadeira
+Santa Catarina,PSL,4,2018,cadeira
+Sergipe,PSL,0,2018,cadeira
+São Paulo,PSL,10,2018,cadeira
+Tocantins,PSL,0,2018,cadeira
+Acre,PP,0,2018,cadeira
+Alagoas,PP,1,2018,cadeira
+Amazonas,PP,1,2018,cadeira
+Amapá,PP,1,2018,cadeira
+Bahia,PP,4,2018,cadeira
+Ceará,PP,1,2018,cadeira
+Distrito Federal,PP,1,2018,cadeira
+Espirito Santo,PP,1,2018,cadeira
+Goiás,PP,2,2018,cadeira
+Maranhão,PP,1,2018,cadeira
+Minas Gerais,PP,2,2018,cadeira
+M. G. do Sul,PP,0,2018,cadeira
+Mato Grosso,PP,1,2018,cadeira
+Pará,PP,0,2018,cadeira
+Paraíba,PP,1,2018,cadeira
+Pernambuco,PP,2,2018,cadeira
+Piauí,PP,2,2018,cadeira
+Paraná,PP,2,2018,cadeira
+Rio de Janeiro,PP,2,2018,cadeira
+R. G. do Norte,PP,1,2018,cadeira
+Rondônia,PP,1,2018,cadeira
+Roraima,PP,1,2018,cadeira
+R. G. do Sul,PP,4,2018,cadeira
+Santa Catarina,PP,1,2018,cadeira
+Sergipe,PP,1,2018,cadeira
+São Paulo,PP,4,2018,cadeira
+Tocantins,PP,0,2018,cadeira
+Acre,PSD,0,2018,cadeira
+Alagoas,PSD,1,2018,cadeira
+Amazonas,PSD,1,2018,cadeira
+Amapá,PSD,0,2018,cadeira
+Bahia,PSD,5,2018,cadeira
+Ceará,PSD,1,2018,cadeira
+Distrito Federal,PSD,0,2018,cadeira
+Espirito Santo,PSD,0,2018,cadeira
+Goiás,PSD,1,2018,cadeira
+Maranhão,PSD,1,2018,cadeira
+Minas Gerais,PSD,3,2018,cadeira
+M. G. do Sul,PSD,1,2018,cadeira
+Mato Grosso,PSD,0,2018,cadeira
+Pará,PSD,3,2018,cadeira
+Paraíba,PSD,0,2018,cadeira
+Pernambuco,PSD,1,2018,cadeira
+Piauí,PSD,1,2018,cadeira
+Paraná,PSD,4,2018,cadeira
+Rio de Janeiro,PSD,3,2018,cadeira
+R. G. do Norte,PSD,1,2018,cadeira
+Rondônia,PSD,1,2018,cadeira
+Roraima,PSD,1,2018,cadeira
+R. G. do Sul,PSD,1,2018,cadeira
+Santa Catarina,PSD,2,2018,cadeira
+Sergipe,PSD,1,2018,cadeira
+São Paulo,PSD,2,2018,cadeira
+Tocantins,PSD,0,2018,cadeira
+Acre,MDB,2,2018,cadeira
+Alagoas,MDB,1,2018,cadeira
+Amazonas,MDB,0,2018,cadeira
+Amapá,MDB,0,2018,cadeira
+Bahia,MDB,0,2018,cadeira
+Ceará,MDB,1,2018,cadeira
+Distrito Federal,MDB,0,2018,cadeira
+Espirito Santo,MDB,0,2018,cadeira
+Goiás,MDB,0,2018,cadeira
+Maranhão,MDB,2,2018,cadeira
+Minas Gerais,MDB,4,2018,cadeira
+M. G. do Sul,MDB,0,2018,cadeira
+Mato Grosso,MDB,2,2018,cadeira
+Pará,MDB,2,2018,cadeira
+Paraíba,MDB,0,2018,cadeira
+Pernambuco,MDB,1,2018,cadeira
+Piauí,MDB,1,2018,cadeira
+Paraná,MDB,2,2018,cadeira
+Rio de Janeiro,MDB,3,2018,cadeira
+R. G. do Norte,MDB,1,2018,cadeira
+Rondônia,MDB,1,2018,cadeira
+Roraima,MDB,0,2018,cadeira
+R. G. do Sul,MDB,4,2018,cadeira
+Santa Catarina,MDB,3,2018,cadeira
+Sergipe,MDB,1,2018,cadeira
+São Paulo,MDB,2,2018,cadeira
+Tocantins,MDB,1,2018,cadeira
+Acre,PR,0,2018,cadeira
+Alagoas,PR,1,2018,cadeira
+Amazonas,PR,1,2018,cadeira
+Amapá,PR,1,2018,cadeira
+Bahia,PR,2,2018,cadeira
+Ceará,PR,1,2018,cadeira
+Distrito Federal,PR,1,2018,cadeira
+Espirito Santo,PR,1,2018,cadeira
+Goiás,PR,1,2018,cadeira
+Maranhão,PR,2,2018,cadeira
+Minas Gerais,PR,1,2018,cadeira
+M. G. do Sul,PR,0,2018,cadeira
+Mato Grosso,PR,0,2018,cadeira
+Pará,PR,1,2018,cadeira
+Paraíba,PR,1,2018,cadeira
+Pernambuco,PR,1,2018,cadeira
+Piauí,PR,1,2018,cadeira
+Paraná,PR,3,2018,cadeira
+Rio de Janeiro,PR,2,2018,cadeira
+R. G. do Norte,PR,1,2018,cadeira
+Rondônia,PR,0,2018,cadeira
+Roraima,PR,1,2018,cadeira
+R. G. do Sul,PR,1,2018,cadeira
+Santa Catarina,PR,0,2018,cadeira
+Sergipe,PR,1,2018,cadeira
+São Paulo,PR,7,2018,cadeira
+Tocantins,PR,1,2018,cadeira
+Acre,PSB,0,2018,cadeira
+Alagoas,PSB,1,2018,cadeira
+Amazonas,PSB,0,2018,cadeira
+Amapá,PSB,1,2018,cadeira
+Bahia,PSB,2,2018,cadeira
+Ceará,PSB,1,2018,cadeira
+Distrito Federal,PSB,0,2018,cadeira
+Espirito Santo,PSB,2,2018,cadeira
+Goiás,PSB,1,2018,cadeira
+Maranhão,PSB,1,2018,cadeira
+Minas Gerais,PSB,3,2018,cadeira
+M. G. do Sul,PSB,0,2018,cadeira
+Mato Grosso,PSB,0,2018,cadeira
+Pará,PSB,1,2018,cadeira
+Paraíba,PSB,1,2018,cadeira
+Pernambuco,PSB,5,2018,cadeira
+Piauí,PSB,1,2018,cadeira
+Paraná,PSB,2,2018,cadeira
+Rio de Janeiro,PSB,1,2018,cadeira
+R. G. do Norte,PSB,1,2018,cadeira
+Rondônia,PSB,1,2018,cadeira
+Roraima,PSB,0,2018,cadeira
+R. G. do Sul,PSB,2,2018,cadeira
+Santa Catarina,PSB,1,2018,cadeira
+Sergipe,PSB,0,2018,cadeira
+São Paulo,PSB,4,2018,cadeira
+Tocantins,PSB,0,2018,cadeira
+Acre,PRB,1,2018,cadeira
+Alagoas,PRB,1,2018,cadeira
+Amazonas,PRB,2,2018,cadeira
+Amapá,PRB,1,2018,cadeira
+Bahia,PRB,2,2018,cadeira
+Ceará,PRB,0,2018,cadeira
+Distrito Federal,PRB,1,2018,cadeira
+Espirito Santo,PRB,1,2018,cadeira
+Goiás,PRB,1,2018,cadeira
+Maranhão,PRB,1,2018,cadeira
+Minas Gerais,PRB,2,2018,cadeira
+M. G. do Sul,PRB,0,2018,cadeira
+Mato Grosso,PRB,0,2018,cadeira
+Pará,PRB,1,2018,cadeira
+Paraíba,PRB,1,2018,cadeira
+Pernambuco,PRB,2,2018,cadeira
+Piauí,PRB,0,2018,cadeira
+Paraná,PRB,2,2018,cadeira
+Rio de Janeiro,PRB,2,2018,cadeira
+R. G. do Norte,PRB,0,2018,cadeira
+Rondônia,PRB,0,2018,cadeira
+Roraima,PRB,1,2018,cadeira
+R. G. do Sul,PRB,1,2018,cadeira
+Santa Catarina,PRB,1,2018,cadeira
+Sergipe,PRB,0,2018,cadeira
+São Paulo,PRB,6,2018,cadeira
+Tocantins,PRB,0,2018,cadeira
+Acre,PSDB,1,2018,cadeira
+Alagoas,PSDB,1,2018,cadeira
+Amazonas,PSDB,0,2018,cadeira
+Amapá,PSDB,1,2018,cadeira
+Bahia,PSDB,1,2018,cadeira
+Ceará,PSDB,1,2018,cadeira
+Distrito Federal,PSDB,0,2018,cadeira
+Espirito Santo,PSDB,0,2018,cadeira
+Goiás,PSDB,1,2018,cadeira
+Maranhão,PSDB,0,2018,cadeira
+Minas Gerais,PSDB,5,2018,cadeira
+M. G. do Sul,PSDB,2,2018,cadeira
+Mato Grosso,PSDB,0,2018,cadeira
+Pará,PSDB,2,2018,cadeira
+Paraíba,PSDB,3,2018,cadeira
+Pernambuco,PSDB,0,2018,cadeira
+Piauí,PSDB,0,2018,cadeira
+Paraná,PSDB,0,2018,cadeira
+Rio de Janeiro,PSDB,0,2018,cadeira
+R. G. do Norte,PSDB,0,2018,cadeira
+Rondônia,PSDB,1,2018,cadeira
+Roraima,PSDB,1,2018,cadeira
+R. G. do Sul,PSDB,2,2018,cadeira
+Santa Catarina,PSDB,1,2018,cadeira
+Sergipe,PSDB,0,2018,cadeira
+São Paulo,PSDB,6,2018,cadeira
+Tocantins,PSDB,0,2018,cadeira
+Acre,DEM,1,2018,cadeira
+Alagoas,DEM,0,2018,cadeira
+Amazonas,DEM,0,2018,cadeira
+Amapá,DEM,0,2018,cadeira
+Bahia,DEM,4,2018,cadeira
+Ceará,DEM,0,2018,cadeira
+Distrito Federal,DEM,1,2018,cadeira
+Espirito Santo,DEM,1,2018,cadeira
+Goiás,DEM,2,2018,cadeira
+Maranhão,DEM,1,2018,cadeira
+Minas Gerais,DEM,1,2018,cadeira
+M. G. do Sul,DEM,1,2018,cadeira
+Mato Grosso,DEM,0,2018,cadeira
+Pará,DEM,2,2018,cadeira
+Paraíba,DEM,1,2018,cadeira
+Pernambuco,DEM,1,2018,cadeira
+Piauí,DEM,0,2018,cadeira
+Paraná,DEM,1,2018,cadeira
+Rio de Janeiro,DEM,4,2018,cadeira
+R. G. do Norte,DEM,0,2018,cadeira
+Rondônia,DEM,0,2018,cadeira
+Roraima,DEM,0,2018,cadeira
+R. G. do Sul,DEM,1,2018,cadeira
+Santa Catarina,DEM,0,2018,cadeira
+Sergipe,DEM,0,2018,cadeira
+São Paulo,DEM,5,2018,cadeira
+Tocantins,DEM,2,2018,cadeira
+Acre,PDT,1,2018,cadeira
+Alagoas,PDT,0,2018,cadeira
+Amazonas,PDT,0,2018,cadeira
+Amapá,PDT,0,2018,cadeira
+Bahia,PDT,2,2018,cadeira
+Ceará,PDT,6,2018,cadeira
+Distrito Federal,PDT,0,2018,cadeira
+Espirito Santo,PDT,1,2018,cadeira
+Goiás,PDT,1,2018,cadeira
+Maranhão,PDT,1,2018,cadeira
+Minas Gerais,PDT,2,2018,cadeira
+M. G. do Sul,PDT,1,2018,cadeira
+Mato Grosso,PDT,0,2018,cadeira
+Pará,PDT,0,2018,cadeira
+Paraíba,PDT,1,2018,cadeira
+Pernambuco,PDT,2,2018,cadeira
+Piauí,PDT,1,2018,cadeira
+Paraná,PDT,1,2018,cadeira
+Rio de Janeiro,PDT,2,2018,cadeira
+R. G. do Norte,PDT,0,2018,cadeira
+Rondônia,PDT,1,2018,cadeira
+Roraima,PDT,0,2018,cadeira
+R. G. do Sul,PDT,3,2018,cadeira
+Santa Catarina,PDT,0,2018,cadeira
+Sergipe,PDT,1,2018,cadeira
+São Paulo,PDT,1,2018,cadeira
+Tocantins,PDT,0,2018,cadeira
+Acre,SOLIDARIEDADE,1,2018,cadeira
+Alagoas,SOLIDARIEDADE,0,2018,cadeira
+Amazonas,SOLIDARIEDADE,1,2018,cadeira
+Amapá,SOLIDARIEDADE,0,2018,cadeira
+Bahia,SOLIDARIEDADE,0,2018,cadeira
+Ceará,SOLIDARIEDADE,1,2018,cadeira
+Distrito Federal,SOLIDARIEDADE,0,2018,cadeira
+Espirito Santo,SOLIDARIEDADE,0,2018,cadeira
+Goiás,SOLIDARIEDADE,1,2018,cadeira
+Maranhão,SOLIDARIEDADE,0,2018,cadeira
+Minas Gerais,SOLIDARIEDADE,1,2018,cadeira
+M. G. do Sul,SOLIDARIEDADE,0,2018,cadeira
+Mato Grosso,SOLIDARIEDADE,1,2018,cadeira
+Pará,SOLIDARIEDADE,0,2018,cadeira
+Paraíba,SOLIDARIEDADE,0,2018,cadeira
+Pernambuco,SOLIDARIEDADE,1,2018,cadeira
+Piauí,SOLIDARIEDADE,0,2018,cadeira
+Paraná,SOLIDARIEDADE,0,2018,cadeira
+Rio de Janeiro,SOLIDARIEDADE,1,2018,cadeira
+R. G. do Norte,SOLIDARIEDADE,0,2018,cadeira
+Rondônia,SOLIDARIEDADE,0,2018,cadeira
+Roraima,SOLIDARIEDADE,1,2018,cadeira
+R. G. do Sul,SOLIDARIEDADE,0,2018,cadeira
+Santa Catarina,SOLIDARIEDADE,0,2018,cadeira
+Sergipe,SOLIDARIEDADE,1,2018,cadeira
+São Paulo,SOLIDARIEDADE,1,2018,cadeira
+Tocantins,SOLIDARIEDADE,2,2018,cadeira
+Acre,PODE,0,2018,cadeira
+Alagoas,PODE,0,2018,cadeira
+Amazonas,PODE,0,2018,cadeira
+Amapá,PODE,0,2018,cadeira
+Bahia,PODE,1,2018,cadeira
+Ceará,PODE,0,2018,cadeira
+Distrito Federal,PODE,0,2018,cadeira
+Espirito Santo,PODE,0,2018,cadeira
+Goiás,PODE,1,2018,cadeira
+Maranhão,PODE,1,2018,cadeira
+Minas Gerais,PODE,1,2018,cadeira
+M. G. do Sul,PODE,0,2018,cadeira
+Mato Grosso,PODE,1,2018,cadeira
+Pará,PODE,0,2018,cadeira
+Paraíba,PODE,0,2018,cadeira
+Pernambuco,PODE,1,2018,cadeira
+Piauí,PODE,0,2018,cadeira
+Paraná,PODE,1,2018,cadeira
+Rio de Janeiro,PODE,0,2018,cadeira
+R. G. do Norte,PODE,0,2018,cadeira
+Rondônia,PODE,1,2018,cadeira
+Roraima,PODE,0,2018,cadeira
+R. G. do Sul,PODE,0,2018,cadeira
+Santa Catarina,PODE,0,2018,cadeira
+Sergipe,PODE,0,2018,cadeira
+São Paulo,PODE,3,2018,cadeira
+Tocantins,PODE,0,2018,cadeira
+Acre,PSOL,0,2018,cadeira
+Alagoas,PSOL,0,2018,cadeira
+Amazonas,PSOL,0,2018,cadeira
+Amapá,PSOL,0,2018,cadeira
+Bahia,PSOL,0,2018,cadeira
+Ceará,PSOL,0,2018,cadeira
+Distrito Federal,PSOL,0,2018,cadeira
+Espirito Santo,PSOL,0,2018,cadeira
+Goiás,PSOL,0,2018,cadeira
+Maranhão,PSOL,0,2018,cadeira
+Minas Gerais,PSOL,1,2018,cadeira
+M. G. do Sul,PSOL,0,2018,cadeira
+Mato Grosso,PSOL,0,2018,cadeira
+Pará,PSOL,1,2018,cadeira
+Paraíba,PSOL,0,2018,cadeira
+Pernambuco,PSOL,0,2018,cadeira
+Piauí,PSOL,0,2018,cadeira
+Paraná,PSOL,0,2018,cadeira
+Rio de Janeiro,PSOL,4,2018,cadeira
+R. G. do Norte,PSOL,0,2018,cadeira
+Rondônia,PSOL,0,2018,cadeira
+Roraima,PSOL,0,2018,cadeira
+R. G. do Sul,PSOL,1,2018,cadeira
+Santa Catarina,PSOL,0,2018,cadeira
+Sergipe,PSOL,0,2018,cadeira
+São Paulo,PSOL,3,2018,cadeira
+Tocantins,PSOL,0,2018,cadeira
+Acre,PTB,0,2018,cadeira
+Alagoas,PTB,1,2018,cadeira
+Amazonas,PTB,0,2018,cadeira
+Amapá,PTB,0,2018,cadeira
+Bahia,PTB,0,2018,cadeira
+Ceará,PTB,1,2018,cadeira
+Distrito Federal,PTB,0,2018,cadeira
+Espirito Santo,PTB,0,2018,cadeira
+Goiás,PTB,0,2018,cadeira
+Maranhão,PTB,1,2018,cadeira
+Minas Gerais,PTB,0,2018,cadeira
+M. G. do Sul,PTB,0,2018,cadeira
+Mato Grosso,PTB,1,2018,cadeira
+Pará,PTB,2,2018,cadeira
+Paraíba,PTB,1,2018,cadeira
+Pernambuco,PTB,0,2018,cadeira
+Piauí,PTB,0,2018,cadeira
+Paraná,PTB,1,2018,cadeira
+Rio de Janeiro,PTB,0,2018,cadeira
+R. G. do Norte,PTB,0,2018,cadeira
+Rondônia,PTB,0,2018,cadeira
+Roraima,PTB,0,2018,cadeira
+R. G. do Sul,PTB,2,2018,cadeira
+Santa Catarina,PTB,0,2018,cadeira
+Sergipe,PTB,0,2018,cadeira
+São Paulo,PTB,0,2018,cadeira
+Tocantins,PTB,0,2018,cadeira
+Acre,PCdoB,1,2018,cadeira
+Alagoas,PCdoB,0,2018,cadeira
+Amazonas,PCdoB,0,2018,cadeira
+Amapá,PCdoB,1,2018,cadeira
+Bahia,PCdoB,2,2018,cadeira
+Ceará,PCdoB,0,2018,cadeira
+Distrito Federal,PCdoB,0,2018,cadeira
+Espirito Santo,PCdoB,0,2018,cadeira
+Goiás,PCdoB,0,2018,cadeira
+Maranhão,PCdoB,2,2018,cadeira
+Minas Gerais,PCdoB,0,2018,cadeira
+M. G. do Sul,PCdoB,0,2018,cadeira
+Mato Grosso,PCdoB,0,2018,cadeira
+Pará,PCdoB,0,2018,cadeira
+Paraíba,PCdoB,0,2018,cadeira
+Pernambuco,PCdoB,1,2018,cadeira
+Piauí,PCdoB,0,2018,cadeira
+Paraná,PCdoB,0,2018,cadeira
+Rio de Janeiro,PCdoB,1,2018,cadeira
+R. G. do Norte,PCdoB,0,2018,cadeira
+Rondônia,PCdoB,0,2018,cadeira
+Roraima,PCdoB,0,2018,cadeira
+R. G. do Sul,PCdoB,0,2018,cadeira
+Santa Catarina,PCdoB,0,2018,cadeira
+Sergipe,PCdoB,0,2018,cadeira
+São Paulo,PCdoB,1,2018,cadeira
+Tocantins,PCdoB,0,2018,cadeira
+Acre,NOVO,0,2018,cadeira
+Alagoas,NOVO,0,2018,cadeira
+Amazonas,NOVO,0,2018,cadeira
+Amapá,NOVO,0,2018,cadeira
+Bahia,NOVO,0,2018,cadeira
+Ceará,NOVO,0,2018,cadeira
+Distrito Federal,NOVO,0,2018,cadeira
+Espirito Santo,NOVO,0,2018,cadeira
+Goiás,NOVO,0,2018,cadeira
+Maranhão,NOVO,0,2018,cadeira
+Minas Gerais,NOVO,2,2018,cadeira
+M. G. do Sul,NOVO,0,2018,cadeira
+Mato Grosso,NOVO,0,2018,cadeira
+Pará,NOVO,0,2018,cadeira
+Paraíba,NOVO,0,2018,cadeira
+Pernambuco,NOVO,0,2018,cadeira
+Piauí,NOVO,0,2018,cadeira
+Paraná,NOVO,0,2018,cadeira
+Rio de Janeiro,NOVO,1,2018,cadeira
+R. G. do Norte,NOVO,0,2018,cadeira
+Rondônia,NOVO,0,2018,cadeira
+Roraima,NOVO,0,2018,cadeira
+R. G. do Sul,NOVO,1,2018,cadeira
+Santa Catarina,NOVO,1,2018,cadeira
+Sergipe,NOVO,0,2018,cadeira
+São Paulo,NOVO,3,2018,cadeira
+Tocantins,NOVO,0,2018,cadeira
+Acre,PROS,0,2018,cadeira
+Alagoas,PROS,0,2018,cadeira
+Amazonas,PROS,0,2018,cadeira
+Amapá,PROS,1,2018,cadeira
+Bahia,PROS,0,2018,cadeira
+Ceará,PROS,2,2018,cadeira
+Distrito Federal,PROS,0,2018,cadeira
+Espirito Santo,PROS,0,2018,cadeira
+Goiás,PROS,0,2018,cadeira
+Maranhão,PROS,0,2018,cadeira
+Minas Gerais,PROS,2,2018,cadeira
+M. G. do Sul,PROS,0,2018,cadeira
+Mato Grosso,PROS,0,2018,cadeira
+Pará,PROS,0,2018,cadeira
+Paraíba,PROS,0,2018,cadeira
+Pernambuco,PROS,0,2018,cadeira
+Piauí,PROS,0,2018,cadeira
+Paraná,PROS,2,2018,cadeira
+Rio de Janeiro,PROS,1,2018,cadeira
+R. G. do Norte,PROS,0,2018,cadeira
+Rondônia,PROS,0,2018,cadeira
+Roraima,PROS,0,2018,cadeira
+R. G. do Sul,PROS,0,2018,cadeira
+Santa Catarina,PROS,0,2018,cadeira
+Sergipe,PROS,0,2018,cadeira
+São Paulo,PROS,0,2018,cadeira
+Tocantins,PROS,0,2018,cadeira
+Acre,PSC,0,2018,cadeira
+Alagoas,PSC,0,2018,cadeira
+Amazonas,PSC,0,2018,cadeira
+Amapá,PSC,0,2018,cadeira
+Bahia,PSC,0,2018,cadeira
+Ceará,PSC,0,2018,cadeira
+Distrito Federal,PSC,0,2018,cadeira
+Espirito Santo,PSC,0,2018,cadeira
+Goiás,PSC,1,2018,cadeira
+Maranhão,PSC,0,2018,cadeira
+Minas Gerais,PSC,1,2018,cadeira
+M. G. do Sul,PSC,0,2018,cadeira
+Mato Grosso,PSC,0,2018,cadeira
+Pará,PSC,0,2018,cadeira
+Paraíba,PSC,0,2018,cadeira
+Pernambuco,PSC,1,2018,cadeira
+Piauí,PSC,0,2018,cadeira
+Paraná,PSC,1,2018,cadeira
+Rio de Janeiro,PSC,1,2018,cadeira
+R. G. do Norte,PSC,0,2018,cadeira
+Rondônia,PSC,0,2018,cadeira
+Roraima,PSC,0,2018,cadeira
+R. G. do Sul,PSC,0,2018,cadeira
+Santa Catarina,PSC,0,2018,cadeira
+Sergipe,PSC,1,2018,cadeira
+São Paulo,PSC,1,2018,cadeira
+Tocantins,PSC,1,2018,cadeira
+Acre,PPS,0,2018,cadeira
+Alagoas,PPS,0,2018,cadeira
+Amazonas,PPS,0,2018,cadeira
+Amapá,PPS,0,2018,cadeira
+Bahia,PPS,0,2018,cadeira
+Ceará,PPS,0,2018,cadeira
+Distrito Federal,PPS,1,2018,cadeira
+Espirito Santo,PPS,1,2018,cadeira
+Goiás,PPS,0,2018,cadeira
+Maranhão,PPS,0,2018,cadeira
+Minas Gerais,PPS,0,2018,cadeira
+M. G. do Sul,PPS,0,2018,cadeira
+Mato Grosso,PPS,0,2018,cadeira
+Pará,PPS,0,2018,cadeira
+Paraíba,PPS,0,2018,cadeira
+Pernambuco,PPS,1,2018,cadeira
+Piauí,PPS,0,2018,cadeira
+Paraná,PPS,1,2018,cadeira
+Rio de Janeiro,PPS,1,2018,cadeira
+R. G. do Norte,PPS,0,2018,cadeira
+Rondônia,PPS,0,2018,cadeira
+Roraima,PPS,0,2018,cadeira
+R. G. do Sul,PPS,0,2018,cadeira
+Santa Catarina,PPS,1,2018,cadeira
+Sergipe,PPS,0,2018,cadeira
+São Paulo,PPS,2,2018,cadeira
+Tocantins,PPS,0,2018,cadeira
+Acre,AVANTE,0,2018,cadeira
+Alagoas,AVANTE,0,2018,cadeira
+Amazonas,AVANTE,0,2018,cadeira
+Amapá,AVANTE,1,2018,cadeira
+Bahia,AVANTE,2,2018,cadeira
+Ceará,AVANTE,0,2018,cadeira
+Distrito Federal,AVANTE,0,2018,cadeira
+Espirito Santo,AVANTE,0,2018,cadeira
+Goiás,AVANTE,0,2018,cadeira
+Maranhão,AVANTE,0,2018,cadeira
+Minas Gerais,AVANTE,3,2018,cadeira
+M. G. do Sul,AVANTE,0,2018,cadeira
+Mato Grosso,AVANTE,0,2018,cadeira
+Pará,AVANTE,0,2018,cadeira
+Paraíba,AVANTE,0,2018,cadeira
+Pernambuco,AVANTE,0,2018,cadeira
+Piauí,AVANTE,0,2018,cadeira
+Paraná,AVANTE,0,2018,cadeira
+Rio de Janeiro,AVANTE,1,2018,cadeira
+R. G. do Norte,AVANTE,0,2018,cadeira
+Rondônia,AVANTE,0,2018,cadeira
+Roraima,AVANTE,0,2018,cadeira
+R. G. do Sul,AVANTE,0,2018,cadeira
+Santa Catarina,AVANTE,0,2018,cadeira
+Sergipe,AVANTE,0,2018,cadeira
+São Paulo,AVANTE,0,2018,cadeira
+Tocantins,AVANTE,0,2018,cadeira
+Acre,PHS,0,2018,cadeira
+Alagoas,PHS,0,2018,cadeira
+Amazonas,PHS,0,2018,cadeira
+Amapá,PHS,0,2018,cadeira
+Bahia,PHS,2,2018,cadeira
+Ceará,PHS,0,2018,cadeira
+Distrito Federal,PHS,0,2018,cadeira
+Espirito Santo,PHS,0,2018,cadeira
+Goiás,PHS,0,2018,cadeira
+Maranhão,PHS,0,2018,cadeira
+Minas Gerais,PHS,2,2018,cadeira
+M. G. do Sul,PHS,0,2018,cadeira
+Mato Grosso,PHS,0,2018,cadeira
+Pará,PHS,0,2018,cadeira
+Paraíba,PHS,0,2018,cadeira
+Pernambuco,PHS,1,2018,cadeira
+Piauí,PHS,0,2018,cadeira
+Paraná,PHS,0,2018,cadeira
+Rio de Janeiro,PHS,1,2018,cadeira
+R. G. do Norte,PHS,0,2018,cadeira
+Rondônia,PHS,0,2018,cadeira
+Roraima,PHS,0,2018,cadeira
+R. G. do Sul,PHS,0,2018,cadeira
+Santa Catarina,PHS,0,2018,cadeira
+Sergipe,PHS,0,2018,cadeira
+São Paulo,PHS,0,2018,cadeira
+Tocantins,PHS,0,2018,cadeira
+Acre,PATRI,0,2018,cadeira
+Alagoas,PATRI,0,2018,cadeira
+Amazonas,PATRI,0,2018,cadeira
+Amapá,PATRI,0,2018,cadeira
+Bahia,PATRI,0,2018,cadeira
+Ceará,PATRI,1,2018,cadeira
+Distrito Federal,PATRI,0,2018,cadeira
+Espirito Santo,PATRI,0,2018,cadeira
+Goiás,PATRI,0,2018,cadeira
+Maranhão,PATRI,1,2018,cadeira
+Minas Gerais,PATRI,2,2018,cadeira
+M. G. do Sul,PATRI,0,2018,cadeira
+Mato Grosso,PATRI,0,2018,cadeira
+Pará,PATRI,0,2018,cadeira
+Paraíba,PATRI,0,2018,cadeira
+Pernambuco,PATRI,1,2018,cadeira
+Piauí,PATRI,0,2018,cadeira
+Paraná,PATRI,0,2018,cadeira
+Rio de Janeiro,PATRI,0,2018,cadeira
+R. G. do Norte,PATRI,0,2018,cadeira
+Rondônia,PATRI,0,2018,cadeira
+Roraima,PATRI,0,2018,cadeira
+R. G. do Sul,PATRI,0,2018,cadeira
+Santa Catarina,PATRI,0,2018,cadeira
+Sergipe,PATRI,0,2018,cadeira
+São Paulo,PATRI,0,2018,cadeira
+Tocantins,PATRI,0,2018,cadeira
+Acre,PV,0,2018,cadeira
+Alagoas,PV,0,2018,cadeira
+Amazonas,PV,0,2018,cadeira
+Amapá,PV,0,2018,cadeira
+Bahia,PV,0,2018,cadeira
+Ceará,PV,1,2018,cadeira
+Distrito Federal,PV,1,2018,cadeira
+Espirito Santo,PV,0,2018,cadeira
+Goiás,PV,0,2018,cadeira
+Maranhão,PV,0,2018,cadeira
+Minas Gerais,PV,0,2018,cadeira
+M. G. do Sul,PV,0,2018,cadeira
+Mato Grosso,PV,0,2018,cadeira
+Pará,PV,0,2018,cadeira
+Paraíba,PV,0,2018,cadeira
+Pernambuco,PV,0,2018,cadeira
+Piauí,PV,0,2018,cadeira
+Paraná,PV,1,2018,cadeira
+Rio de Janeiro,PV,0,2018,cadeira
+R. G. do Norte,PV,0,2018,cadeira
+Rondônia,PV,0,2018,cadeira
+Roraima,PV,0,2018,cadeira
+R. G. do Sul,PV,0,2018,cadeira
+Santa Catarina,PV,0,2018,cadeira
+Sergipe,PV,0,2018,cadeira
+São Paulo,PV,1,2018,cadeira
+Tocantins,PV,0,2018,cadeira
+Acre,PRP,0,2018,cadeira
+Alagoas,PRP,0,2018,cadeira
+Amazonas,PRP,0,2018,cadeira
+Amapá,PRP,0,2018,cadeira
+Bahia,PRP,1,2018,cadeira
+Ceará,PRP,0,2018,cadeira
+Distrito Federal,PRP,1,2018,cadeira
+Espirito Santo,PRP,0,2018,cadeira
+Goiás,PRP,1,2018,cadeira
+Maranhão,PRP,0,2018,cadeira
+Minas Gerais,PRP,0,2018,cadeira
+M. G. do Sul,PRP,0,2018,cadeira
+Mato Grosso,PRP,0,2018,cadeira
+Pará,PRP,0,2018,cadeira
+Paraíba,PRP,0,2018,cadeira
+Pernambuco,PRP,0,2018,cadeira
+Piauí,PRP,0,2018,cadeira
+Paraná,PRP,0,2018,cadeira
+Rio de Janeiro,PRP,1,2018,cadeira
+R. G. do Norte,PRP,0,2018,cadeira
+Rondônia,PRP,0,2018,cadeira
+Roraima,PRP,0,2018,cadeira
+R. G. do Sul,PRP,0,2018,cadeira
+Santa Catarina,PRP,0,2018,cadeira
+Sergipe,PRP,0,2018,cadeira
+São Paulo,PRP,0,2018,cadeira
+Tocantins,PRP,0,2018,cadeira
+Acre,PMN,0,2018,cadeira
+Alagoas,PMN,0,2018,cadeira
+Amazonas,PMN,0,2018,cadeira
+Amapá,PMN,0,2018,cadeira
+Bahia,PMN,0,2018,cadeira
+Ceará,PMN,0,2018,cadeira
+Distrito Federal,PMN,0,2018,cadeira
+Espirito Santo,PMN,0,2018,cadeira
+Goiás,PMN,0,2018,cadeira
+Maranhão,PMN,2,2018,cadeira
+Minas Gerais,PMN,1,2018,cadeira
+M. G. do Sul,PMN,0,2018,cadeira
+Mato Grosso,PMN,0,2018,cadeira
+Pará,PMN,0,2018,cadeira
+Paraíba,PMN,0,2018,cadeira
+Pernambuco,PMN,0,2018,cadeira
+Piauí,PMN,0,2018,cadeira
+Paraná,PMN,0,2018,cadeira
+Rio de Janeiro,PMN,0,2018,cadeira
+R. G. do Norte,PMN,0,2018,cadeira
+Rondônia,PMN,0,2018,cadeira
+Roraima,PMN,0,2018,cadeira
+R. G. do Sul,PMN,0,2018,cadeira
+Santa Catarina,PMN,0,2018,cadeira
+Sergipe,PMN,0,2018,cadeira
+São Paulo,PMN,0,2018,cadeira
+Tocantins,PMN,0,2018,cadeira
+Acre,PTC,0,2018,cadeira
+Alagoas,PTC,0,2018,cadeira
+Amazonas,PTC,0,2018,cadeira
+Amapá,PTC,0,2018,cadeira
+Bahia,PTC,0,2018,cadeira
+Ceará,PTC,0,2018,cadeira
+Distrito Federal,PTC,0,2018,cadeira
+Espirito Santo,PTC,0,2018,cadeira
+Goiás,PTC,0,2018,cadeira
+Maranhão,PTC,0,2018,cadeira
+Minas Gerais,PTC,0,2018,cadeira
+M. G. do Sul,PTC,0,2018,cadeira
+Mato Grosso,PTC,0,2018,cadeira
+Pará,PTC,0,2018,cadeira
+Paraíba,PTC,0,2018,cadeira
+Pernambuco,PTC,0,2018,cadeira
+Piauí,PTC,1,2018,cadeira
+Paraná,PTC,0,2018,cadeira
+Rio de Janeiro,PTC,0,2018,cadeira
+R. G. do Norte,PTC,1,2018,cadeira
+Rondônia,PTC,0,2018,cadeira
+Roraima,PTC,0,2018,cadeira
+R. G. do Sul,PTC,0,2018,cadeira
+Santa Catarina,PTC,0,2018,cadeira
+Sergipe,PTC,0,2018,cadeira
+São Paulo,PTC,0,2018,cadeira
+Tocantins,PTC,0,2018,cadeira
+Acre,REDE,0,2018,cadeira
+Alagoas,REDE,0,2018,cadeira
+Amazonas,REDE,0,2018,cadeira
+Amapá,REDE,0,2018,cadeira
+Bahia,REDE,0,2018,cadeira
+Ceará,REDE,0,2018,cadeira
+Distrito Federal,REDE,0,2018,cadeira
+Espirito Santo,REDE,0,2018,cadeira
+Goiás,REDE,0,2018,cadeira
+Maranhão,REDE,0,2018,cadeira
+Minas Gerais,REDE,0,2018,cadeira
+M. G. do Sul,REDE,0,2018,cadeira
+Mato Grosso,REDE,0,2018,cadeira
+Pará,REDE,0,2018,cadeira
+Paraíba,REDE,0,2018,cadeira
+Pernambuco,REDE,0,2018,cadeira
+Piauí,REDE,0,2018,cadeira
+Paraná,REDE,0,2018,cadeira
+Rio de Janeiro,REDE,0,2018,cadeira
+R. G. do Norte,REDE,0,2018,cadeira
+Rondônia,REDE,0,2018,cadeira
+Roraima,REDE,1,2018,cadeira
+R. G. do Sul,REDE,0,2018,cadeira
+Santa Catarina,REDE,0,2018,cadeira
+Sergipe,REDE,0,2018,cadeira
+São Paulo,REDE,0,2018,cadeira
+Tocantins,REDE,0,2018,cadeira
+Acre,PPL,0,2018,cadeira
+Alagoas,PPL,0,2018,cadeira
+Amazonas,PPL,0,2018,cadeira
+Amapá,PPL,0,2018,cadeira
+Bahia,PPL,1,2018,cadeira
+Ceará,PPL,0,2018,cadeira
+Distrito Federal,PPL,0,2018,cadeira
+Espirito Santo,PPL,0,2018,cadeira
+Goiás,PPL,0,2018,cadeira
+Maranhão,PPL,0,2018,cadeira
+Minas Gerais,PPL,0,2018,cadeira
+M. G. do Sul,PPL,0,2018,cadeira
+Mato Grosso,PPL,0,2018,cadeira
+Pará,PPL,0,2018,cadeira
+Paraíba,PPL,0,2018,cadeira
+Pernambuco,PPL,0,2018,cadeira
+Piauí,PPL,0,2018,cadeira
+Paraná,PPL,0,2018,cadeira
+Rio de Janeiro,PPL,0,2018,cadeira
+R. G. do Norte,PPL,0,2018,cadeira
+Rondônia,PPL,0,2018,cadeira
+Roraima,PPL,0,2018,cadeira
+R. G. do Sul,PPL,0,2018,cadeira
+Santa Catarina,PPL,0,2018,cadeira
+Sergipe,PPL,0,2018,cadeira
+São Paulo,PPL,0,2018,cadeira
+Tocantins,PPL,0,2018,cadeira
+Acre,DC,0,2018,cadeira
+Alagoas,DC,0,2018,cadeira
+Amazonas,DC,0,2018,cadeira
+Amapá,DC,0,2018,cadeira
+Bahia,DC,0,2018,cadeira
+Ceará,DC,0,2018,cadeira
+Distrito Federal,DC,0,2018,cadeira
+Espirito Santo,DC,0,2018,cadeira
+Goiás,DC,0,2018,cadeira
+Maranhão,DC,0,2018,cadeira
+Minas Gerais,DC,0,2018,cadeira
+M. G. do Sul,DC,0,2018,cadeira
+Mato Grosso,DC,0,2018,cadeira
+Pará,DC,0,2018,cadeira
+Paraíba,DC,0,2018,cadeira
+Pernambuco,DC,0,2018,cadeira
+Piauí,DC,0,2018,cadeira
+Paraná,DC,0,2018,cadeira
+Rio de Janeiro,DC,1,2018,cadeira
+R. G. do Norte,DC,0,2018,cadeira
+Rondônia,DC,0,2018,cadeira
+Roraima,DC,0,2018,cadeira
+R. G. do Sul,DC,0,2018,cadeira
+Santa Catarina,DC,0,2018,cadeira
+Sergipe,DC,0,2018,cadeira
+São Paulo,DC,0,2018,cadeira
+Tocantins,DC,0,2018,cadeira
+Acre,AVANTE,0,2022,cadeira
+Alagoas,AVANTE,0,2022,cadeira
+Amazonas,AVANTE,0,2022,cadeira
+Amapá,AVANTE,0,2022,cadeira
+Bahia,AVANTE,1,2022,cadeira
+Ceará,AVANTE,0,2022,cadeira
+Distrito Federal,AVANTE,0,2022,cadeira
+Espirito Santo,AVANTE,0,2022,cadeira
+Goiás,AVANTE,0,2022,cadeira
+Maranhão,AVANTE,0,2022,cadeira
+Minas Gerais,AVANTE,5,2022,cadeira
+M. G. do Sul,AVANTE,0,2022,cadeira
+Mato Grosso,AVANTE,0,2022,cadeira
+Pará,AVANTE,0,2022,cadeira
+Paraíba,AVANTE,0,2022,cadeira
+Pernambuco,AVANTE,1,2022,cadeira
+Piauí,AVANTE,0,2022,cadeira
+Paraná,AVANTE,0,2022,cadeira
+Rio de Janeiro,AVANTE,0,2022,cadeira
+R. G. do Norte,AVANTE,0,2022,cadeira
+Rondônia,AVANTE,0,2022,cadeira
+Roraima,AVANTE,0,2022,cadeira
+R. G. do Sul,AVANTE,0,2022,cadeira
+Santa Catarina,AVANTE,0,2022,cadeira
+Sergipe,AVANTE,0,2022,cadeira
+São Paulo,AVANTE,0,2022,cadeira
+Tocantins,AVANTE,0,2022,cadeira
+Acre,MDB,0,2022,cadeira
+Alagoas,MDB,2,2022,cadeira
+Amazonas,MDB,0,2022,cadeira
+Amapá,MDB,2,2022,cadeira
+Bahia,MDB,1,2022,cadeira
+Ceará,MDB,1,2022,cadeira
+Distrito Federal,MDB,1,2022,cadeira
+Espirito Santo,MDB,0,2022,cadeira
+Goiás,MDB,2,2022,cadeira
+Maranhão,MDB,1,2022,cadeira
+Minas Gerais,MDB,2,2022,cadeira
+M. G. do Sul,MDB,0,2022,cadeira
+Mato Grosso,MDB,2,2022,cadeira
+Pará,MDB,9,2022,cadeira
+Paraíba,MDB,0,2022,cadeira
+Pernambuco,MDB,1,2022,cadeira
+Piauí,MDB,0,2022,cadeira
+Paraná,MDB,1,2022,cadeira
+Rio de Janeiro,MDB,2,2022,cadeira
+R. G. do Norte,MDB,0,2022,cadeira
+Rondônia,MDB,2,2022,cadeira
+Roraima,MDB,2,2022,cadeira
+R. G. do Sul,MDB,3,2022,cadeira
+Santa Catarina,MDB,3,2022,cadeira
+Sergipe,MDB,0,2022,cadeira
+São Paulo,MDB,5,2022,cadeira
+Tocantins,MDB,0,2022,cadeira
+Acre,NOVO,0,2022,cadeira
+Alagoas,NOVO,0,2022,cadeira
+Amazonas,NOVO,0,2022,cadeira
+Amapá,NOVO,0,2022,cadeira
+Bahia,NOVO,0,2022,cadeira
+Ceará,NOVO,0,2022,cadeira
+Distrito Federal,NOVO,0,2022,cadeira
+Espirito Santo,NOVO,0,2022,cadeira
+Goiás,NOVO,0,2022,cadeira
+Maranhão,NOVO,0,2022,cadeira
+Minas Gerais,NOVO,0,2022,cadeira
+M. G. do Sul,NOVO,0,2022,cadeira
+Mato Grosso,NOVO,0,2022,cadeira
+Pará,NOVO,0,2022,cadeira
+Paraíba,NOVO,0,2022,cadeira
+Pernambuco,NOVO,0,2022,cadeira
+Piauí,NOVO,0,2022,cadeira
+Paraná,NOVO,0,2022,cadeira
+Rio de Janeiro,NOVO,0,2022,cadeira
+R. G. do Norte,NOVO,0,2022,cadeira
+Rondônia,NOVO,0,2022,cadeira
+Roraima,NOVO,0,2022,cadeira
+R. G. do Sul,NOVO,1,2022,cadeira
+Santa Catarina,NOVO,1,2022,cadeira
+Sergipe,NOVO,0,2022,cadeira
+São Paulo,NOVO,1,2022,cadeira
+Tocantins,NOVO,0,2022,cadeira
+Acre,PATRIOTA,0,2022,cadeira
+Alagoas,PATRIOTA,0,2022,cadeira
+Amazonas,PATRIOTA,0,2022,cadeira
+Amapá,PATRIOTA,0,2022,cadeira
+Bahia,PATRIOTA,0,2022,cadeira
+Ceará,PATRIOTA,0,2022,cadeira
+Distrito Federal,PATRIOTA,0,2022,cadeira
+Espirito Santo,PATRIOTA,0,2022,cadeira
+Goiás,PATRIOTA,0,2022,cadeira
+Maranhão,PATRIOTA,1,2022,cadeira
+Minas Gerais,PATRIOTA,3,2022,cadeira
+M. G. do Sul,PATRIOTA,0,2022,cadeira
+Mato Grosso,PATRIOTA,0,2022,cadeira
+Pará,PATRIOTA,0,2022,cadeira
+Paraíba,PATRIOTA,0,2022,cadeira
+Pernambuco,PATRIOTA,0,2022,cadeira
+Piauí,PATRIOTA,0,2022,cadeira
+Paraná,PATRIOTA,0,2022,cadeira
+Rio de Janeiro,PATRIOTA,0,2022,cadeira
+R. G. do Norte,PATRIOTA,0,2022,cadeira
+Rondônia,PATRIOTA,0,2022,cadeira
+Roraima,PATRIOTA,0,2022,cadeira
+R. G. do Sul,PATRIOTA,0,2022,cadeira
+Santa Catarina,PATRIOTA,0,2022,cadeira
+Sergipe,PATRIOTA,0,2022,cadeira
+São Paulo,PATRIOTA,0,2022,cadeira
+Tocantins,PATRIOTA,0,2022,cadeira
+Acre,PDT,0,2022,cadeira
+Alagoas,PDT,0,2022,cadeira
+Amazonas,PDT,0,2022,cadeira
+Amapá,PDT,3,2022,cadeira
+Bahia,PDT,2,2022,cadeira
+Ceará,PDT,5,2022,cadeira
+Distrito Federal,PDT,0,2022,cadeira
+Espirito Santo,PDT,0,2022,cadeira
+Goiás,PDT,1,2022,cadeira
+Maranhão,PDT,1,2022,cadeira
+Minas Gerais,PDT,2,2022,cadeira
+M. G. do Sul,PDT,0,2022,cadeira
+Mato Grosso,PDT,0,2022,cadeira
+Pará,PDT,0,2022,cadeira
+Paraíba,PDT,0,2022,cadeira
+Pernambuco,PDT,0,2022,cadeira
+Piauí,PDT,0,2022,cadeira
+Paraná,PDT,0,2022,cadeira
+Rio de Janeiro,PDT,1,2022,cadeira
+R. G. do Norte,PDT,0,2022,cadeira
+Rondônia,PDT,0,2022,cadeira
+Roraima,PDT,0,2022,cadeira
+R. G. do Sul,PDT,2,2022,cadeira
+Santa Catarina,PDT,0,2022,cadeira
+Sergipe,PDT,0,2022,cadeira
+São Paulo,PDT,0,2022,cadeira
+Tocantins,PDT,0,2022,cadeira
+Acre,PL,0,2022,cadeira
+Alagoas,PL,0,2022,cadeira
+Amazonas,PL,1,2022,cadeira
+Amapá,PL,3,2022,cadeira
+Bahia,PL,3,2022,cadeira
+Ceará,PL,5,2022,cadeira
+Distrito Federal,PL,2,2022,cadeira
+Espirito Santo,PL,1,2022,cadeira
+Goiás,PL,4,2022,cadeira
+Maranhão,PL,4,2022,cadeira
+Minas Gerais,PL,11,2022,cadeira
+M. G. do Sul,PL,2,2022,cadeira
+Mato Grosso,PL,4,2022,cadeira
+Pará,PL,3,2022,cadeira
+Paraíba,PL,2,2022,cadeira
+Pernambuco,PL,4,2022,cadeira
+Piauí,PL,0,2022,cadeira
+Paraná,PL,3,2022,cadeira
+Rio de Janeiro,PL,11,2022,cadeira
+R. G. do Norte,PL,4,2022,cadeira
+Rondônia,PL,2,2022,cadeira
+Roraima,PL,0,2022,cadeira
+R. G. do Sul,PL,4,2022,cadeira
+Santa Catarina,PL,6,2022,cadeira
+Sergipe,PL,1,2022,cadeira
+São Paulo,PL,17,2022,cadeira
+Tocantins,PL,2,2022,cadeira
+Acre,PODE,0,2022,cadeira
+Alagoas,PODE,0,2022,cadeira
+Amazonas,PODE,0,2022,cadeira
+Amapá,PODE,0,2022,cadeira
+Bahia,PODE,1,2022,cadeira
+Ceará,PODE,0,2022,cadeira
+Distrito Federal,PODE,0,2022,cadeira
+Espirito Santo,PODE,2,2022,cadeira
+Goiás,PODE,0,2022,cadeira
+Maranhão,PODE,1,2022,cadeira
+Minas Gerais,PODE,2,2022,cadeira
+M. G. do Sul,PODE,0,2022,cadeira
+Mato Grosso,PODE,0,2022,cadeira
+Pará,PODE,0,2022,cadeira
+Paraíba,PODE,0,2022,cadeira
+Pernambuco,PODE,0,2022,cadeira
+Piauí,PODE,0,2022,cadeira
+Paraná,PODE,1,2022,cadeira
+Rio de Janeiro,PODE,1,2022,cadeira
+R. G. do Norte,PODE,0,2022,cadeira
+Rondônia,PODE,0,2022,cadeira
+Roraima,PODE,0,2022,cadeira
+R. G. do Sul,PODE,1,2022,cadeira
+Santa Catarina,PODE,0,2022,cadeira
+Sergipe,PODE,0,2022,cadeira
+São Paulo,PODE,3,2022,cadeira
+Tocantins,PODE,0,2022,cadeira
+Acre,PP,3,2022,cadeira
+Alagoas,PP,4,2022,cadeira
+Amazonas,PP,0,2022,cadeira
+Amapá,PP,0,2022,cadeira
+Bahia,PP,4,2022,cadeira
+Ceará,PP,1,2022,cadeira
+Distrito Federal,PP,0,2022,cadeira
+Espirito Santo,PP,2,2022,cadeira
+Goiás,PP,2,2022,cadeira
+Maranhão,PP,2,2022,cadeira
+Minas Gerais,PP,3,2022,cadeira
+M. G. do Sul,PP,1,2022,cadeira
+Mato Grosso,PP,0,2022,cadeira
+Pará,PP,0,2022,cadeira
+Paraíba,PP,2,2022,cadeira
+Pernambuco,PP,4,2022,cadeira
+Piauí,PP,2,2022,cadeira
+Paraná,PP,4,2022,cadeira
+Rio de Janeiro,PP,3,2022,cadeira
+R. G. do Norte,PP,0,2022,cadeira
+Rondônia,PP,0,2022,cadeira
+Roraima,PP,0,2022,cadeira
+R. G. do Sul,PP,3,2022,cadeira
+Santa Catarina,PP,0,2022,cadeira
+Sergipe,PP,1,2022,cadeira
+São Paulo,PP,4,2022,cadeira
+Tocantins,PP,2,2022,cadeira
+Acre,PROS,0,2022,cadeira
+Alagoas,PROS,0,2022,cadeira
+Amazonas,PROS,0,2022,cadeira
+Amapá,PROS,0,2022,cadeira
+Bahia,PROS,0,2022,cadeira
+Ceará,PROS,0,2022,cadeira
+Distrito Federal,PROS,0,2022,cadeira
+Espirito Santo,PROS,0,2022,cadeira
+Goiás,PROS,0,2022,cadeira
+Maranhão,PROS,0,2022,cadeira
+Minas Gerais,PROS,1,2022,cadeira
+M. G. do Sul,PROS,0,2022,cadeira
+Mato Grosso,PROS,0,2022,cadeira
+Pará,PROS,0,2022,cadeira
+Paraíba,PROS,0,2022,cadeira
+Pernambuco,PROS,0,2022,cadeira
+Piauí,PROS,0,2022,cadeira
+Paraná,PROS,1,2022,cadeira
+Rio de Janeiro,PROS,1,2022,cadeira
+R. G. do Norte,PROS,0,2022,cadeira
+Rondônia,PROS,0,2022,cadeira
+Roraima,PROS,0,2022,cadeira
+R. G. do Sul,PROS,0,2022,cadeira
+Santa Catarina,PROS,0,2022,cadeira
+Sergipe,PROS,0,2022,cadeira
+São Paulo,PROS,0,2022,cadeira
+Tocantins,PROS,0,2022,cadeira
+Acre,PSB,0,2022,cadeira
+Alagoas,PSB,0,2022,cadeira
+Amazonas,PSB,0,2022,cadeira
+Amapá,PSB,0,2022,cadeira
+Bahia,PSB,1,2022,cadeira
+Ceará,PSB,0,2022,cadeira
+Distrito Federal,PSB,0,2022,cadeira
+Espirito Santo,PSB,1,2022,cadeira
+Goiás,PSB,0,2022,cadeira
+Maranhão,PSB,1,2022,cadeira
+Minas Gerais,PSB,0,2022,cadeira
+M. G. do Sul,PSB,0,2022,cadeira
+Mato Grosso,PSB,0,2022,cadeira
+Pará,PSB,0,2022,cadeira
+Paraíba,PSB,1,2022,cadeira
+Pernambuco,PSB,5,2022,cadeira
+Piauí,PSB,0,2022,cadeira
+Paraná,PSB,1,2022,cadeira
+Rio de Janeiro,PSB,1,2022,cadeira
+R. G. do Norte,PSB,0,2022,cadeira
+Rondônia,PSB,0,2022,cadeira
+Roraima,PSB,0,2022,cadeira
+R. G. do Sul,PSB,1,2022,cadeira
+Santa Catarina,PSB,0,2022,cadeira
+Sergipe,PSB,0,2022,cadeira
+São Paulo,PSB,2,2022,cadeira
+Tocantins,PSB,0,2022,cadeira
+Acre,PSC,0,2022,cadeira
+Alagoas,PSC,0,2022,cadeira
+Amazonas,PSC,0,2022,cadeira
+Amapá,PSC,0,2022,cadeira
+Bahia,PSC,0,2022,cadeira
+Ceará,PSC,0,2022,cadeira
+Distrito Federal,PSC,0,2022,cadeira
+Espirito Santo,PSC,0,2022,cadeira
+Goiás,PSC,1,2022,cadeira
+Maranhão,PSC,1,2022,cadeira
+Minas Gerais,PSC,1,2022,cadeira
+M. G. do Sul,PSC,0,2022,cadeira
+Mato Grosso,PSC,0,2022,cadeira
+Pará,PSC,0,2022,cadeira
+Paraíba,PSC,2,2022,cadeira
+Pernambuco,PSC,0,2022,cadeira
+Piauí,PSC,0,2022,cadeira
+Paraná,PSC,0,2022,cadeira
+Rio de Janeiro,PSC,0,2022,cadeira
+R. G. do Norte,PSC,0,2022,cadeira
+Rondônia,PSC,0,2022,cadeira
+Roraima,PSC,0,2022,cadeira
+R. G. do Sul,PSC,0,2022,cadeira
+Santa Catarina,PSC,0,2022,cadeira
+Sergipe,PSC,0,2022,cadeira
+São Paulo,PSC,1,2022,cadeira
+Tocantins,PSC,0,2022,cadeira
+Acre,PSD,0,2022,cadeira
+Alagoas,PSD,0,2022,cadeira
+Amazonas,PSD,2,2022,cadeira
+Amapá,PSD,0,2022,cadeira
+Bahia,PSD,6,2022,cadeira
+Ceará,PSD,3,2022,cadeira
+Distrito Federal,PSD,0,2022,cadeira
+Espirito Santo,PSD,0,2022,cadeira
+Goiás,PSD,1,2022,cadeira
+Maranhão,PSD,1,2022,cadeira
+Minas Gerais,PSD,4,2022,cadeira
+M. G. do Sul,PSD,0,2022,cadeira
+Mato Grosso,PSD,0,2022,cadeira
+Pará,PSD,2,2022,cadeira
+Paraíba,PSD,0,2022,cadeira
+Pernambuco,PSD,0,2022,cadeira
+Piauí,PSD,3,2022,cadeira
+Paraná,PSD,7,2022,cadeira
+Rio de Janeiro,PSD,4,2022,cadeira
+R. G. do Norte,PSD,0,2022,cadeira
+Rondônia,PSD,0,2022,cadeira
+Roraima,PSD,1,2022,cadeira
+R. G. do Sul,PSD,1,2022,cadeira
+Santa Catarina,PSD,2,2022,cadeira
+Sergipe,PSD,2,2022,cadeira
+São Paulo,PSD,3,2022,cadeira
+Tocantins,PSD,0,2022,cadeira
+Acre,PSDB_Cidadania,0,2022,cadeira
+Alagoas,PSDB_Cidadania,0,2022,cadeira
+Amazonas,PSDB_Cidadania,1,2022,cadeira
+Amapá,PSDB_Cidadania,0,2022,cadeira
+Bahia,PSDB_Cidadania,1,2022,cadeira
+Ceará,PSDB_Cidadania,0,2022,cadeira
+Distrito Federal,PSDB_Cidadania,0,2022,cadeira
+Espirito Santo,PSDB_Cidadania,0,2022,cadeira
+Goiás,PSDB_Cidadania,1,2022,cadeira
+Maranhão,PSDB_Cidadania,0,2022,cadeira
+Minas Gerais,PSDB_Cidadania,2,2022,cadeira
+M. G. do Sul,PSDB_Cidadania,3,2022,cadeira
+Mato Grosso,PSDB_Cidadania,0,2022,cadeira
+Pará,PSDB_Cidadania,0,2022,cadeira
+Paraíba,PSDB_Cidadania,0,2022,cadeira
+Pernambuco,PSDB_Cidadania,0,2022,cadeira
+Piauí,PSDB_Cidadania,0,2022,cadeira
+Paraná,PSDB_Cidadania,1,2022,cadeira
+Rio de Janeiro,PSDB_Cidadania,0,2022,cadeira
+R. G. do Norte,PSDB_Cidadania,0,2022,cadeira
+Rondônia,PSDB_Cidadania,0,2022,cadeira
+Roraima,PSDB_Cidadania,0,2022,cadeira
+R. G. do Sul,PSDB_Cidadania,3,2022,cadeira
+Santa Catarina,PSDB_Cidadania,1,2022,cadeira
+Sergipe,PSDB_Cidadania,0,2022,cadeira
+São Paulo,PSDB_Cidadania,5,2022,cadeira
+Tocantins,PSDB_Cidadania,0,2022,cadeira
+Acre,PSOL_REDE,0,2022,cadeira
+Alagoas,PSOL_REDE,0,2022,cadeira
+Amazonas,PSOL_REDE,0,2022,cadeira
+Amapá,PSOL_REDE,0,2022,cadeira
+Bahia,PSOL_REDE,0,2022,cadeira
+Ceará,PSOL_REDE,0,2022,cadeira
+Distrito Federal,PSOL_REDE,0,2022,cadeira
+Espirito Santo,PSOL_REDE,0,2022,cadeira
+Goiás,PSOL_REDE,0,2022,cadeira
+Maranhão,PSOL_REDE,0,2022,cadeira
+Minas Gerais,PSOL_REDE,1,2022,cadeira
+M. G. do Sul,PSOL_REDE,0,2022,cadeira
+Mato Grosso,PSOL_REDE,0,2022,cadeira
+Pará,PSOL_REDE,0,2022,cadeira
+Paraíba,PSOL_REDE,0,2022,cadeira
+Pernambuco,PSOL_REDE,1,2022,cadeira
+Piauí,PSOL_REDE,0,2022,cadeira
+Paraná,PSOL_REDE,0,2022,cadeira
+Rio de Janeiro,PSOL_REDE,5,2022,cadeira
+R. G. do Norte,PSOL_REDE,0,2022,cadeira
+Rondônia,PSOL_REDE,0,2022,cadeira
+Roraima,PSOL_REDE,0,2022,cadeira
+R. G. do Sul,PSOL_REDE,1,2022,cadeira
+Santa Catarina,PSOL_REDE,0,2022,cadeira
+Sergipe,PSOL_REDE,0,2022,cadeira
+São Paulo,PSOL_REDE,6,2022,cadeira
+Tocantins,PSOL_REDE,0,2022,cadeira
+Acre,PT _PCdoB_PV,0,2022,cadeira
+Alagoas,PT _PCdoB_PV,2,2022,cadeira
+Amazonas,PT _PCdoB_PV,0,2022,cadeira
+Amapá,PT _PCdoB_PV,0,2022,cadeira
+Bahia,PT _PCdoB_PV,10,2022,cadeira
+Ceará,PT _PCdoB_PV,3,2022,cadeira
+Distrito Federal,PT _PCdoB_PV,2,2022,cadeira
+Espirito Santo,PT _PCdoB_PV,2,2022,cadeira
+Goiás,PT _PCdoB_PV,2,2022,cadeira
+Maranhão,PT _PCdoB_PV,2,2022,cadeira
+Minas Gerais,PT _PCdoB_PV,10,2022,cadeira
+M. G. do Sul,PT _PCdoB_PV,2,2022,cadeira
+Mato Grosso,PT _PCdoB_PV,0,2022,cadeira
+Pará,PT _PCdoB_PV,2,2022,cadeira
+Paraíba,PT _PCdoB_PV,1,2022,cadeira
+Pernambuco,PT _PCdoB_PV,3,2022,cadeira
+Piauí,PT _PCdoB_PV,5,2022,cadeira
+Paraná,PT _PCdoB_PV,6,2022,cadeira
+Rio de Janeiro,PT _PCdoB_PV,6,2022,cadeira
+R. G. do Norte,PT _PCdoB_PV,2,2022,cadeira
+Rondônia,PT _PCdoB_PV,0,2022,cadeira
+Roraima,PT _PCdoB_PV,0,2022,cadeira
+R. G. do Sul,PT _PCdoB_PV,7,2022,cadeira
+Santa Catarina,PT _PCdoB_PV,2,2022,cadeira
+Sergipe,PT _PCdoB_PV,1,2022,cadeira
+São Paulo,PT _PCdoB_PV,11,2022,cadeira
+Tocantins,PT _PCdoB_PV,0,2022,cadeira
+Acre,PTB,0,2022,cadeira
+Alagoas,PTB,0,2022,cadeira
+Amazonas,PTB,0,2022,cadeira
+Amapá,PTB,0,2022,cadeira
+Bahia,PTB,0,2022,cadeira
+Ceará,PTB,0,2022,cadeira
+Distrito Federal,PTB,0,2022,cadeira
+Espirito Santo,PTB,0,2022,cadeira
+Goiás,PTB,0,2022,cadeira
+Maranhão,PTB,0,2022,cadeira
+Minas Gerais,PTB,0,2022,cadeira
+M. G. do Sul,PTB,0,2022,cadeira
+Mato Grosso,PTB,0,2022,cadeira
+Pará,PTB,0,2022,cadeira
+Paraíba,PTB,0,2022,cadeira
+Pernambuco,PTB,0,2022,cadeira
+Piauí,PTB,0,2022,cadeira
+Paraná,PTB,0,2022,cadeira
+Rio de Janeiro,PTB,1,2022,cadeira
+R. G. do Norte,PTB,0,2022,cadeira
+Rondônia,PTB,0,2022,cadeira
+Roraima,PTB,0,2022,cadeira
+R. G. do Sul,PTB,0,2022,cadeira
+Santa Catarina,PTB,0,2022,cadeira
+Sergipe,PTB,0,2022,cadeira
+São Paulo,PTB,0,2022,cadeira
+Tocantins,PTB,0,2022,cadeira
+Acre,Republicanos,2,2022,cadeira
+Alagoas,Republicanos,0,2022,cadeira
+Amazonas,Republicanos,2,2022,cadeira
+Amapá,Republicanos,0,2022,cadeira
+Bahia,Republicanos,3,2022,cadeira
+Ceará,Republicanos,0,2022,cadeira
+Distrito Federal,Republicanos,3,2022,cadeira
+Espirito Santo,Republicanos,2,2022,cadeira
+Goiás,Republicanos,1,2022,cadeira
+Maranhão,Republicanos,1,2022,cadeira
+Minas Gerais,Republicanos,2,2022,cadeira
+M. G. do Sul,Republicanos,0,2022,cadeira
+Mato Grosso,Republicanos,0,2022,cadeira
+Pará,Republicanos,0,2022,cadeira
+Paraíba,Republicanos,3,2022,cadeira
+Pernambuco,Republicanos,2,2022,cadeira
+Piauí,Republicanos,0,2022,cadeira
+Paraná,Republicanos,1,2022,cadeira
+Rio de Janeiro,Republicanos,3,2022,cadeira
+R. G. do Norte,Republicanos,0,2022,cadeira
+Rondônia,Republicanos,0,2022,cadeira
+Roraima,Republicanos,3,2022,cadeira
+R. G. do Sul,Republicanos,3,2022,cadeira
+Santa Catarina,Republicanos,0,2022,cadeira
+Sergipe,Republicanos,1,2022,cadeira
+São Paulo,Republicanos,5,2022,cadeira
+Tocantins,Republicanos,3,2022,cadeira
+Acre,Solidariedade,0,2022,cadeira
+Alagoas,Solidariedade,0,2022,cadeira
+Amazonas,Solidariedade,0,2022,cadeira
+Amapá,Solidariedade,0,2022,cadeira
+Bahia,Solidariedade,0,2022,cadeira
+Ceará,Solidariedade,0,2022,cadeira
+Distrito Federal,Solidariedade,0,2022,cadeira
+Espirito Santo,Solidariedade,0,2022,cadeira
+Goiás,Solidariedade,0,2022,cadeira
+Maranhão,Solidariedade,0,2022,cadeira
+Minas Gerais,Solidariedade,1,2022,cadeira
+M. G. do Sul,Solidariedade,0,2022,cadeira
+Mato Grosso,Solidariedade,0,2022,cadeira
+Pará,Solidariedade,0,2022,cadeira
+Paraíba,Solidariedade,0,2022,cadeira
+Pernambuco,Solidariedade,1,2022,cadeira
+Piauí,Solidariedade,0,2022,cadeira
+Paraná,Solidariedade,0,2022,cadeira
+Rio de Janeiro,Solidariedade,1,2022,cadeira
+R. G. do Norte,Solidariedade,0,2022,cadeira
+Rondônia,Solidariedade,0,2022,cadeira
+Roraima,Solidariedade,0,2022,cadeira
+R. G. do Sul,Solidariedade,0,2022,cadeira
+Santa Catarina,Solidariedade,0,2022,cadeira
+Sergipe,Solidariedade,0,2022,cadeira
+São Paulo,Solidariedade,1,2022,cadeira
+Tocantins,Solidariedade,0,2022,cadeira
+Acre,UNIÃO,3,2022,cadeira
+Alagoas,UNIÃO,1,2022,cadeira
+Amazonas,UNIÃO,2,2022,cadeira
+Amapá,UNIÃO,0,2022,cadeira
+Bahia,UNIÃO,6,2022,cadeira
+Ceará,UNIÃO,4,2022,cadeira
+Distrito Federal,UNIÃO,0,2022,cadeira
+Espirito Santo,UNIÃO,0,2022,cadeira
+Goiás,UNIÃO,2,2022,cadeira
+Maranhão,UNIÃO,2,2022,cadeira
+Minas Gerais,UNIÃO,3,2022,cadeira
+M. G. do Sul,UNIÃO,0,2022,cadeira
+Mato Grosso,UNIÃO,2,2022,cadeira
+Pará,UNIÃO,1,2022,cadeira
+Paraíba,UNIÃO,1,2022,cadeira
+Pernambuco,UNIÃO,3,2022,cadeira
+Piauí,UNIÃO,0,2022,cadeira
+Paraná,UNIÃO,4,2022,cadeira
+Rio de Janeiro,UNIÃO,6,2022,cadeira
+R. G. do Norte,UNIÃO,2,2022,cadeira
+Rondônia,UNIÃO,4,2022,cadeira
+Roraima,UNIÃO,2,2022,cadeira
+R. G. do Sul,UNIÃO,1,2022,cadeira
+Santa Catarina,UNIÃO,1,2022,cadeira
+Sergipe,UNIÃO,2,2022,cadeira
+São Paulo,UNIÃO,6,2022,cadeira
+Tocantins,UNIÃO,1,2022,cadeira

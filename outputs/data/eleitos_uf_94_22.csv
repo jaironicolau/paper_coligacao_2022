@@ -1,0 +1,270 @@
+ESTADOS,ANO_ELEICAO,partido_eleito,total
+Acre,1986,3,elegeu
+Acre,1990,2,elegeu
+Acre,1994,3,elegeu
+Acre,1998,5,elegeu
+Acre,2002,5,elegeu
+Acre,2006,6,elegeu
+Acre,2010,7,elegeu
+Acre,2014,5,elegeu
+Acre,2018,7,elegeu
+Acre,2022,3,elegeu
+Alagoas,1986,3,elegeu
+Alagoas,1990,5,elegeu
+Alagoas,1994,8,elegeu
+Alagoas,1998,8,elegeu
+Alagoas,2002,6,elegeu
+Alagoas,2006,6,elegeu
+Alagoas,2010,7,elegeu
+Alagoas,2014,9,elegeu
+Alagoas,2018,9,elegeu
+Alagoas,2022,4,elegeu
+Amapá,1986,2,elegeu
+Amapá,1990,5,elegeu
+Amapá,1994,5,elegeu
+Amapá,1998,5,elegeu
+Amapá,2002,6,elegeu
+Amapá,2006,7,elegeu
+Amapá,2010,7,elegeu
+Amapá,2014,8,elegeu
+Amapá,2018,8,elegeu
+Amapá,2022,3,elegeu
+Amazonas,1986,4,elegeu
+Amazonas,1990,5,elegeu
+Amazonas,1994,4,elegeu
+Amazonas,1998,5,elegeu
+Amazonas,2002,4,elegeu
+Amazonas,2006,7,elegeu
+Amazonas,2010,7,elegeu
+Amazonas,2014,7,elegeu
+Amazonas,2018,7,elegeu
+Amazonas,2022,5,elegeu
+Bahia,1986,4,elegeu
+Bahia,1990,12,elegeu
+Bahia,1994,11,elegeu
+Bahia,1998,9,elegeu
+Bahia,2002,10,elegeu
+Bahia,2006,11,elegeu
+Bahia,2010,12,elegeu
+Bahia,2014,16,elegeu
+Bahia,2018,16,elegeu
+Bahia,2022,12,elegeu
+Ceará,1986,4,elegeu
+Ceará,1990,7,elegeu
+Ceará,1994,6,elegeu
+Ceará,1998,7,elegeu
+Ceará,2002,8,elegeu
+Ceará,2006,8,elegeu
+Ceará,2010,9,elegeu
+Ceará,2014,14,elegeu
+Ceará,2018,14,elegeu
+Ceará,2022,7,elegeu
+Distrito Federal,1986,3,elegeu
+Distrito Federal,1990,6,elegeu
+Distrito Federal,1994,5,elegeu
+Distrito Federal,1998,6,elegeu
+Distrito Federal,2002,5,elegeu
+Distrito Federal,2006,6,elegeu
+Distrito Federal,2010,5,elegeu
+Distrito Federal,2014,8,elegeu
+Distrito Federal,2018,8,elegeu
+Distrito Federal,2022,4,elegeu
+Espírito Santo,1990,3,elegeu
+Espírito Santo,1994,6,elegeu
+Espírito Santo,1998,6,elegeu
+Espírito Santo,2002,8,elegeu
+Espírito Santo,2006,6,elegeu
+Espírito Santo,2010,6,elegeu
+Espírito Santo,2014,9,elegeu
+Espírito Santo,2018,9,elegeu
+Espírito Santo,2022,6,elegeu
+Espírito Santo,1986,3,elegeu
+Goiás,1986,3,elegeu
+Goiás,1990,5,elegeu
+Goiás,1994,9,elegeu
+Goiás,1998,7,elegeu
+Goiás,2002,5,elegeu
+Goiás,2006,7,elegeu
+Goiás,2010,9,elegeu
+Goiás,2014,10,elegeu
+Goiás,2018,14,elegeu
+Goiás,2022,10,elegeu
+M. G. do Sul,1986,3,elegeu
+M. G. do Sul,1990,5,elegeu
+M. G. do Sul,1994,6,elegeu
+M. G. do Sul,1998,6,elegeu
+M. G. do Sul,2002,5,elegeu
+M. G. do Sul,2006,6,elegeu
+M. G. do Sul,2010,5,elegeu
+M. G. do Sul,2014,6,elegeu
+M. G. do Sul,2018,6,elegeu
+M. G. do Sul,2022,4,elegeu
+Maranhão,1986,3,elegeu
+Maranhão,1990,9,elegeu
+Maranhão,1994,7,elegeu
+Maranhão,1998,8,elegeu
+Maranhão,2002,8,elegeu
+Maranhão,2006,10,elegeu
+Maranhão,2010,12,elegeu
+Maranhão,2014,14,elegeu
+Maranhão,2018,14,elegeu
+Maranhão,2022,12,elegeu
+Mato Grosso,1986,3,elegeu
+Mato Grosso,1990,4,elegeu
+Mato Grosso,1994,8,elegeu
+Mato Grosso,1998,5,elegeu
+Mato Grosso,2002,6,elegeu
+Mato Grosso,2006,7,elegeu
+Mato Grosso,2010,6,elegeu
+Mato Grosso,2014,7,elegeu
+Mato Grosso,2018,7,elegeu
+Mato Grosso,2022,3,elegeu
+Minas Gerais,1986,6,elegeu
+Minas Gerais,1990,11,elegeu
+Minas Gerais,1994,11,elegeu
+Minas Gerais,1998,10,elegeu
+Minas Gerais,2002,14,elegeu
+Minas Gerais,2006,14,elegeu
+Minas Gerais,2010,18,elegeu
+Minas Gerais,2014,21,elegeu
+Minas Gerais,2018,21,elegeu
+Minas Gerais,2022,16,elegeu
+Paraná,1986,3,elegeu
+Paraná,1990,7,elegeu
+Paraná,1994,9,elegeu
+Paraná,1998,7,elegeu
+Paraná,2002,9,elegeu
+Paraná,2006,9,elegeu
+Paraná,2010,11,elegeu
+Paraná,2014,15,elegeu
+Paraná,2018,16,elegeu
+Paraná,2022,11,elegeu
+Paraíba,1986,3,elegeu
+Paraíba,1990,4,elegeu
+Paraíba,1994,4,elegeu
+Paraíba,1998,6,elegeu
+Paraíba,2002,8,elegeu
+Paraíba,2006,6,elegeu
+Paraíba,2010,7,elegeu
+Paraíba,2014,10,elegeu
+Paraíba,2018,10,elegeu
+Paraíba,2022,7,elegeu
+Pará,1986,3,elegeu
+Pará,1990,7,elegeu
+Pará,1994,7,elegeu
+Pará,1998,7,elegeu
+Pará,2002,8,elegeu
+Pará,2006,7,elegeu
+Pará,2010,9,elegeu
+Pará,2014,12,elegeu
+Pará,2018,10,elegeu
+Pará,2022,5,elegeu
+Pernambuco,1986,3,elegeu
+Pernambuco,1990,6,elegeu
+Pernambuco,1994,7,elegeu
+Pernambuco,1998,8,elegeu
+Pernambuco,2002,9,elegeu
+Pernambuco,2006,12,elegeu
+Pernambuco,2010,11,elegeu
+Pernambuco,2014,12,elegeu
+Pernambuco,2018,17,elegeu
+Pernambuco,2022,10,elegeu
+Piauí,1986,3,elegeu
+Piauí,1990,4,elegeu
+Piauí,1994,4,elegeu
+Piauí,1998,4,elegeu
+Piauí,2002,5,elegeu
+Piauí,2006,7,elegeu
+Piauí,2010,7,elegeu
+Piauí,2014,6,elegeu
+Piauí,2018,8,elegeu
+Piauí,2022,3,elegeu
+R. G. do Norte,1986,3,elegeu
+R. G. do Norte,1990,4,elegeu
+R. G. do Norte,1994,3,elegeu
+R. G. do Norte,1998,3,elegeu
+R. G. do Norte,2002,5,elegeu
+R. G. do Norte,2006,7,elegeu
+R. G. do Norte,2010,7,elegeu
+R. G. do Norte,2014,8,elegeu
+R. G. do Norte,2018,8,elegeu
+R. G. do Norte,2022,3,elegeu
+R. G. do Sul,1986,5,elegeu
+R. G. do Sul,1990,6,elegeu
+R. G. do Sul,1994,7,elegeu
+R. G. do Sul,1998,8,elegeu
+R. G. do Sul,2002,10,elegeu
+R. G. do Sul,2006,11,elegeu
+R. G. do Sul,2010,9,elegeu
+R. G. do Sul,2014,11,elegeu
+R. G. do Sul,2018,14,elegeu
+R. G. do Sul,2022,13,elegeu
+Rio de Janeiro,1986,9,elegeu
+Rio de Janeiro,1990,14,elegeu
+Rio de Janeiro,1994,13,elegeu
+Rio de Janeiro,1998,11,elegeu
+Rio de Janeiro,2002,14,elegeu
+Rio de Janeiro,2006,18,elegeu
+Rio de Janeiro,2010,18,elegeu
+Rio de Janeiro,2014,17,elegeu
+Rio de Janeiro,2018,21,elegeu
+Rio de Janeiro,2022,14,elegeu
+Rondônia,1986,2,elegeu
+Rondônia,1990,2,elegeu
+Rondônia,1994,5,elegeu
+Rondônia,1998,5,elegeu
+Rondônia,2002,6,elegeu
+Rondônia,2006,6,elegeu
+Rondônia,2010,7,elegeu
+Rondônia,2014,6,elegeu
+Rondônia,2018,8,elegeu
+Rondônia,2022,3,elegeu
+Roraima,1986,2,elegeu
+Roraima,1990,5,elegeu
+Roraima,1994,5,elegeu
+Roraima,1998,4,elegeu
+Roraima,2002,5,elegeu
+Roraima,2006,7,elegeu
+Roraima,2010,7,elegeu
+Roraima,2014,8,elegeu
+Roraima,2018,8,elegeu
+Roraima,2022,4,elegeu
+Santa Catarina,1986,3,elegeu
+Santa Catarina,1990,6,elegeu
+Santa Catarina,1994,5,elegeu
+Santa Catarina,1998,6,elegeu
+Santa Catarina,2002,5,elegeu
+Santa Catarina,2006,6,elegeu
+Santa Catarina,2010,5,elegeu
+Santa Catarina,2014,7,elegeu
+Santa Catarina,2018,10,elegeu
+Santa Catarina,2022,7,elegeu
+Sergipe,1986,3,elegeu
+Sergipe,1990,4,elegeu
+Sergipe,1994,5,elegeu
+Sergipe,1998,7,elegeu
+Sergipe,2002,7,elegeu
+Sergipe,2006,6,elegeu
+Sergipe,2010,7,elegeu
+Sergipe,2014,8,elegeu
+Sergipe,2018,8,elegeu
+Sergipe,2022,6,elegeu
+São Paulo,1986,9,elegeu
+São Paulo,1990,11,elegeu
+São Paulo,1994,13,elegeu
+São Paulo,1998,12,elegeu
+São Paulo,2002,13,elegeu
+São Paulo,2006,16,elegeu
+São Paulo,2010,15,elegeu
+São Paulo,2014,18,elegeu
+São Paulo,2018,19,elegeu
+São Paulo,2022,14,elegeu
+Tocantins,1990,4,elegeu
+Tocantins,1994,4,elegeu
+Tocantins,1998,4,elegeu
+Tocantins,2002,5,elegeu
+Tocantins,2006,4,elegeu
+Tocantins,2010,7,elegeu
+Tocantins,2014,6,elegeu
+Tocantins,2018,6,elegeu
+Tocantins,2022,4,elegeu
