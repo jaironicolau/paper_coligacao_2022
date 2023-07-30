@@ -213,7 +213,7 @@ Tanto a fragmentação eleitoral quanto a parlamentar caíram em todos estados e
 knitr::include_graphics("outputs/figuras/figura3.jpeg")
 ```
 
-**Conclusão**
+### **Conclusão**
 
 Entre 1986 -- quando foram realizadas as primeiras eleições para a Câmara dos Deputados realizadas após o fim do Regime Militar -- e 2018, os partidos tiveram a opção de se coligarem nas eleições para cargos proporcionais. Amplo uso das coligações pelos partidos foi um dos fatores que mais contribuiu para tornar a o sistema partidário brasileiro o mais fragmentado do mundo. Além da possibilidade de coligação os menores partidos se beneficiaram de regras liberais que lhes garantiu acesso aos recursos do Fundo Partidário e à propaganda gratuita no rádio e televisão.
 
@@ -223,4 +223,4 @@ A proibição das coligações foi a principal mudança no sistema de representa
 
 {{< pagebreak >}}
 
-### Bibliografia
+### **Bibliografia**
