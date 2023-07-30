@@ -1,7 +1,7 @@
 ---
 title: "O efeito do fim das coligações nas eleições proporcionais na composição da Câmara dos Deputados eleita em 2022"
 author: Jairo Nicolau
-format: html
+format: pdf
 editor: visual
 bibliography: references.bib
 lang: pt    
@@ -139,46 +139,25 @@ O sistema partidário brasileiro conheceu um processo de crescente de dispersão
 
 [^16]: @laakso1979
 
-
 ```{r}
-#| message: false
-#| warning: false
-#| echo: false
-#| eval: true
 #| label: fig-nep
-#| fig-cap: "Número efetivo de partidos. Câmara dos Deputados do Brasil (1986-2022)"
+#| echo: false
+#| out-width: "90%"
+#| fig-cap: |
+#|  Número efetivo de partidos. Câmara dos Deputados do Brasil (1986-2022)
+#| fig-alt: |
+#|   RStudio window with a Quarto document titled "diamond-sizes.qmd" 
+#|   on the left and a blank Viewer window on the right. The Quarto 
+#|   document has a code chunk that creates a frequency plot of diamonds 
+#|   that weigh less than 2.5 carats. The plot shows that the frequency 
+#|   decreases as the weight increases.
 
-
-library(tidyverse)
-library(readr)
-library(cowplot)
-
-
-nep_cadeira <- read_csv("outputs/data/nep_votos_cadeiras_br_86_22.csv")
-
-nep_cadeira %>% 
-  ggplot(aes(ANO_ELEICAO, nep)) +
-  geom_line(size= 0.3)+
-  geom_point(size=1.2) +
-  scale_y_continuous(breaks = seq(0, 17, 01), 
-                     limits=c(0, 17)) + 
-  theme_bw() +
-  scale_color_brewer(palette = "Dark2") +
-  background_grid(major = 'y', minor = "none") +
-  scale_x_continuous(breaks = c(1986, 1990, 1994, 1998,  
-                                2002, 2006, 2010, 2014, 2018, 2022)) +
-  labs(title = "",
-       subtitle = "", 
-       fill = "",
-       color = "", 
-       x = NULL, 
-       y = NULL,
-       caption = "" ) ## Autor: Jairo Nicolau;  Fonte: Dados do TSE
+knitr::include_graphics("outputs/figuras/figura1.jpeg")
 ```
 
-Três aspectos chamam a atenção na @fig-nep. O primeiro deles é o crescimento da fragmentação partidária nas eleições de 1990. Como não houve nenhuma mudança nas regras eleitorais naquele ano, as causas do aumento da dispersão partidária decorrem da decisão dos dirigentes partidários e dos eleitores, entre os quais se destacam: a criação do PSDB (1988), a forte migração de políticos do PMDB para outras legendas a partir de 1988, e o desempenho eleitoral do PRN (partido do então presidente Fernando Collor) nas eleições de 1990. 
+Três aspectos chamam a atenção na @fig-nep. O primeiro deles é o crescimento da fragmentação partidária nas eleições de 1990. Como não houve nenhuma mudança nas regras eleitorais naquele ano, as causas do aumento da dispersão partidária decorrem da decisão dos dirigentes partidários e dos eleitores, entre os quais se destacam: a criação do PSDB (1988), a forte migração de políticos do PMDB para outras legendas a partir de 1988, e o desempenho eleitoral do PRN (partido do então presidente Fernando Collor) nas eleições de 1990.
 
-O segundo aspecto é o aumento da fragmentação partidária a partir de 1998. Três fatores contribuíram para isso: o novo ciclo de criação de partidos ao longo da década de 2010, a ampliação do uso das coligações em eleições parlamentares, e o crescimento da bancada do PSL em 2018. Um último ponto  a destacar @fig-nep é a forte redução do NEP nas eleições de 2022. Esse decréscimo da fragmentação está associado a mudanças na legislação eleitoral (analisadas na seção anterior) que pela primeira vez afetaram significativamente os pequenos partidos: a cláusula de desempenho e o fim das coligações.
+O segundo aspecto é o aumento da fragmentação partidária a partir de 1998. Três fatores contribuíram para isso: o novo ciclo de criação de partidos ao longo da década de 2010, a ampliação do uso das coligações em eleições parlamentares, e o crescimento da bancada do PSL em 2018. Um último ponto a destacar @fig-nep é a forte redução do NEP nas eleições de 2022. Esse decréscimo da fragmentação está associado a mudanças na legislação eleitoral (analisadas na seção anterior) que pela primeira vez afetaram significativamente os pequenos partidos: a cláusula de desempenho e o fim das coligações.
 
 Rein Taagepera e Matthew Shugart (1989) homenagearam o cientista político Maurice Duverger -- um dos pioneiros dos estudos sobre sistemas eleitorais -- nomeando dois efeitos dos sistemas eleitorais apontados por ele. O *efeito mecânico de Duverger* é a tendência presente em todos os sistemas eleitorais de favorecer os partidos mais votados (com bônus em cadeiras) e prejudicar os menos votados. As regras eleitorais também produzem efeitos no comportamento dos dirigentes partidários e dos eleitores. O *efeito psicológico de Duverger* opera, por exemplo, quando partido resolve não apresentar candidatos em um distrito eleitoral onde tem baixa probabilidade de eleger um deputado, ou quando, pelas mesmas razões o eleitor deixa de votar em sua primeira preferência para votar em um outro candidato com mais chances de se eleger (voto útil).
 
@@ -196,18 +175,43 @@ Podemos observar que o número de partidos que participa das eleições declina 
 
 Vale a pena relembrar como as regras ficaram mais restritivas para os pequenos partidos a partir de 2019. Dez legendas perderam recursos significativos (deixaram de receber dinheiro do Fundo Partidário, e competiram em 2020 e 2022 sem propaganda política no rádio e na televisão) e obtiveram um pequeno percentual do Fundo Eleitoral. Além disso, as eleições municipais de 2020 mostraram que o fim coligações reduziu o número de legendas nas Câmaras Municipais.
 
-Na Figura 2 podemos também observar o efeito do sistema eleitoral sobre a representação dos partidos. A linha inferior de cada painel mostra que o número de partidos que elege representante também caiu em todos as unidades da federação em 2022. Em seis estados (Acre, Amapá, Mato Grosso, Piauí, Rio Grande do Norte e Rondônia) a bancada eleita é composta por apenas três partidos; há mais de 20 anos que isso não acontecia (a última vez que apenas três partidos elegeram representantes foi em 1998).
+Na @fig-compete podemos também observar o efeito do sistema eleitoral sobre a representação dos partidos. A linha inferior de cada painel mostra que o número de partidos que elege representante também caiu em todos as unidades da federação em 2022. Em seis estados (Acre, Amapá, Mato Grosso, Piauí, Rio Grande do Norte e Rondônia) a bancada eleita é composta por apenas três partidos; há mais de 20 anos que isso não acontecia (a última vez que apenas três partidos elegeram representantes foi em 1998).
 
-Figura 2: Total de partidos que concorre e elegem deputados federais por unidade da federação, 1998-2022.
+```{r}
+#| label: fig-compete
+#| echo: false
+#| out-width: "90%"
+#| fig-cap: |
+#|  Número efetivo de partidos. Câmara dos Deputados do Brasil (1986-2022)
+#| fig-alt: |
+#|   RStudio window with a Quarto document titled "diamond-sizes.qmd" 
+#|   on the left and a blank Viewer window on the right. The Quarto 
+#|   document has a code chunk that creates a frequency plot of diamonds 
+#|   that weigh less than 2.5 carats. The plot shows that the frequency 
+#|   decreases as the weight increases.
 
+knitr::include_graphics("outputs/figuras/figura2.jpeg")
+```
 
-
-
-Para além da simples contagem do total de partidos que concorre e elege representantes, vale a pena observar o grau de concentração/dispersão dos votos e das bancadas de cada estado. A Figura 3 mostra o *número efetivo de partidos*, com base nos votos e cadeiras entre 1998 e 2022.
+Para além da simples contagem do total de partidos que concorre e elege representantes, vale a pena observar o grau de concentração/dispersão dos votos e das bancadas de cada estado. A @fig-nep-uf mostra o *número efetivo de partidos*, com base nos votos e cadeiras entre 1998 e 2022.
 
 Tanto a fragmentação eleitoral quanto a parlamentar caíram em todos estados e no Distrito Federal. A Figura 3 mostra que a evolução do NEP tem padrões muito diferenciados nos estados ao longo do período, mas em todas elas -- com exceção do Rio de Janeiro -- a dispersão eleitoral chegaria ao patamar máximo no pleito de 2018. Com relação à fragmentação parlamentar, observamos uma redução significativa em 2022, particularmente nos estados que elegem até 10 representantes: em 14 unidades da federação o NEP foi inferior a 5.0 (quatro anos, antes isso não havia acontecido em nenhum estado).
 
-Figura 3: Número efetivo de partido (NEP) por unidade da federação. Votos e cadeiras. Câmara do Deputados (1998-2022).
+```{r}
+#| label: fig-nep-uf
+#| echo: false
+#| out-width: "90%"
+#| fig-cap: |
+#|  Número efetivo de partidos. Câmara dos Deputados do Brasil (1986-2022)
+#| fig-alt: |
+#|   RStudio window with a Quarto document titled "diamond-sizes.qmd" 
+#|   on the left and a blank Viewer window on the right. The Quarto 
+#|   document has a code chunk that creates a frequency plot of diamonds 
+#|   that weigh less than 2.5 carats. The plot shows that the frequency 
+#|   decreases as the weight increases.
+
+knitr::include_graphics("outputs/figuras/figura3.jpeg")
+```
 
 **Conclusão**
 

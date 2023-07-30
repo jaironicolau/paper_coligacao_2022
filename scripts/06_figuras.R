@@ -8,7 +8,7 @@ library(tidyverse)
 library(readr)
 library(cowplot)
 
-########### Figura 1: NEP na Câmara dos Deputados
+########### Figura 1: NEP na Câmara dos Deputados #########
 
 nep_cadeira <- read_csv("outputs/data/nep_cadeiras_br_86_22.csv")
 
@@ -70,9 +70,51 @@ df %>%
 ggsave("otputs/figuras/figura2.jpeg", width = 8,height = 10)
 
 
+
+########## Figura 3: NEP por estado
+
+nep_uf <- read_csv("outputs/data/nep_cadeira_voto_uf.csv")
+
+
+nep_uf %>% 
+  
+  ggplot(aes(ANO_ELEICAO, nep, color= ambito)) +
+  geom_line(size= 0.3)+
+  geom_point(size=0.7) +
+  scale_y_continuous( name = "",limits=c(0, 20)) +
+  facet_wrap(~ ESTADOS, ncol = 5) +
+  theme_bw ()+
+  scale_color_brewer(palette = "Dark2") +
+  background_grid(major = 'y', minor = "none") +
+  scale_x_continuous(breaks = c(1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022),
+                     labels = c("94", "98", "02", "06", "10", "14", "18", "22")) +
+  
+  labs(title = "",
+       subtitle = "", 
+       fill = "",
+       color = "", 
+       x = NULL, 
+       y = NULL,
+       caption = "Autor: Jairo Nicolau; Fonte: Dados do TSE") +
+  
+  theme(strip.text = element_text(face = "bold"),
+        plot.title = element_text(face = "bold"),
+        axis.text.x = element_text(size=9),
+        legend.position = "bottom") 
+
+
+ggsave("figuras/figura3.jpeg",
+       width = 8,   # 8
+       height = 10)  #9.5
+
+
+
+
+
+
 #filter (ESTADOS %in% c ("Acre", "Alagoas", "Roraima", 
-"Rondônia", "Amapá", "Distrito Federal", "Sergipe", 
-"M. G. do Sul", "R. G. do Norte", "Piauí","Espírito Santo", 
-"Mato Grosso", "Tocantins", "Paraíba")) 
+#"Rondônia", "Amapá", "Distrito Federal", "Sergipe", 
+#"M. G. do Sul", "R. G. do Norte", "Piauí","Espírito Santo", 
+#"Mato Grosso", "Tocantins", "Paraíba")) 
 
 

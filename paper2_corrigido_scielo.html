@@ -21,6 +21,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 /* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
@@ -161,10 +195,66 @@ div.csl-indent {
 <p>Podemos observar que o número de partidos que participa das eleições declina acentuadamente em todos os estados e no Distrito Federal em 2022. Em muitos estados o total de competidores volta ao nível de 1998, período em que a fragmentação partidária não era tão acentuada. Tanto a intensidade da queda quanto o fato de ela ter acontecido em todas as unidades da federação são elementos que indicam que nova legislação eleitoral provavelmente foi importante na decisão de os partidos não apresentarem candidatos.</p>
 <p>Vale a pena relembrar como as regras ficaram mais restritivas para os pequenos partidos a partir de 2019. Dez legendas perderam recursos significativos (deixaram de receber dinheiro do Fundo Partidário, e competiram em 2020 e 2022 sem propaganda política no rádio e na televisão) e obtiveram um pequeno percentual do Fundo Eleitoral. Além disso, as eleições municipais de 2020 mostraram que o fim coligações reduziu o número de legendas nas Câmaras Municipais.</p>
 <p>Na Figura 2 podemos também observar o efeito do sistema eleitoral sobre a representação dos partidos. A linha inferior de cada painel mostra que o número de partidos que elege representante também caiu em todos as unidades da federação em 2022. Em seis estados (Acre, Amapá, Mato Grosso, Piauí, Rio Grande do Norte e Rondônia) a bancada eleita é composta por apenas três partidos; há mais de 20 anos que isso não acontecia (a última vez que apenas três partidos elegeram representantes foi em 1998).</p>
-<p>Figura 2: Total de partidos que concorre e elegem deputados federais por unidade da federação, 1998-2022.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-concorre" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="paper2_corrigido_scielo_files/figure-html/fig-concorre-1.png" class="img-fluid figure-img" width="768"></p>
+<p></p><figcaption class="figure-caption">Figura&nbsp;2: Total de partidos que concorreu e elegeu deputados federais por unidade da federação, 1998-2022</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
 <p>Para além da simples contagem do total de partidos que concorre e elege representantes, vale a pena observar o grau de concentração/dispersão dos votos e das bancadas de cada estado. A Figura 3 mostra o <em>número efetivo de partidos</em>, com base nos votos e cadeiras entre 1998 e 2022.</p>
 <p>Tanto a fragmentação eleitoral quanto a parlamentar caíram em todos estados e no Distrito Federal. A Figura 3 mostra que a evolução do NEP tem padrões muito diferenciados nos estados ao longo do período, mas em todas elas – com exceção do Rio de Janeiro – a dispersão eleitoral chegaria ao patamar máximo no pleito de 2018. Com relação à fragmentação parlamentar, observamos uma redução significativa em 2022, particularmente nos estados que elegem até 10 representantes: em 14 unidades da federação o NEP foi inferior a 5.0 (quatro anos, antes isso não havia acontecido em nenhum estado).</p>
-<p>Figura 3: Número efetivo de partido (NEP) por unidade da federação. Votos e cadeiras. Câmara do Deputados (1998-2022).</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">#| message: false</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co">#| warning: false</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co">#| echo: false</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">#| eval: true</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co">#| label: fig-concorre</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co">#| fig-cap: "Número efetivo de partido (NEP) por unidade da federação. Votos e cadeiras. Câmara do Deputados (1998-2022)"</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>nep_uf <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="st">"outputs/data/nep_cadeira_voto_uf.csv"</span>)</span></code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Rows: 484 Columns: 4
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ","
+chr (2): ESTADOS, ambito
+dbl (2): ANO_ELEICAO, nep
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>nep_uf <span class="sc">%&gt;%</span> </span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a> </span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(ANO_ELEICAO, nep, <span class="at">color=</span> ambito)) <span class="sc">+</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">size=</span> <span class="fl">0.3</span>)<span class="sc">+</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>(<span class="at">size=</span><span class="fl">0.7</span>) <span class="sc">+</span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_y_continuous</span>( <span class="at">name =</span> <span class="st">""</span>,<span class="at">limits=</span><span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">20</span>)) <span class="sc">+</span></span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">facet_wrap</span>(<span class="sc">~</span> ESTADOS, <span class="at">ncol =</span> <span class="dv">5</span>) <span class="sc">+</span></span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_bw</span> ()<span class="sc">+</span></span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_color_brewer</span>(<span class="at">palette =</span> <span class="st">"Dark2"</span>) <span class="sc">+</span></span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">background_grid</span>(<span class="at">major =</span> <span class="st">'y'</span>, <span class="at">minor =</span> <span class="st">"none"</span>) <span class="sc">+</span></span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_continuous</span>(<span class="at">breaks =</span> <span class="fu">c</span>(<span class="dv">1994</span>, <span class="dv">1998</span>, <span class="dv">2002</span>, <span class="dv">2006</span>, <span class="dv">2010</span>, <span class="dv">2014</span>, <span class="dv">2018</span>, <span class="dv">2022</span>),</span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>                     <span class="at">labels =</span> <span class="fu">c</span>(<span class="st">"94"</span>, <span class="st">"98"</span>, <span class="st">"02"</span>, <span class="st">"06"</span>, <span class="st">"10"</span>, <span class="st">"14"</span>, <span class="st">"18"</span>, <span class="st">"22"</span>)) <span class="sc">+</span></span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">""</span>,</span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>       <span class="at">subtitle =</span> <span class="st">""</span>, </span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>       <span class="at">fill =</span> <span class="st">""</span>,</span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>       <span class="at">color =</span> <span class="st">""</span>, </span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>       <span class="at">x =</span> <span class="cn">NULL</span>, </span>
+<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>       <span class="at">y =</span> <span class="cn">NULL</span>,</span>
+<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>       <span class="at">caption =</span> <span class="st">"Autor: Jairo Nicolau; Fonte: Dados do TSE"</span>) <span class="sc">+</span></span>
+<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a><span class="fu">theme</span>(<span class="at">strip.text =</span> <span class="fu">element_text</span>(<span class="at">face =</span> <span class="st">"bold"</span>),</span>
+<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>        <span class="at">plot.title =</span> <span class="fu">element_text</span>(<span class="at">face =</span> <span class="st">"bold"</span>),</span>
+<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a>        <span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">size=</span><span class="dv">9</span>),</span>
+<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a>        <span class="at">legend.position =</span> <span class="st">"bottom"</span>) </span></code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="paper2_corrigido_scielo_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
 <p><strong>Conclusão</strong></p>
 <p>Entre 1986 – quando foram realizadas as primeiras eleições para a Câmara dos Deputados realizadas após o fim do Regime Militar – e 2018, os partidos tiveram a opção de se coligarem nas eleições para cargos proporcionais. Amplo uso das coligações pelos partidos foi um dos fatores que mais contribuiu para tornar a o sistema partidário brasileiro o mais fragmentado do mundo. Além da possibilidade de coligação os menores partidos se beneficiaram de regras liberais que lhes garantiu acesso aos recursos do Fundo Partidário e à propaganda gratuita no rádio e televisão.</p>
 <p>A partir de 2019, os partidos começam a ser afetados por um conjunto de reformas da legislação eleitoral. Pela primeira vez, algumas legendas deixaram de receber recursos do Fundo Partidário, e disputaram eleições (2020 e 2022) sem acesso à propaganda gratuita. A adoção da cláusula de desempenho e, sobretudo, o fim das coligações afetaram os pequenos partidos e foram determinantes para a redução da fragmentação partidária observada em 2022. O total de partidos que concorre e elege representantes teve uma queda significativa nas eleições de 2022; em muitas em unidades da federação o número de legendas voltou ao mesmo patamar dos anos 1990. O mesmo processo também é observado na dispersão dos votos e do poder parlamentar: a fragmentação caiu em todos os estados e no Distrito Federal.</p>
